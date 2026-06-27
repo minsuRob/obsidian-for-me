@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39ab18f172612ff0",
+        "id": "41bea413088477c3",
         "type": "tabs",
         "children": [
           {
-            "id": "a197e203490407b2",
+            "id": "d026fd9f9a577c30",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#도파민을",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/소설/무제 1.md",
+                "file": "book/소설/가면산장 살인사건.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "무제 1 의 백링크"
+              "title": "가면산장 살인사건 의 백링크"
             }
           },
           {
@@ -184,13 +185,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a197e203490407b2",
+  "active": "d026fd9f9a577c30",
   "lastOpenFiles": [
+    "obsidian-common/옵시디언 문법.md",
     "book/소설/가면산장 살인사건.md",
-    "book/소설/가면산장 살인사건.md",
+    "book/소설/독서 DB.base",
+    "무제.md",
+    "book/Templates/템플릿.md",
+    "무제.base",
+    "2026-06-27.md",
+    "book/무제.base",
     "무제 1.md",
     "book/소설/히가시노 게이고.md",
-    "무제.md",
     "book/Templates/무제.md"
   ]
 }

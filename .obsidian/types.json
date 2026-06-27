@@ -5,6 +5,7 @@
     "tags": "tags",
     "읽기 시작한 날짜": "date",
     "상태": "text",
-    "분야": "multitext"
+    "분야": "multitext",
+    "평가": "number"
   }
 }

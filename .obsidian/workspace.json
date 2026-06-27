@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21d97ad9bf564552",
+            "id": "a197e203490407b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "book/소설/가면산장 살인사건.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "가면산장 살인사건"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "book/소설/무제 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "무제 1 의 백링크"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "book/소설/무제 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "무제 1 의 나가는 링크"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "book/소설/무제 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "무제 1 의 개요"
             }
           }
         ]
@@ -173,9 +180,17 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "21d97ad9bf564552",
-  "lastOpenFiles": []
+  "active": "a197e203490407b2",
+  "lastOpenFiles": [
+    "book/소설/가면산장 살인사건.md",
+    "book/소설/가면산장 살인사건.md",
+    "무제 1.md",
+    "book/소설/히가시노 게이고.md",
+    "무제.md",
+    "book/Templates/무제.md"
+  ]
 }

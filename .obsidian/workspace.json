@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/소설/한 여름의 방정식.md",
+                "file": "book/소설/2025/십계.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "한 여름의 방정식"
+              "title": "십계"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5
   },
   "right": {
     "id": "42129673d9d74888",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/소설/한 여름의 방정식.md",
+                "file": "book/소설/2025/십계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "한 여름의 방정식 의 백링크"
+              "title": "십계 의 백링크"
             }
           },
           {
@@ -186,13 +186,17 @@
   },
   "active": "d026fd9f9a577c30",
   "lastOpenFiles": [
-    "book/소설/두산베어스 때문에 산다.md",
-    "book/소설/한 여름의 방정식.md",
-    "book/소설/부드러운 볼.md",
-    "book/소설/깊은 슬픔.md",
-    "book/소설/독서 DB.base",
+    "book/소설/2026/가면산장 살인사건.md",
+    "book/소설/2025/십계.md",
+    "book/소설/2026",
+    "book/소설/2026/한 여름의 방정식.md",
+    "book/소설/2025",
+    "book/소설/2026/두산베어스 때문에 산다.md",
+    "book/소설/2026/부드러운 볼.md",
+    "2026-01-20.md",
+    "book/소설/2026/깊은 슬픔.md",
+    "book/소설/2026/독서 DB.base",
     "ㅇㅇ.md",
-    "book/소설/가면산장 살인사건.md",
     "book/소설/가나.md",
     "obsidian-common/옵시디언 문법.md",
     "book/Templates/템플릿.md",

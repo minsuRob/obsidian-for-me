@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/소설/2025/십계.md",
+                "file": "Personal/opposite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "십계"
+              "title": "opposite"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/소설/2025/십계.md",
+                "file": "Personal/opposite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "십계 의 백링크"
+              "title": "opposite 의 백링크"
             }
           },
           {
@@ -186,8 +186,11 @@
   },
   "active": "d026fd9f9a577c30",
   "lastOpenFiles": [
-    "book/소설/2026/가면산장 살인사건.md",
     "book/소설/2025/십계.md",
+    "Personal/opposite.md",
+    "Personal",
+    "무제.md",
+    "book/소설/2026/가면산장 살인사건.md",
     "book/소설/2026",
     "book/소설/2026/한 여름의 방정식.md",
     "book/소설/2025",

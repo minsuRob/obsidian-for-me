@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.inFolder("Work/Markhub-LLMWiki/20_Tracking/tasks")
+views:
+  - type: table
+    name: 일감 현황
+    order:
+      - file.name
+      - 우선순위
+      - 상태
+      - 프로젝트
+      - 마감
+    sort:
+      - property: 우선순위
+        direction: ASC
+      - property: 상태
+        direction: ASC
+  - type: table
+    name: 진행중만
+    filters:
+      and:
+        - 상태 == "진행중"
+    order:
+      - file.name
+      - 우선순위
+      - 프로젝트
+      - 마감
+    sort:
+      - property: 우선순위
+        direction: ASC

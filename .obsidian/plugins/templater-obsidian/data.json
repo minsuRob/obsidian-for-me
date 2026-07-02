@@ -17,6 +17,30 @@
     {
       "folder": "book/소설",
       "template": "book/Templates/템플릿.md"
+    },
+    {
+      "folder": "Work/Markhub-LLMWiki/20_Tracking/daily",
+      "template": "Work/Markhub-LLMWiki/_templates/daily.md"
+    },
+    {
+      "folder": "Work/Markhub-LLMWiki/20_Tracking/weekly",
+      "template": "Work/Markhub-LLMWiki/_templates/weekly.md"
+    },
+    {
+      "folder": "Work/Markhub-LLMWiki/20_Tracking/tasks",
+      "template": "Work/Markhub-LLMWiki/_templates/task.md"
+    },
+    {
+      "folder": "Work/Markhub-LLMWiki/10_Wiki/concepts",
+      "template": "Work/Markhub-LLMWiki/_templates/wiki-concept.md"
+    },
+    {
+      "folder": "Work/Markhub-LLMWiki/10_Wiki/entities",
+      "template": "Work/Markhub-LLMWiki/_templates/wiki-entity.md"
+    },
+    {
+      "folder": "Work/Markhub-LLMWiki/10_Wiki/projects",
+      "template": "Work/Markhub-LLMWiki/_templates/wiki-project.md"
     }
   ],
   "enable_file_templates": false,

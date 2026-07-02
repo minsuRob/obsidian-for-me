@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "41bea413088477c3",
+        "id": "8739a223b10bc119",
         "type": "tabs",
         "children": [
           {
-            "id": "d026fd9f9a577c30",
+            "id": "c9a2c23e68473966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/소설/2026/몽환화.md",
+                "file": "obsidian-common/옵시디언 구축.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "몽환화"
+              "title": "옵시디언 구축"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/소설/2026/몽환화.md",
+                "file": "obsidian-common/옵시디언 구축.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "몽환화 의 백링크"
+              "title": "옵시디언 구축 의 백링크"
             }
           },
           {
@@ -184,14 +184,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d026fd9f9a577c30",
+  "active": "c9a2c23e68473966",
   "lastOpenFiles": [
-    "무제.base",
+    "Pasted image 20260702215839.png",
+    "Travel/대만/비행기.md",
+    "Pasted image 20260702211827.png",
+    "obsidian-common/옵시디언 구축.md",
+    "Travel/대만",
+    "Travel",
+    "무제.md",
+    "DEV",
+    "book/소설/2026/독서 DB.base",
+    "BookDB.base",
     "Personal/opposite.md",
     "book/소설/2026/몽환화.md",
     "book/소설/2025/십계.md",
     "Personal",
-    "무제.md",
     "book/소설/2026/가면산장 살인사건.md",
     "book/소설/2026",
     "book/소설/2026/한 여름의 방정식.md",
@@ -200,7 +208,6 @@
     "book/소설/2026/부드러운 볼.md",
     "2026-01-20.md",
     "book/소설/2026/깊은 슬픔.md",
-    "book/소설/2026/독서 DB.base",
     "ㅇㅇ.md",
     "book/소설/가나.md",
     "obsidian-common/옵시디언 문법.md",

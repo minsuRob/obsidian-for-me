@@ -1,0 +1,25 @@
+filters:
+  and:
+    - file.inFolder("Work/Markhub-LLMWiki/20_Tracking/daily")
+views:
+  - type: table
+    name: 데일리 현황
+    order:
+      - 날짜
+      - 주차
+      - 집중시간
+      - 블로커
+    sort:
+      - property: 날짜
+        direction: DESC
+  - type: table
+    name: 블로커 있는 날
+    filters:
+      and:
+        - 블로커 == true
+    order:
+      - 날짜
+      - 집중시간
+    sort:
+      - property: 날짜
+        direction: DESC

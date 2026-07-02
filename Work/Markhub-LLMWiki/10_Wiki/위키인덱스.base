@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.inFolder("Work/Markhub-LLMWiki/10_Wiki")
+views:
+  - type: table
+    name: 전체 위키
+    order:
+      - file.name
+      - 유형
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+  - type: table
+    name: 개념(concepts)
+    filters:
+      and:
+        - 유형 == "concept"
+    order:
+      - file.name
+      - file.mtime
+  - type: table
+    name: 프로젝트(projects)
+    filters:
+      and:
+        - 유형 == "project"
+    order:
+      - file.name
+      - 상태
+      - 우선순위

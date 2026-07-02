@@ -17,6 +17,26 @@
     {
       "folder": "book/소설",
       "template": "book/Templates/템플릿.md"
+    },
+    {
+      "folder": "Work/Markhub-LLMWiki/inbox",
+      "template": "Work/Markhub-LLMWiki/Templates/회의록.md"
+    },
+    {
+      "folder": "Work/Markhub-LLMWiki/wiki/features",
+      "template": "Work/Markhub-LLMWiki/Templates/Feature.md"
+    },
+    {
+      "folder": "Work/Markhub-LLMWiki/wiki/vendors",
+      "template": "Work/Markhub-LLMWiki/Templates/Vendor.md"
+    },
+    {
+      "folder": "Work/Markhub-LLMWiki/reports/daily",
+      "template": "Work/Markhub-LLMWiki/Templates/일일보고.md"
+    },
+    {
+      "folder": "Work/Markhub-LLMWiki/reports/weekly",
+      "template": "Work/Markhub-LLMWiki/Templates/주간회의.md"
     }
   ],
   "enable_file_templates": false,
@@ -37,7 +57,10 @@
   "intellisense_render": 1,
   "ignore_folders_on_creation": [
     {
-      "folder": ""
+      "folder": "Work/Markhub-LLMWiki/Templates"
+    },
+    {
+      "folder": "Work/Markhub-LLMWiki/raw"
     }
   ]
 }

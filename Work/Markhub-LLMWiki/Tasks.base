@@ -1,0 +1,37 @@
+filters:
+  and:
+    - file.inFolder("Work/Markhub-LLMWiki/wiki")
+    - 유형 != "meeting"
+    - 유형 != "vendor"
+properties:
+  note.상태:
+    displayName: 상태
+  note.우선순위:
+    displayName: 우선순위
+  note.최종수정:
+    displayName: 최종수정
+views:
+  - type: table
+    name: 업무보드
+    order:
+      - file.name
+      - 상태
+      - 우선순위
+      - 최종수정
+    sort:
+      - property: 우선순위
+        direction: ASC
+      - property: 최종수정
+        direction: DESC
+  - type: table
+    name: 진행중만
+    filters:
+      and:
+        - 상태 == "진행중"
+    order:
+      - file.name
+      - 우선순위
+      - 최종수정
+    sort:
+      - property: 우선순위
+        direction: ASC

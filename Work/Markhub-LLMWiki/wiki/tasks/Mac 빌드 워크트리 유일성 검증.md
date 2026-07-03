@@ -32,7 +32,7 @@
 3. **고아 워크트리 누적**: detached 빌드가 강제 종료되면 `maki-electron-worktrees/`·`maki-ios-worktrees/` 하위 디렉토리가 잔존 가능 → 디스크 증가. 주기적 `git worktree prune` + 고아 정리 필요.
 4. **index.lock 잔존**: frontend 공유 워크트리는 존재하면 재생성 안 하고 `reset --hard`만 함. 강제 종료로 `.git/worktrees/frontend-validate/index.lock`이 남으면 다음 `reset` 실패 가능. → 사전 `rm -f index.lock` 가드 검토.
 
-## 검증 방법 (다음 액션, 확인 필요 ❓ — 실제로 돌려볼지)
+## 검증 방법 (다음 액션 — 결정 ✅ 2026-07-03: 지금은 위키 기록만, 실측/코드변경 보류)
 - Mac에서 `git worktree list --porcelain`로 현재 워크트리/고아 확인.
 - 취소된 frontend 빌드가 remote 프로세스를 실제로 죽이는지 실험(빌드 중 취소 → `pgrep` 확인).
 - frontend 빌드에 락(mkdir/flock) 또는 런별 워크트리(`run-${run_id}` 방식) 도입 PoC.

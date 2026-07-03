@@ -13,3 +13,8 @@
 - MAKi 코드(`MobileMarkComposer.tsx`, `MessageContainer.web.tsx`, `staging-deploy.yml` + 원격 스크립트) 정독.
 - 개념 1 + 일감 3 생성: [[멘션 인프라 (Lexical)]], [[모바일 컴포저 멘션]], [[웹 assign 일감 언급]], [[Mac 빌드 워크트리 유일성 검증]].
 - 검증 발견: electron/ios는 런별 워크트리+락으로 견고, frontend validate는 공유 워크트리+무락 위험.
+
+## [2026-07-03] query | 3개 과제 구현 방향 결정
+- [[모바일 컴포저 멘션]]: 옵션 B 완전 네이티브(iOS SwiftUI + Android Compose) 채택.
+- [[웹 assign 일감 언급]]: /assign 슬래시 커맨드 방식 채택.
+- [[Mac 빌드 워크트리 유일성 검증]]: 지금은 위키 기록만, 실측/코드변경 보류.

@@ -23,10 +23,10 @@
   - `MessageContainer.web.tsx`는 상태관리 + 에디터 마운트 지점. assign 훅: `useCreateBucketItem`, `useAssignBucketItemUser`.
 - **없는 것**: 에디터 안에서 "forward처럼" 일감을 골라 넣는 UX, 그리고 **멘션 선택 후 자동 할당** 연결.
 
-## 구현 옵션 (확인 필요 ❓)
-- **A. `/assign` 슬래시 커맨드(추천)**: 기존 `SlashPrefixPlugin` 활용 → `/assign` 입력 시 ForwardPanel류 모달 → 선택 시 MentionNode 삽입 + `useAssignBucketItemUser` 호출.
-- **B. 에디터 내 `/` 메뉴에 "Assign Todo" 액션**: Notion식. 클릭 → BucketPicker 모달(Forward처럼) → 삽입.
-- **C. 기존 `@` 멘션 강화**: 멘션 메뉴에 "Quick Assign(최근 할 일 3개)" 섹션 추가.
+## 구현 방향 (결정 ✅ 2026-07-03: /assign 슬래시 커맨드)
+- **채택: A. `/assign` 슬래시 커맨드** — 기존 `SlashPrefixPlugin` 활용. `/assign` 입력 → ForwardPanel류 모달(검색·선택·미리보기) → 선택 시 MentionNode 삽입 + `useAssignBucketItemUser` 자동 할당.
+- 반려: B(`/` 메뉴 액션), C(`@` 멘션 강화).
+- 이유: "forward 느낌"을 가장 직접적으로 재현하고, 기존 SlashPrefix·ForwardPanel 자산을 최대 재사용.
 
 ## 만들 조각
 - 삽입 후 액션 훅 연결: `handleMentionSelect` → `useAssignBucketItemUser` (선택 시 실제 할당까지).
@@ -34,6 +34,7 @@
 
 ## 타임라인
 - 2026-07-03: MAKi 코드 조사. 멘션/포워드 인프라 대부분 존재, "에디터 내 forward UX + 선택 후 자동 할당"만 신규로 확인 (출처: [[2026-07-03]]).
+- 2026-07-03: **`/assign` 슬래시 커맨드 방식 채택** 결정.
 
 ## 관련
 - [[멘션 인프라 (Lexical)]]

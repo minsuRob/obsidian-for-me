@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 264.5
   },
   "right": {
     "id": "42129673d9d74888",
@@ -185,6 +185,10 @@
   },
   "active": "d026fd9f9a577c30",
   "lastOpenFiles": [
+    "obsidian-common/옵시디언 구축.md",
+    "obsidian-common/옵시디언 문법.md",
+    "Personal/opposite.md",
+    "Work/Markhub/핵심요소..md",
     "Work/Markhub-LLMWiki/wiki/concepts/MAKi MCP 메시지 포맷.md",
     "Work/Markhub-LLMWiki/raw/daily/2026-07-03.md",
     "book/소설/2026/몽환화.md",
@@ -206,7 +210,6 @@
     "Work/Markhub-LLMWiki/wiki/concepts",
     "Work/Markhub-LLMWiki/raw/daily",
     "Work/Markhub-LLMWiki/Templates 2",
-    "Work/Markhub/핵심요소..md",
     "Work/Markhub",
     "Work/Markhub-LLMWiki/wiki/vendors/Vendor-TossPay.md",
     "Work/Markhub-LLMWiki/wiki/vendors",
@@ -215,10 +218,7 @@
     "Work/Markhub-LLMWiki/wiki/features/Feature-Chat.md",
     "Work/Markhub-LLMWiki/wiki/features",
     "Work/Markhub-LLMWiki/wiki/meetings/2026-07-02_토스페이-결제연동.md",
-    "Work/Markhub-LLMWiki/wiki/meetings/2026-06-25_결제연동-킥오프.md",
     "Work/Markhub-LLMWiki/wiki/meetings",
-    "Work/Markhub-LLMWiki/Templates/회의록.md",
-    "Work/Markhub-LLMWiki/Templates/주간회의.md",
     "Work/Markhub-LLMWiki/Templates",
     "Work/Markhub-LLMWiki/reports/weekly",
     "Pasted image 20260702220456.png"

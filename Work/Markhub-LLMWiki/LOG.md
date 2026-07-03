@@ -18,3 +18,7 @@
 - [[모바일 컴포저 멘션]]: 옵션 B 완전 네이티브(iOS SwiftUI + Android Compose) 채택.
 - [[웹 assign 일감 언급]]: /assign 슬래시 커맨드 방식 채택.
 - [[Mac 빌드 워크트리 유일성 검증]]: 지금은 위키 기록만, 실측/코드변경 보류.
+
+## [2026-07-03] query | MAKi MCP 메시지 포맷 차이 정리
+- Cursor 전송본과 Codex 전송본의 렌더링 차이를 관찰하고, raw/daily와 wiki/concepts에 각각 반영했다.
+- 권장 포맷은 `제목 + 번호 목록 + 하위 bullet` 구조.

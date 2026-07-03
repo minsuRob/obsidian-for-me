@@ -22,6 +22,7 @@ _최종 갱신: 2026-07-03_
 | 페이지 | 한 줄 요약 |
 |--------|-----------|
 | [[멘션 인프라 (Lexical)]] | MAKi 사람·일감 멘션의 공통 뿌리 (MentionNode/MentionsPlugin/제안 훅) |
+| [[MAKi MCP 메시지 포맷]] | Cursor/Codex 메시지 전송 포맷 차이와 권장 구조 |
 
 ## 🗓 회의 (meetings)
 _아직 없음._

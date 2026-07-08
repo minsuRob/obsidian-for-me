@@ -22,3 +22,13 @@
 ## [2026-07-03] query | MAKi MCP 메시지 포맷 차이 정리
 - Cursor 전송본과 Codex 전송본의 렌더링 차이를 관찰하고, raw/daily와 wiki/concepts에 각각 반영했다.
 - 권장 포맷은 `제목 + 번호 목록 + 하위 bullet` 구조.
+
+## [2026-07-08] ingest | 리서치 갈래 신설 + 클로드 활용 리서치 개설
+- raw/research/, wiki/research/ 구조 신설 (CLAUDE.md·INDEX 반영)
+- 주제 "클로드 활용 / deep dive" 폴더(_sources.md + instagram/youtube/web)와 [[클로드 활용 리서치]] 스켈레톤 생성. 데이터 수집 대기.
+
+## [2026-07-08] ingest | AI 시대 개발자 성장 (카파시 1000x) 자료 수집 + 정제
+- 웹에서 7개 소스 수집 → raw/research/AI시대-개발자-성장/ (youtube 1 + web 6, instagram 없음)
+- 1차(Sequoia Ascent transcript)·해설·비판(주니어 파이프라인/comprehension debt) 균형 확보
+- [[AI 시대 개발자 성장]] 정제 페이지 생성, [[클로드 활용 리서치]]와 양방향 링크, INDEX 등록
+- 예외 기록: 사용자 지시로 AI가 raw에 수집 대행(기존 raw 미수정, 새 주제 폴더에만 추가)

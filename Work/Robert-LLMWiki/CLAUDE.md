@@ -22,9 +22,13 @@ Work/Markhub-LLMWiki/
 ├── LOG.md           ← 무슨 작업을 언제 했는지 기록 (append-only)
 ├── raw/             ← 원본층. 사람이 던지는 곳. AI는 읽기만, 절대 수정 금지 ❗
 │   ├── README.md    ← 사용 안내
-│   └── daily/       ← 날짜별 데일리노트 (YYYY-MM-DD.md)
+│   ├── daily/       ← 날짜별 데일리노트 (YYYY-MM-DD.md)
+│   └── research/    ← 주제별 원자료 덤프 (스크랩·수집). 주제마다 폴더 하나
+│       └── {주제}/  ← _sources.md(출처 로그) + 소스별 하위 폴더(instagram/youtube/web…)
 ├── wiki/            ← 정제층. AI가 전적으로 소유·생성·갱신
-│   └── tasks/       ← 일감 페이지 (업무 트래킹의 핵심)
+│   ├── tasks/       ← 일감 페이지 (업무 트래킹의 핵심)
+│   ├── concepts/    ← 개념 페이지
+│   └── research/    ← 리서치 정제 페이지 (raw/research를 흡수한 결과)
 └── templates/       ← 데일리노트 템플릿
 ```
 
@@ -48,7 +52,7 @@ Work/Markhub-LLMWiki/
 
 ```yaml
 ---
-유형: 일감          # 일감 | 회의 | 개념 | 사람
+유형: 일감          # 일감 | 회의 | 개념 | 사람 | 리서치
 상태: 진행중        # 진행중 | 완료 | 보류 | 대기   (일감/회의에만)
 우선순위: 최우선     # 최우선 | 중간 | 하순위        (일감에만)
 생성일: 2026-07-02

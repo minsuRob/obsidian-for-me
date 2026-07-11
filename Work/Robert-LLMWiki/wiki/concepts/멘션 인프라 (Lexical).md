@@ -8,7 +8,7 @@
 
 # 멘션 인프라 (Lexical)
 
-MAKi의 **사람·일감(todo/note) 멘션**은 웹(Lexical)에서 이미 완성돼 있고, [[모바일 컴포저 멘션]]과 [[웹 assign 일감 언급]] 둘 다 이 인프라 위에서 만든다. 지식 복리의 공통 뿌리 페이지.
+MAKi의 **사람·일감(todo/note) 멘션**은 웹(Lexical)에서 이미 완성돼 있고, 모바일 컴포저 멘션과 웹 assign 일감 언급 둘 다 이 인프라 위에서 만든다 (관련 일감 페이지는 삭제됨, 2026-07-11). 지식 복리의 공통 뿌리 페이지.
 
 ## 핵심 구성요소 (MAKi 리포지토리)
 - **MentionNode** — `apps/front/components/lexical/mention/MentionNode.ts`
@@ -30,5 +30,4 @@ MAKi의 **사람·일감(todo/note) 멘션**은 웹(Lexical)에서 이미 완성
 - **forward 느낌**(웹 목표): `apps/front/components/forward/ForwardPanel.tsx`의 검색→선택→미리보기 UX. `buildBucketMentionForwardContent()`가 일감을 Lexical JSON 멘션으로 만들어 전송.
 
 ## 관련
-- [[모바일 컴포저 멘션]]
-- [[웹 assign 일감 언급]]
+_관련 일감 페이지 없음 (2026-07-11 일감 정리 시 삭제됨)._

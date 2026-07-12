@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/opposite.md",
+                "file": "book/소설/2026/몽환화.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "opposite"
+              "title": "몽환화"
             }
           }
         ]
@@ -184,8 +184,9 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "14b376beb1f3cad5",
+  "active": "d026fd9f9a577c30",
   "lastOpenFiles": [
+    "Personal/opposite.md",
     "Work/Robert-LLMWiki/wiki/tasks/LLM 공부.md",
     "Work/Robert-LLMWiki/wiki/tasks/오픈 헤르메스 개발.md",
     "Work/Robert-LLMWiki/wiki/tasks/애플워치에 화면 연동하기.md",
@@ -212,7 +213,6 @@
     "Work/Robert-LLMWiki/raw/research/클로드-활용",
     "Work/Robert-LLMWiki/raw/research",
     "Dev/Claude/무제.md",
-    "Personal/opposite.md",
     "Work/Markhub/핵심요소..md",
     "obsidian-common/옵시디언 구축.md",
     "obsidian-common/옵시디언 문법.md",

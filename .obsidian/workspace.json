@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "42129673d9d74888",
@@ -185,8 +184,12 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "d026fd9f9a577c30",
+  "active": "14b376beb1f3cad5",
   "lastOpenFiles": [
+    "Work/Robert-LLMWiki/raw/research/노마드-에이전트/youtube/01-내-감상.md",
+    "Work/Robert-LLMWiki/raw/research/노마드-에이전트/youtube",
+    "Work/Robert-LLMWiki/raw/research/노마드-에이전트/_sources.md",
+    "Work/Robert-LLMWiki/raw/research/노마드-에이전트",
     "Personal/opposite.md",
     "Work/Robert-LLMWiki/wiki/tasks/LLM 공부.md",
     "Work/Robert-LLMWiki/wiki/tasks/오픈 헤르메스 개발.md",
@@ -211,8 +214,6 @@
     "Work/Robert-LLMWiki/raw/research/클로드-활용/youtube",
     "Work/Robert-LLMWiki/raw/research/클로드-활용/web",
     "Work/Robert-LLMWiki/raw/research/클로드-활용/instagram",
-    "Work/Robert-LLMWiki/raw/research/클로드-활용",
-    "Work/Robert-LLMWiki/raw/research",
     "Dev/Claude/무제.md",
     "Work/Markhub/핵심요소..md",
     "obsidian-common/옵시디언 구축.md",
@@ -221,8 +222,6 @@
     "Work/Robert-LLMWiki/raw/daily/2026-07-03.md",
     "book/소설/2026/몽환화.md",
     "Work/Robert-LLMWiki/wiki/tasks/채팅창 Ctrl+Z 미동작.md",
-    "Work/Robert-LLMWiki/wiki/tasks/이모지 Detail View.md",
-    "Work/Robert-LLMWiki/wiki/tasks/Unread 이슈.md",
     "Pasted image 20260702220456.png"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Robert-LLMWiki/raw/research/노마드-에이전트/youtube/01-내-감상.md",
+                "file": "book/소설/2026/햄릿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-내-감상"
+              "title": "햄릿"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "d026fd9f9a577c30",
   "lastOpenFiles": [
-    "book/소설/2026/몽환화.md",
     "Work/Robert-LLMWiki/raw/research/노마드-에이전트/youtube/01-내-감상.md",
+    "book/소설/2026/햄릿.md",
+    "book/소설/2026/몽환화.md",
     "Work/Robert-LLMWiki/raw/research/노마드-에이전트/youtube",
     "Work/Robert-LLMWiki/raw/research/노마드-에이전트/_sources.md",
     "Work/Robert-LLMWiki/raw/research/노마드-에이전트",
@@ -221,7 +222,6 @@
     "obsidian-common/옵시디언 문법.md",
     "Work/Robert-LLMWiki/wiki/concepts/MAKi MCP 메시지 포맷.md",
     "Work/Robert-LLMWiki/raw/daily/2026-07-03.md",
-    "Work/Robert-LLMWiki/wiki/tasks/채팅창 Ctrl+Z 미동작.md",
     "Pasted image 20260702220456.png"
   ]
 }

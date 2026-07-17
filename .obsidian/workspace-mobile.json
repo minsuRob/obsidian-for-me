@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/소설/2026/몽환화.md",
+                "file": "book/소설/2026/햄릿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "몽환화"
+              "title": "햄릿"
             }
           }
         ]
@@ -169,13 +169,13 @@
   },
   "active": "94a61895a768b734",
   "lastOpenFiles": [
+    "book/소설/2026/몽환화.md",
     "obsidian-common/옵시디언 구축.md",
     "Travel/대만/비행기.md",
     "Travel/대만",
     "Travel",
     "무제",
     "Pasted image 20260702220456.png",
-    "book/소설/2026/몽환화.md",
     "무제.base"
   ]
 }

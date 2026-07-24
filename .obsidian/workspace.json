@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/소설/2026/햄릿.md",
+                "file": "book/소설/2026/이방인.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "햄릿"
+              "title": "이방인"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "42129673d9d74888",
@@ -175,20 +174,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "templater-obsidian:Templater": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
     }
   },
   "active": "d026fd9f9a577c30",
   "lastOpenFiles": [
     "book/소설/2026/이방인.md",
-    "Work/Robert-LLMWiki/raw/research/노마드-에이전트/youtube/01-내-감상.md",
     "book/소설/2026/햄릿.md",
+    "Work/Robert-LLMWiki/raw/research/노마드-에이전트/youtube/01-내-감상.md",
     "book/소설/2026/몽환화.md",
     "Work/Robert-LLMWiki/raw/research/노마드-에이전트/youtube",
     "Work/Robert-LLMWiki/raw/research/노마드-에이전트/_sources.md",

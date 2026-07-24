@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/소설/2026/이방인.md",
+                "file": "book/소설/2026/햄릿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이방인"
+              "title": "햄릿"
             }
           }
         ]
@@ -174,7 +174,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -186,9 +185,10 @@
   },
   "active": "d026fd9f9a577c30",
   "lastOpenFiles": [
+    "Pasted image 20260725014309.png",
     "book/소설/2026/이방인.md",
-    "book/소설/2026/햄릿.md",
     "Work/Robert-LLMWiki/raw/research/노마드-에이전트/youtube/01-내-감상.md",
+    "book/소설/2026/햄릿.md",
     "book/소설/2026/몽환화.md",
     "Work/Robert-LLMWiki/raw/research/노마드-에이전트/youtube",
     "Work/Robert-LLMWiki/raw/research/노마드-에이전트/_sources.md",
@@ -221,7 +221,6 @@
     "Work/Markhub/핵심요소..md",
     "obsidian-common/옵시디언 구축.md",
     "obsidian-common/옵시디언 문법.md",
-    "Work/Robert-LLMWiki/wiki/concepts/MAKi MCP 메시지 포맷.md",
     "Pasted image 20260702220456.png"
   ]
 }

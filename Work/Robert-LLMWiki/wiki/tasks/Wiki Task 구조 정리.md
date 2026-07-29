@@ -1,0 +1,3 @@
+- 디스코드, Message App
+- tailscale을 통한 orca 접근.
+- 

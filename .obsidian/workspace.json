@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ddaed86a3a575e9a",
+        "id": "41bea413088477c3",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/소설/2026/동물농장.md",
+                "file": "book/소설/2026/변신 시골의사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "동물농장"
+              "title": "변신 시골의사"
             }
           }
         ]
@@ -41,12 +41,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -176,13 +174,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "d026fd9f9a577c30",
@@ -193,11 +191,10 @@
     "Personal/무제",
     "Personal/무제.md",
     "book/소설/2026/투명한 나선.md",
-    "book/소설/2026/무제.md",
     "book/소설/2026/참을수 없는 존재의 가벼움.md",
     "book/소설/2026/동물농장.md",
-    "book/소설/2026/변신 시골의사.md",
     "Untitled.md",
+    "book/소설/2026/변신 시골의사.md",
     "book/소설/2026/햄릿.md",
     "Work/Robert-LLMWiki/wiki/tasks/LLM 당근에 로드..md",
     "book/소설/2026/바이브코딩이 바꾼 부의 공식.md",
@@ -210,6 +207,7 @@
     "Personal/메타퀘스트.md",
     "Work/Robert-LLMWiki/wiki/tasks/Wiki Task 구조 정리.md",
     "book/소설/2026/다잉 아이.md",
+    "book/소설/2026/무제.md",
     "book/소설/2026/붉은 손가락.md",
     "Pasted image 20260725014309.png",
     "book/소설/2026/이방인.md",

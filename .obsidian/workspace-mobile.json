@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "220c1c85470f4ebd",
+        "id": "187d9f53e5c5cdc2",
         "type": "tabs",
         "children": [
           {
-            "id": "94a61895a768b734",
+            "id": "69c9493e96ac0d1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Travel/대만/1) 선물줄사람.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "1) 선물줄사람"
             }
           }
         ]
@@ -165,7 +169,7 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "94a61895a768b734",
+  "active": "69c9493e96ac0d1f",
   "lastOpenFiles": [
     "Travel/대만/포스팅/음식리뷰.md",
     "Travel/대만/포스팅/음식리뷰 12.md",

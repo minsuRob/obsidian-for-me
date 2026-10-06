@@ -16,7 +16,7 @@
 ## 3층 구조 (가장 중요한 규칙)
 
 ```
-Work/Markhub-LLMWiki/
+Work/Robert-LLMWiki/
 ├── CLAUDE.md        ← 규칙서 (지금 이 파일)
 ├── INDEX.md         ← 위키 전체 목차. 질문 받으면 여기부터 읽는다
 ├── LOG.md           ← 무슨 작업을 언제 했는지 기록 (append-only)

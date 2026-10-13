@@ -1,0 +1,600 @@
+[
+  {
+    "kind": "youtube#playlist",
+    "etag": "ANeaqspbsjOp8DjFjNHeorFWwNw",
+    "id": "PLQTI7GmDkB0k",
+    "snippet": {
+      "publishedAt": "2026-10-06T14:38:12.392169Z",
+      "channelId": "UCT8gJDD-d4MCWCfmnFyqUBQ",
+      "title": "기타/확인 필요",
+      "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Xz3PRJeTP-8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Xz3PRJeTP-8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Xz3PRJeTP-8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Xz3PRJeTP-8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Xz3PRJeTP-8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "robertlee",
+      "localized": {
+        "title": "기타/확인 필요",
+        "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다."
+      }
+    },
+    "status": {
+      "privacyStatus": "private"
+    },
+    "contentDetails": {
+      "itemCount": 80
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "fkfDnP5qzJjMzORdtl91dzGUDzY",
+    "id": "PLfpkaZ6aZAlk",
+    "snippet": {
+      "publishedAt": "2026-10-06T14:38:10.949527Z",
+      "channelId": "UCT8gJDD-d4MCWCfmnFyqUBQ",
+      "title": "독서·학습·문화",
+      "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bemyU0bRDQ8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bemyU0bRDQ8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bemyU0bRDQ8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bemyU0bRDQ8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bemyU0bRDQ8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "robertlee",
+      "localized": {
+        "title": "독서·학습·문화",
+        "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다."
+      }
+    },
+    "status": {
+      "privacyStatus": "private"
+    },
+    "contentDetails": {
+      "itemCount": 301
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "2wigFm_YtYFhgvOq0AoQKU-VBOI",
+    "id": "PLNYPh-gP_jdA",
+    "snippet": {
+      "publishedAt": "2026-10-06T14:38:09.493918Z",
+      "channelId": "UCT8gJDD-d4MCWCfmnFyqUBQ",
+      "title": "기기·생활·팁",
+      "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QFvejbhjCuQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QFvejbhjCuQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QFvejbhjCuQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QFvejbhjCuQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QFvejbhjCuQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "robertlee",
+      "localized": {
+        "title": "기기·생활·팁",
+        "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다."
+      }
+    },
+    "status": {
+      "privacyStatus": "private"
+    },
+    "contentDetails": {
+      "itemCount": 133
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "82rU7vCXUZN6ylADi0_XfXZT5_I",
+    "id": "PLYP0pmxCBZfc",
+    "snippet": {
+      "publishedAt": "2026-10-06T14:38:07.918995Z",
+      "channelId": "UCT8gJDD-d4MCWCfmnFyqUBQ",
+      "title": "여행·장소·활동",
+      "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Lg61RnS-pwU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Lg61RnS-pwU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Lg61RnS-pwU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Lg61RnS-pwU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Lg61RnS-pwU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "robertlee",
+      "localized": {
+        "title": "여행·장소·활동",
+        "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다."
+      }
+    },
+    "status": {
+      "privacyStatus": "private"
+    },
+    "contentDetails": {
+      "itemCount": 95
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "QYld6hrgqS12HlMz3xtzkF45a7w",
+    "id": "PLEemn3zqp2RQ",
+    "snippet": {
+      "publishedAt": "2026-10-06T14:38:06.25211Z",
+      "channelId": "UCT8gJDD-d4MCWCfmnFyqUBQ",
+      "title": "돈·경제",
+      "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/syPoLiVukWc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/syPoLiVukWc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/syPoLiVukWc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/syPoLiVukWc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/syPoLiVukWc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "robertlee",
+      "localized": {
+        "title": "돈·경제",
+        "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다."
+      }
+    },
+    "status": {
+      "privacyStatus": "private"
+    },
+    "contentDetails": {
+      "itemCount": 36
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "xrJ2DsAL_FdqVeLuvLkbJ04-KXY",
+    "id": "PLF2FEiMcvvww",
+    "snippet": {
+      "publishedAt": "2026-10-06T14:38:04.933491Z",
+      "channelId": "UCT8gJDD-d4MCWCfmnFyqUBQ",
+      "title": "음식·술",
+      "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zjq3eKF57Tw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zjq3eKF57Tw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zjq3eKF57Tw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zjq3eKF57Tw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zjq3eKF57Tw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "robertlee",
+      "localized": {
+        "title": "음식·술",
+        "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다."
+      }
+    },
+    "status": {
+      "privacyStatus": "private"
+    },
+    "contentDetails": {
+      "itemCount": 351
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "0dYVk5fu6gIWSqX2eAOqH8X_9Fw",
+    "id": "PLd0y7980vJ_Q",
+    "snippet": {
+      "publishedAt": "2026-10-06T14:38:03.476906Z",
+      "channelId": "UCT8gJDD-d4MCWCfmnFyqUBQ",
+      "title": "음악",
+      "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CDoaQq3j8Ik/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CDoaQq3j8Ik/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CDoaQq3j8Ik/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CDoaQq3j8Ik/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CDoaQq3j8Ik/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "robertlee",
+      "localized": {
+        "title": "음악",
+        "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다."
+      }
+    },
+    "status": {
+      "privacyStatus": "private"
+    },
+    "contentDetails": {
+      "itemCount": 531
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "FMt_qfCSokSvmeOf0-sj9yLrCyg",
+    "id": "PLU1ljMCtXKSQ",
+    "snippet": {
+      "publishedAt": "2026-10-06T14:38:01.951254Z",
+      "channelId": "UCT8gJDD-d4MCWCfmnFyqUBQ",
+      "title": "운동·건강·클라이밍",
+      "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dE5be9bjdMw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dE5be9bjdMw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dE5be9bjdMw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dE5be9bjdMw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dE5be9bjdMw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "robertlee",
+      "localized": {
+        "title": "운동·건강·클라이밍",
+        "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다."
+      }
+    },
+    "status": {
+      "privacyStatus": "private"
+    },
+    "contentDetails": {
+      "itemCount": 774
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "IP9D0I4eavevAXhoN2aQnrlYg5U",
+    "id": "PLA_W4onWmOqk",
+    "snippet": {
+      "publishedAt": "2026-10-06T14:38:00.464956Z",
+      "channelId": "UCT8gJDD-d4MCWCfmnFyqUBQ",
+      "title": "창업·커리어",
+      "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/015opUcPlK4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/015opUcPlK4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/015opUcPlK4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/015opUcPlK4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/015opUcPlK4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "robertlee",
+      "localized": {
+        "title": "창업·커리어",
+        "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다."
+      }
+    },
+    "status": {
+      "privacyStatus": "private"
+    },
+    "contentDetails": {
+      "itemCount": 39
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "XLqXixUUZu54VZ9ULMPClxJPHTk",
+    "id": "PLIme_frBx1aM",
+    "snippet": {
+      "publishedAt": "2026-10-06T14:37:59.120749Z",
+      "channelId": "UCT8gJDD-d4MCWCfmnFyqUBQ",
+      "title": "디자인·그림",
+      "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ONqfqSiS7JM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ONqfqSiS7JM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ONqfqSiS7JM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ONqfqSiS7JM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ONqfqSiS7JM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "robertlee",
+      "localized": {
+        "title": "디자인·그림",
+        "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다."
+      }
+    },
+    "status": {
+      "privacyStatus": "private"
+    },
+    "contentDetails": {
+      "itemCount": 63
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "dStvPSDl6lcI5iwvCY1XV3jJoqk",
+    "id": "PLZxse33rTt2k",
+    "snippet": {
+      "publishedAt": "2026-10-06T14:37:57.607366Z",
+      "channelId": "UCT8gJDD-d4MCWCfmnFyqUBQ",
+      "title": "개발·IT",
+      "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FXw9OoiddMg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FXw9OoiddMg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FXw9OoiddMg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FXw9OoiddMg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FXw9OoiddMg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/FXw9OoiddMg/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      "channelTitle": "robertlee",
+      "localized": {
+        "title": "개발·IT",
+        "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다."
+      }
+    },
+    "status": {
+      "privacyStatus": "private"
+    },
+    "contentDetails": {
+      "itemCount": 460
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "o1k-1uGlVlFa0Tig7oWfbtalWvQ",
+    "id": "PLENqe2SEjXJs",
+    "snippet": {
+      "publishedAt": "2026-10-06T14:37:56.157498Z",
+      "channelId": "UCT8gJDD-d4MCWCfmnFyqUBQ",
+      "title": "AI·LLM·자동화",
+      "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xG9Y9wMfU7M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xG9Y9wMfU7M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xG9Y9wMfU7M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xG9Y9wMfU7M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xG9Y9wMfU7M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/xG9Y9wMfU7M/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      "channelTitle": "robertlee",
+      "localized": {
+        "title": "AI·LLM·자동화",
+        "description": "기존 재생목록을 주제별로 통합한 목록. 원본별 영상 링크와 순서는 Obsidian YouTube 백업에 보존됩니다."
+      }
+    },
+    "status": {
+      "privacyStatus": "private"
+    },
+    "contentDetails": {
+      "itemCount": 261
+    }
+  }
+]

@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "f09d25c7c2c6c1bd",
+        "id": "41bea413088477c3",
         "type": "tabs",
         "children": [
           {
-            "id": "a1afe2541e9e96e3",
+            "id": "d026fd9f9a577c30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/구직/무제.md",
+                "file": "Travel/대만/포스팅/음식.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "음식"
+            }
+          },
+          {
+            "id": "bbd37adbb3606c46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/meesse/무제.md",
                 "mode": "source",
                 "source": false
               },
@@ -21,7 +35,8 @@
               "title": "무제"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.734375
+    "width": 264.5
   },
   "right": {
     "id": "42129673d9d74888",
@@ -185,48 +200,48 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "14b376beb1f3cad5",
+  "active": "bbd37adbb3606c46",
   "lastOpenFiles": [
-    "Personal/opposite.md",
-    "Personal/구직/무제.md",
-    "Personal/구직",
-    "Personal/llm.md",
+    "book/소설/2026/파과.md",
+    "무제.md",
+    "Dev/meesse/무제.md",
+    "Dev/meesse",
+    "Personal/Youtube/youtube-playlists-after-migration-2026-10-06.json",
+    "Personal/Youtube/youtube-migration-verification-2026-10-06.json",
+    "Personal/Youtube/youtube-migration-predelete-2026-10-06.json",
+    "Personal/Youtube/youtube-migration-missing-links-2026-10-06.json",
+    "Personal/Youtube/youtube-migration-backup-2026-10-06.json.partial",
+    "Personal/Youtube/youtube-migration-backup-2026-10-06.json",
+    "Personal/Youtube/YouTube 재생목록 전체 목록.md",
+    "Personal/Youtube/YouTube 재생목록 분류 및 이전 기록.md",
+    "Personal/Youtube",
+    "Work/Robert-LLMWiki/wiki/research/홈 화면 위젯과 미팅 진입 심사 메모.md",
+    "Work/Robert-LLMWiki/wiki/research/LLM Wiki와 AI 에이전트 작업환경.md",
+    "Work/Robert-LLMWiki/AGENTS.md",
+    "Personal/keep/2026.7-10 일반 대화 정리.md",
+    "Personal/keep/일상·관계 메모.md",
+    "Personal/keep/생활·독서·관심사 메모.md",
+    "Personal/keep/기술 아이디어·문제 해결 메모.md",
+    "Personal/keep/2026.10.6 링크 메모 정리.md",
+    "Personal/keep",
+    "Dev/Bang/피드백-모바일.md",
+    "Dev/Bang/피드백-PC.md",
+    "11.md",
+    "Dev/Bang",
+    "Dev/무제.md",
     "Travel/대만/포스팅/음식.md",
-    "Travel/대만/금액.md",
-    "Travel/대만/비행기.md",
-    "Travel/대만/포스팅/칭거우(청구) 야시장 清溝夜市.md",
-    "Travel/대만/포스팅/음식리뷰.md",
-    "Travel/대만/포스팅/야시장 리뷰.md",
-    "book/소설/2026/깊은 슬픔.md",
-    "Travel/대만/1) 선물줄사람.md",
+    "Untitled.md",
+    "Personal/구직/test.md",
+    "Personal/구직/무제.md",
+    "Personal/llm.md",
     "Personal/상담/26.09.19(토).md",
-    "Travel/대만/포스팅/음식리뷰 1.md",
-    "Travel/한국 가이드.md",
-    "Travel/대만/2) 26.09.16(목).md",
-    "Travel/대만/포스팅",
-    "Travel/대만/09.13-14 일월 쑹산.md",
-    "Travel/대만/체크리스트.md",
-    "Travel/대만/스트리트푸드파이터.md",
-    "Travel/대만/타이베이 소개.md",
-    "Travel/대만/찐체크.md",
-    "Travel/대만/스케줄.md",
-    "Travel/대만/음식.md",
-    "Travel/대만/지오펀.md",
-    "Personal/메타퀘스트.md",
-    "book/소설/2026/희망.md",
-    "Travel/오사카.md",
+    "Travel/대만/포스팅/야시장 리뷰.md",
+    "Travel/대만/포스팅/칭거우(청구) 야시장 清溝夜市.md",
+    "Travel/대만/포스팅/칭거우(청구) 야시장.md",
     "Pasted image 20260902110704.png",
     "Pasted image 20260902110643.png",
     "Pasted image 20260819193117.png",
-    "Dev/Items",
-    "Personal/상담",
     "Pasted image 20260725014309.png",
-    "Work/Robert-LLMWiki/raw/research/노마드-에이전트/youtube",
-    "Work/Robert-LLMWiki/raw/research/노마드-에이전트",
-    "Work/Robert-LLMWiki/raw/research/AI시대-개발자-성장/youtube",
-    "Work/Robert-LLMWiki/raw/research/AI시대-개발자-성장/web",
-    "Work/Robert-LLMWiki/raw/research/AI시대-개발자-성장/instagram",
-    "Work/Robert-LLMWiki/raw/research/AI시대-개발자-성장",
     "Pasted image 20260702220456.png"
   ]
 }

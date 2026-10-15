@@ -1,0 +1,24 @@
+Job Purpose
+국내외 고객의 Custom Silicon, ASIC 및 SoC 개발 수요를 발굴하고, 고객의 요구사항을 SEMIFIVE의 SoC Platform, Design Service, Engineering Service 및 Turnkey Manufacturing 역량과 연결하여 새로운 사업 기회와 매출을 창출합니다.
+고객, 파트너 및 내부 기술 조직과 긴밀하게 협업하여 영업 기회를 구체화하고, 프로젝트가 원활하게 진행될 수 있도록 지원함으로써 SEMIFIVE의 글로벌 비즈니스 성장과 고객 만족도 향상에 기여합니다.
+Principal Accountabilities
+국내외 잠재 고객 및 신규 사업 기회를 발굴하고, 담당 영업 파이프라인을 지속적으로 관리합니다.
+고객의 반도체 개발 요구사항, 기술적 과제, 사업 일정 및 상업 조건을 파악하고 내부 Engineering, PM 등 유관 조직과 협업하여 제안 전략을 수립합니다.
+SoC Platform, DSP 서비스, IP/EDA/Foundry/OSAT 생태계 기반 End-to-End Custom Silicon 솔루션을 고객 가치 중심으로 제안하고 계약 협상을 지원합니다.
+시장 및 경쟁사 동향을 조사하고, 전시회·기술 세미나·파트너 네트워킹 등 신규 사업 기회 발굴 활동을 수행합니다.
+Qualifications
+반도체 산업에서 B2B 해외 영업 또는 사업개발 관련 경력 3년 이하인 분
+고객 및 파트너 대상 영업, 계정 관리, 제안서·견적서 작성 및 거래 조건 협의에 참여한 경험이 있는 분
+영어로 고객 미팅, 이메일 커뮤니케이션 및 프레젠테이션을 원활하게 수행할 수 있는 분 (Fluent in English)
+중국어 또는 일본어로 비즈니스 커뮤니케이션이 가능한 분(우대사항)
+ASIC/SoC, Foundry, OSAT 등 반도체 산업의 세부 사업 영역에서 영업 또는 사업개발 업무를 수행한 경험이 있는 분(우대사항)
+Samsung Foundry, TSMC 등 주요 Foundry 및 반도체 생태계 파트너와 협업한 경험이 있는 분(우대사항)
+반도체 개발 프로세스(Design–Tape-out–Package–Mass Production)에 대한 이해가 있는 분(우대사항)
+해외 고객을 대상으로 영업 또는 프로젝트 대응 업무를 수행한 경험이 있는 분(우대사항)
+Other Requirements
+접수된 서류는 채용과 무관한 곳에는 사용하지 않습니다.
+지원 접수일로부터 반환 청구기간이 지난 서류는 별도의 파기 신청이 없더라도 ‘개인정보보호법’에 의거하여 지체 없이 채용 서류 일체를 파기할 예정입니다.
+About SEMIFIVE
+Founded in Seoul in 2019, SEMIFIVE is basing its foundation on Korea’s semiconductor design competency that was amassed for more than 20 years. With expertise in front-end to back-end design, SEMIFIVE has become the fastest-growing silicon design company that offers the most comprehensive design solutions. SEMIFIVE’s core business is its innovative Platform SoC that enables low-cost & high-efficiency SoC design, and also provides various design solutions for global customers through its diverse network. As the cost of developing an SoC and the demand for customized silicon continue to grow rapidly, SEMIFIVE’s Platform SoC will play a key role in turning innovative ideas into silicon.
+SEMIFIVE, hand in hand with global innovation leaders, is growing as a leading partner for future SoC designs, and thereby becoming: The Global Hub of Custom Silicon.
+지원하러 가기

@@ -1,0 +1,23 @@
+Seoul, Korea, Republic of
+Company:
+Qualcomm Korea YH
+Job Area:
+Interns Group, Interns Group > Interim Engineering Intern – SW
+Qualcomm Overview:
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age – and this is where you come in.
+General Summary:
+Qualcomm is expanding its automotive compute leadership in high performance cockpit electronics to L2/L3/L4 ADAS & automated driving solutions and has a worldwide team to actively design and prototype the brain of next-generation automated vehicles. Especially in Seoul, South Korea, we are looking for a talented PhD student who has expertise in the following topics:
+Deep learning architectures/pipelines to perform end-to-end automated driving, i.e., perception to planning, based on vision and/or LLM
+State-of-the-art deep learning models to perform camera perception for 3D lane/road boundaries
+Minimum Qualifications
+Must be a PhD student who is available for 3-6 months and expected to graduate within few years after completing this internship
+Strong understanding and experience of deep learning
+Proficiency in one of deep learning tools, e.g., PyTorch and TensorFlow
+Good communication and presentation skills
+Preferred Qualifications
+Good programming skills in Python/C/C++
+Accepted/Published papers on the topics mentioned above
+Applicants
+: Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process.
+Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.
+지원하러 가기

@@ -1,0 +1,62 @@
+상시 채용
+About Cutback
+Cutback is building an AI that understands speech, vision, and context in raw footage, organizes it, and generates rough cuts. We are cutting out the repetitive grind of the editing room so creators can focus purely on storytelling. Today, Cutback is trusted by professional editors worldwide – from Netflix production studios to YouTubers with millions of subscribers.
+Who We Are
+Our goal isn’t just to be good at what we do; it’s to set a new global standard. We are a team that has turned the impossible into reality across the U.S. and Korean markets, and we’ve come together to build the best company in the world.
+Nearly half our team comes from a global background, and
+English is our official working language
+. Our foundational team includes people who have defined markets and led innovation across the industry:
+0-to-1 Scale & Exits:
+Engineers and designers who took Toss and Remember from their earliest stages to #1 in their markets, through to successful exits.
+Global Tech & AI:
+An engineer who launched AWS SageMaker and led Amazon’s recommendations team, shaping the shopping experience for hundreds of millions worldwide.
+Massive Systems:
+Engineers who executed national-scale system refactors, including core systems for the Daum/Kakao merger, Naver Cafe, and the LGU+ payment system, plus an engineer who built Remember’s business-card data-entry system to world-class accuracy across hundreds of millions of records.
+Product & Design Leaders:
+POs, engineers, and designers who laid the foundation of the Toss Design System (TDS) and led product and design at the company-wide level.
+Content Masters:
+Producers behind multiple YouTube channels with millions of subscribers across the U.S. and Korea.
+The Challenge
+We are building an AI that edits video. It turns out to be one of the hardest problems in applied ML, as the craft of good video editing resists automation in ways most problems don’t:
+Massive Scale:
+Inputs range from hundreds of gigabytes to multiple terabytes per project.
+No Ground Truth:
+The craft of editing barely exists as structured data anywhere on the internet.
+Zero Margin for Error:
+A single-frame error (0.03s) is immediately obvious and jarring to viewers.
+Subjective Success:
+There is no single correct answer. The exact same footage can become high-energy entertainment or a grounded documentary depending entirely on intent.
+Solving this requires engineers who think beyond conventional software boundaries. You will touch video-understanding pipelines, AI agents, evaluation framework, and core infrastructure – whatever it takes to make the AI better.
+What You’ll Do
+Build the Brain:
+Design the systems that watch raw footage and dictate what deserves to exist in the final cut.
+Ship and Iterate:
+Turn highly ambiguous problems into production-ready systems that are used daily by real creators.
+Elevate the Output:
+Design AI that reasons through narrative and produces edits that feel highly intentional, not “AI-generated.”
+End-to-End Ownership:
+Own core problems from ideation to production, directly shaping how thousands of creators tell their stories.
+Who You Are
+Extraordinary:
+You are the smartest person in the room in at least one core area – Backend, AI, Infrastructure, Data, Systems, or Product. We don’t care which one, but your expertise must be world-class.
+High Standards:
+You notice when something technically works but still feels wrong, and you relentlessly push until it can be fully trusted.
+Extreme Ownership:
+You define the problem, navigate the tradeoffs, ship it, watch it break, and make it better.
+Leadership:
+You elevate the people around you. You don’t just solve hard problems; you set the pace, drive clarity through ambiguity, and naturally raise the standard for the entire team.
+AI-Native:
+You use AI to multiply your own output, reaching for it by default to work faster, scale better, and dive deeper.
+Hiring Process
+Application Review → 1st Interview (Technical) → 2nd Interview (Culture) → Offer Discussion → Final Offer
+A reference check may be conducted as part of the process.
+Applicants must have no restrictions on overseas travel or employment. (For male applicants, military service must be completed or exempted.)
+If any information provided in the application is found to be false, the offer may be withdrawn or other disadvantages may apply.
+Working Conditions
+Employment type:
+Full-time, with a 3-month probation period. Continued employment is determined by performance evaluation.
+Location:
+8F, 50 Seolleung-ro 93-gil, Gangnam-gu, Seoul, South Korea (5-minute walk from Seolleung Station).
+Working hours:
+Monday to Friday, 10:00 AM to 7:00 PM.
+지원하러 가기

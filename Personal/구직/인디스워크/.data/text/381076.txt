@@ -1,0 +1,47 @@
+About BJAK
+The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.
+Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.
+Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day.
+We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few.
+If you’re this person, we’d love to talk to you.
+The Role
+We are looking for iOS engineers to build the native iOS experience for BJAK’s app.
+This role is for someone who cares about clean user flows, fast performance, product quality and shipping reliable mobile features used by real customers.
+What Will You Build
+Build and ship native iOS features for onboarding, accounts, cards, payments, transfers, rewards and AI-assisted user journeys.
+Make complex financial flows feel clean, fast and simple on mobile.
+Work with product, design, backend and AI engineers to take ideas from rough concept to production release.
+Own app quality across performance, crash rate, loading states, edge cases, responsiveness and release stability.
+Use production feedback, analytics and customer behaviour to improve features after launch.
+Integrate APIs, authentication, secure data handling and financial workflows with strong attention to reliability.
+What We’re Looking For
+Strong native iOS experience using Swift.
+Experience shipping iOS apps used by real users.
+Good understanding of SwiftUI, UIKit, async/await and iOS architecture patterns.
+Strong product sense and care for UX, not just building screens.
+Able to debug production issues and improve performance, reliability and app quality.
+Comfortable working with ambiguity and moving fast without lowering the bar.
+The Bar
+We are looking for engineers with real technology career highlights. A strong highlight is not just working at a famous company. A strong highlight means you personally helped build, ship or scale a serious product, platform or system.
+This Role Is Not For
+Engineers who only want fully defined tickets.
+Developers who build screens without caring about user experience.
+People who ignore crashes, edge cases, loading states or performance.
+Engineers who move slowly in a startup environment.
+People who exaggerate impact without explaining their actual contribution.
+Location
+This role is remote, but candidates must be based in
+Korea
+. We are hiring specifically for this market, so applicants should already be based in
+Korea
+.
+Language
+English is our main working language across global teams. Strong English communication is required.
+Interview Process
+Our process is designed to move fast:
+1. Online assessment or practical task
+2. Role-specific interview
+3. CEO / final round
+For strong candidates, we aim to complete the process and make an offer within 1 week from the start of the interview process. Candidates who complete assessments quickly will be prioritized.
+Ap
+지원하러 가기

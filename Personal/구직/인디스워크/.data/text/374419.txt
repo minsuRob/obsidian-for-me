@@ -1,0 +1,29 @@
+Pangyo, South Korea
+Core SW Team | Full-time
+Responsibilities
+NPU runtime 실행 경로에서의 dispatch/prefetch/synchronization 성능 분석 및 최적화
+Data movement, memory utilization, pipelining, tiling 등의 데이터 처리 최적화 개발
+NPU device 추상화 및 User/Kernel mode driver 개발
+AI 모델 워크로드 기준 성능, latency, 전력 효율 분석 및 최적화
+Multi-OS( Linux, Android )향 runtime package 포팅/최적화
+Multi-NPU device 가상화/스케줄러 개발 및 성능 최적화
+Kernel/Ops 개발 및 성능 최적화
+Qualifications
+(신입/경력) 학사 이상 학위 소지자
+(신입/경력) 해외 여행에 결격 사유가 없으신 분
+(경력) 관련 분야 3년 이상의 실무 경험
+(경력) C/C++ 기반의 System software 개발 역량 및 문제 해결 능력
+(경력) Linux/Android기반 software 빌드/성능 분석/디버깅/배포 경험
+(경력) DeepLearning/Transformer 기반 AI 모델의 실행 특성 이해 및 성능 최적화 경험
+(경력) 고성능 컴퓨팅/병렬 프로그래밍/동시성 기반 software 개발 및 최적화 역량
+Preferred Qualifications
+GPU/NPU/TPU 등 HW 가속기 기반의 SDK, NN 런타임 개발 경험 있으신 분
+Kernel 레벨 최적화( 타일링, 벡터화, 데이터 이동 최적화, DMA/NoC uga ) 경험 있으신 분
+모바일/차량용 반도체 시스템 SW 개발 및 양산 경험이 있으신 분
+ISO 26262 차량용 Functional Safety 프로세스 기반 개발 경험 있으신 분
+Company/Team Introduction
+• 회사소개
+보스반도체(BOS Semiconductors)는 차량용 자율주행 및 인포테인먼트 시스템을 위한 고성능 반도체 및 AI 가속기 반도체를 개발하는 팹리스 기업으로, 자동차를 주요 타깃 시장으로 하며 동일한 제품 플랫폼을 기반으로 로봇 등 다른 Physical AI 시장으로의 확장을 추진하고 있습니다. 대표 제품인 Eagle-N(AI 가속기)과 Eagle-A(차량용 SoC)는 칩렛 기반 확장성과 선단 공정 기술을 바탕으로 차세대 차량 전장 및 지능형 시스템에 최적화된 성능과 전력 효율을 제공합니다. 창업 4년 차인 보스반도체는 300명 이상의 연구개발인력과 베트남R&D 법인을 기반으로, 차량용 고성능 반도체를 자체 개발하여 샘플 출시까지 성공적으로 마쳤으며 계속해서 빠르게 성장하고 있습니다. Global Top 기술력을 가진 기업들과 경쟁하며 의미 있는 성장을 함께 만들어갈 인재를 모집합니다. • 조직 및 업무 소개 NPU System Software 파트는 고성능 NPU runtime software stack을 Automotive IVI, ADAS 및 Physical AI등의 플랫폼에서 안정적으로 구동시키고, 성능, 전력, 지연시간(latency), 메모리 효율을 최적화하는 것을 미션으로 합니다. 다양한 AI 모델이 수행되는 동안 runtime, kernel, data movement, driver, firmware 에서 발생하는 병목을 계측·분석·개선하여 모델 성능이 실제 제품 성능으로 이어지도록 만드는 역할을 수행합니다. OS(Linux/Android/QNX 등), 메모리/IO, 스케줄링, 프로파일링, 컴파일러/그래프 런타임 연계까지 시스템 관점에서 폭넓게 협업하며, HW/System SW/AI모델 개발팀과 함께 end-to-end 최적화를 수행합니다.
+개인정보 수집·이용 및 제출서류 관련 안내
+본 채용에 지원서를 제출하는 경우, 지원자는 아래 개인정보 수집·이용 내용을 확인하고 동의한 것으로 간주됩니다. 회사는 채용 전형 진행, 지원자 확인, 전형 결과 안내 및 채용 관련 문의 대응을 위해 지원자의 개인정보를 수집·이용합니다. 수집 항목은 성명, 연락처, 이메일, 이력서·경력기술서·포트폴리오 등 지원자가 제출한 채용 관련 정보입니다. 수집된 개인정보 및 제출서류는 채용절차 종료 후 180일 동안 보관한 뒤 지체 없이 파기합니다. 단, 관계 법령에 따라 보관이 필요한 경우 해당 기간 동안 보관할 수 있습니다. 지원자는 개인정보 수집·이용에 동의하지 않을 권리가 있으나, 동의하지 않을 경우 채용 전형 진행이 제한될 수 있습니다. 제출서류는 전자적 방법으로만 접수되며, 「채용절차의 공정화에 관한 법률」상 반환 대상에 해당하지 않습니다.
+지원하러 가기

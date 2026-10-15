@@ -1,0 +1,56 @@
+Seoul, South Korea
+WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform.
+WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Employees are encouraged to challenge conventional thinking and possess an attitude of continuous improvement.
+Our goal is to hire the best and the brightest. We value intellectual horsepower first and foremost, and people who demonstrate an outstanding talent. There is no roadmap to future success, so we need people who can help us build it.
+The Role
+: Research is at the core of WorldQuant. Through rigorous exploration and unconstrained thinking about how to apply data to the financial markets, our researchers are in constant search of new alphas. Researchers at WorldQuant employ tested processes seeking to identify high-quality predictive signals that we believe are undiscovered by the wider market. These signals are mathematical expressions of data that are used as inputs in our quantitative models.
+WorldQuant is seeking an exceptional individual to join the firm as a Quantitative Researcher. The person must have a strong understanding of the investment research process to create computer-based models that seek to predict movements of global financial markets. While prior finance experience is not required, a successful candidate must possess a strong interest in learning about finance and global markets. Candidates will have a research scientist mind-set; be a self-starter, a creative and persevering deep thinker who is motivated by unsolved challenges.
+What You’ll Bring:
+D., M.S., or B.S. degree from a leading university in a quantitative or highly analytical field (e.g. Industrial Engineering, Physics, Computer Science, Mathematics, Financial Engineering, etc.)
+Excellent academic record
+Proficiency in C/C++ or Python or in other programming languages
+Excellent problem solving abilities and judgment with a strong attention to detail
+Mature, thoughtful, with the ability to operate in a collaborative, team-oriented culture
+Able to communicate in English (written and verbal)
+What WE OFFER:
+Understand the connections between advanced mathematical, computational and machine learning methods and their intersection with the modern financial industry
+Highly competitive compensation
+Learn from world-leading quantitative researchers
+Friendly and collegial working environment
+Opportunity to be promoted to Vice President in 2-4 years; followed by possible global mobility within the firm’s other locations (for the right role and right reasons)
+Position is based in our Seoul research office. Interested and qualified candidates can apply at
+Career Listing – WorldQuant
+.
+퀀트 연구원
+WorldQuant는 퀀트 전략을 개발하고 활용하여, 글로벌 시장의 다양한 금융자산에 투자하고 있습니다. WorldQuant 고유의 리서치 플랫폼을 통해 금융시장의 비효율성을 활용한 투자 시그널(“알파”)을 찾는데 주력하고 있으며, 이를 위해 전 세계 다양한 팀들이 긴밀하게 협업하고 있습니다. 알파를 찾고 전략을 개발하기 위한 끊임없는 노력이야말로 WorldQuant가 생각하는 지속가능한 글로벌 투자의 토대입니다.
+WorldQuant는 학문적 탐구를 중시하면서 성과에 대해 책임을 지는 실용적인 문화를 기반으로 성장해 왔습니다. WorldQuant는 구성원들이 문제 해결을 위해 자유롭게 생각하고 토론하도록 장려하며, 구성원들에게 기존의 통념을 깨고 끊임없이 도전하고 발전하도록 독려합니다. 이러한 문화가 산업의 선두를 유지하는데 있어 필수적 요소이기 때문입니다.
+저희의 목표는 세계 최고의 퀀트 인재를 채용하는 것입니다. 뛰어난 지성과 탁월한 재능을 갖춘 구성원들과 함께, 미래를 향한 로드맵을 만들어 나가고자 합니다.
+직무
+:
+리서치는 WorldQuant의 핵심입니다. WorldQuant의 연구원들은 다양한 데이터를 분석하고, 이를 통해 끊임없이 금융시장의 새로운 알파를 창출하고 있습니다. 저희는 경쟁사들이 생각지 못한 방식으로 데이터를 이해하고 활용하기 위해 노력하고 있습니다. 이를 통해 높은 예측력을 가진 새로운 시그널을 찾아내기 위해 검증된 기술을 활용합니다. 이렇게 데이터를 수식화하여 만들어진 시그널들은 당사의 퀀트투자 모델의 인풋으로 사용됩니다.
+WorldQuant가 찾고 있는 퀀트 연구원에 적합한 인재는 글로벌 금융시장의 흐름을 예측하는 모델을 개발하기 위해 리서치 프로세스를 잘 이해할 수 있어야 합니다. 금융 관련 경력이 요구되지는 않지만, 글로벌 금융 시장에 대해 배우려는 강한 의지는 필수이며, 정답이 없는 문제에 대해 창의적이고 끈기있게, 그리고 주도적으로 풀어나갈 수 있는 인재를 선호합니다.
+자격요건
+:
+국내외 유수의 대학에서 정량적, 분석적 분야와 관련된 전공 (예. 수학, 컴퓨터공학, 물리학, 산업공학, 금융공학 등)으로 학사, 석사 혹은 박사학위를 취득하신 분
+우수한 학업 성적
+C/C++ 또는 파이썬 프로그래밍이 가능하신 분 (또는 기타 프로그래밍 언어 능숙자)
+뛰어난 문제해결 능력과 주의 깊은 판단력; 사려 깊으며 팀워크가 가능하신 분
+영어로 의사소통이 가능하신 분 (서면 및 구두)
+특전
+:
+고급 수학, 컴퓨터 기술 및 머신러닝 기법을 접목한 금융 산업에 대해 배울 수 있는 기회
+업계 상위 수준의 경쟁력 있는 보상
+세계 시장을 선도하는 우수한 퀀트 전문가들로부터 배울 수 있는 기회
+유연하고 학구적인 근무 환경
+2~4년 내에 Vice President로 승격 후 적재적소의 해외 지사로 진출 가능
+합격하신 분들은
+서울
+지사에서 근무하게 될 예정입니다. 관심 있으신 분들은홈페이지(
+Career Listing – WorldQuant
+)
+를 통해 지원부탁드립니다.
+** 2026년에 한하여 해당 포지션의 채용절차는 경력자에 한하여 진행될 예정입니다. 경력이 없으신 Fresh Graduate 지원자의 경우에는 가을학기 (10월~11월)에 진행되는 Quantitative Research Internship Program (8 weeks)을 통해 정규직 전환여부를 결정할 예정입니다. 따라서 전환형 인턴십 지원자의 경우는 지원 후 첫 면접시 인턴십 진행 의사를 알려주시기 바랍니다”
+By submitting this application, you acknowledge and consent to terms of the
+WorldQuant Privacy Policy.
+The privacy policy offers an explanation of how and why your data will be collected, how it will be used and disclosed, how it will be retained and secured, and what legal rights are associated with that data (including the rights of access, correction, and deletion). The policy also describes legal and contractual limitations on these rights. The specific rights and obligations of individuals living and working in different areas may vary by jurisdiction.
+지원하러 가기

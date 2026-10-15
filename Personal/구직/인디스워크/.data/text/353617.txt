@@ -1,0 +1,28 @@
+Overview
+[SoC Design Engineer]
+XCENA SoC 내의 주요 IP 들을 설계하고, 검증합니다. XCENA IP는 주로 AXI Bus 상에서 동작하도록 구현되어 있으며, AXI Bus의 각종 프로토콜 규격(AXI4, AXI4-Lite, APB 등)을 준수하고 있습니다. 이러한 IP 들을 설계한 후, physical implementation을 위해 FPGA 합성(Xilinx Vivado 활용)이나 DC를 통한 ASIC 합성을 진행합니다. 합성 과정에서 요구되는 PPA Spec 달성을 위해 디자인을 수정하고, 검증하고, 합성하는 단계를 반복하여 IP 설계를 완성합니다.
+[SoC Design Verification Engineer]
+XCENA SoC 내의 주요 IP 들을 검증하고, PCIe or CXL과 같은 3rd Party IP, 그리고 SoC Top Level 검증을 수행합니다. 기본적인 Functional Verification 뿐만 아니라, Performance Verification과 같은 시스템 특성을 검증하기 위한 업무도 포함하고 있습니다. IP 설계 엔지니어와 소통하여, 조기에 Bug를 검출하고, 신속히 Clear하는 것이 중요한 업무 내용이므로 분석 능력 및 소통 능력이 요구됩니다.
+[FPGA Design Engineer]
+XCENA SoC Proto-Typing를 위한 FPGA Board를 설계하고, 검증합니다. XCENA의 주요 IP 들과 FPGA 전용의 IP 들을 FPGA Top Level에서 integration하고 합성(주로 Xilinx 기반 FPGA 활용)합니다. FPGA B’d Level에서 발생하는 문제들을 해결하고, FPGA를 활용한 SoC 검증을 수행합니다. 이 후, 필요 시 inhouse FPGA or ASIC Board 설계를 진행합니다.
+[ASIC Design Engineer]
+XCENA SoC의 ASIC Top을 integration하고, 검증합니다. XCENA 의 주요 IP는 주로 AXI Bus 상에서 동작하도록 구현되어 있으며, 이러한 AXI Bus 상의 IP 들을 통합하여 ASIC Top 설계를 수행합니다. ASIC Top integration 후, physical implementation을 위해 FPGA 합성(Xilinx Vivado 활용)이나 DC를 통한 ASIC 합성을 진행합니다. 그리고, 주요 Design House와 협업하여 ASIC Process를 진행하는 업무를 수행합니다.
+[High Speed IO Design Engineer]
+XCENA SoC 내의 외부 I/F 들을 설계하고, 검증합니다. XCENA SoC는 외부와의 통신을 위해 PCIe, DDR I/F 등의 표준 I/F 규격을 활용하고 있습니다. 외부 연결을 위한 I/F IP는 Synopsys, Cadence 등의 3rd Party IP를 사용하며, XCENA Architecture Spec.에 맞게 configuration하고 integration하는 업무를 수행합니다. 그리고, IP vender와 협업하여 주요 I/F IP들의 physical implementation을 진행합니다.
+Requirements
+전기전자공학 혹은 관련 전공 BS/MS/Ph.D
+Verilog and System Verilog RTL design skill
+[채용절차]
+서류 전형 > 면접 > 채용 건강 검진 > 입사 확정 및 입사 일정 논의 > 입사
+[엑시나 복지 제도]
+– 한 달에 하루 구성원들이 스스로 정하는 유급 휴가(MX Day) 지원. 연휴를 더 길게, 휴일이 없는 달도 충분한 휴식 보장
+– 출퇴근 시간에 제약이 없는 유연 근무제
+– 점심 및 저녁 식대(야근 시) 제공
+– 다양한 간식 무한 제공 (네스프레소 커피, 음료, 스낵 등)
+– 연 1회 배우자를 포함하여 건강 검진 지원
+고용형태
+정규직
+근무지
+엑시나
+대한민국 경기도 성남시 분당구 판교역로241번길 20, 8층(삼평동, 미래에셋벤처타워)
+지원하러 가기

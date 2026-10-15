@@ -1,0 +1,63 @@
+Frontier of On-device AI Semiconductors
+for Everyone, Everywhere
+About
+DeepX Co., Ltd
+.
+DEEPX is a forward-thinking Series D startup architecting the infrastructure for the Physical AI era.
+By delivering the world’s most energy-efficient NPU technology, we are solving the critical power and heat challenges of Generative AI to bring super-intelligence to every device, everywhere.
+Our global leadership is validated by our record-breaking recognition as a multi-year CES Innovation Award honoree (2024 & 2026) and being named the 2024 Frost & Sullivan Company of the Year in the NPU sector. With an enterprise value approaching 1 trillion KRW, DEEPX offers a unique pre-IPO
+opportunity to join a market leader defining the new industry standard for the $70B AI semiconductor market.
+We are currently scaling toward mass production of our flagship DX-M1 (Samsung 5nm) with over 50 global projects scheduled, while engineering next-generation 2nm solutions to support 100B parameter Large Language Models (LLM) at the edge.
+☞ Link
+★ If you want to be part of world-class innovation? Please talk with us.
+★Explore our journey: The DEEPX White Paper
+☞ Link
+Responsibilities
+□ Provide technical support and troubleshoot issues for clients.
+□ Assist with software integration and optimization of company products.
+□ Analyze customer technical requirements and propose product enhancements.
+□ Develop technical training materials and conduct technical training for clients and partners.
+□ Collaborate with internal R&D and engineering teams to drive product development and functionality improvements.
+Qualifications
+□
+Education
+: Bachelor’s degree or higher in Computer Engineering, Electronics Engineering, or a related field (Master’s degree holders and prospective graduates welcome).
+□
+Language
+:
+Native or native-fluent proficiency in Chinese
+(essential for communication with Chinese market clients).
+□ Fundamental understanding and knowledge of embedded system software development.
+□ Proficiency in C/C++ and Python programming.
+□ Experience with or knowledge of development and debugging in a Linux environment.
+□ Excellent interpersonal and client communication skills, with strong analytical and problem-solving abilities.
+Preferred Qualifications
+□ Project or research experience related to NPU (Neural Processing Unit) or AI accelerators.
+□ Experience with RTOS (Real-Time Operating Systems).
+□ Experience in hardware and software integration.
+□ Experience in a Technical Support Engineer or FAE role, including relevant internships or academic □ projects during undergraduate/graduate studies.
+□
+Business-level English proficiency
+(both verbal communication and documentation).
+Recruitment Process
+□ Application Review – (Phone Interview) – Technical Interview – Organizational Culture Fit Interview – CEO Interview – Reference Check / Compensation Discussion
+※ The recruitment process may vary depending on the position and application content.
+※ Candidates with less than 3 years of experience are required to submit their academic transcripts.
+Employment Type
+□ Full-time (3-month probationary period with 100% compensation)
+Working Hours
+□ Monday to Friday, 9:00 AM – 6:00 PM (Lunch break: 12:00 PM – 1:00 PM)
+Notes
+□ If any false information is found in the application or onboarding documents, the job offer may be withdrawn even after confirmation.
+□ A 3-month probationary period applies after joining, with no reduction in salary or benefits.
+Benefits
+□ 모든 정규직 입사자에게 연봉 수준의 스톡옵션 부여
+□ 최신 사양 장비 및 최고의 근무 환경 제공 (최신 노트북, 높낮이 조절식 스탠딩 데스크, 모니터암, 듀얼모니터 등 제공)
+□ 점심식사 + 아침 & 저녁식사 지원
+□ 스낵, 아이스크림, 음료 등 사내 카페 무제한 간식 제공
+□ 사우나가 포함된 피트니스 비용 지원
+□ 연 1회 종합건강검진 지원 (배우자 포함)
+□ 생일, 결혼기념일, 크리스마스이브 축하금 지급 및 조기퇴근 제공
+□ 설/추석 명절 상여금 지급
+□ 축하와 위로를 위한 경조휴가 및 경조금 지원
+지원하러 가기

@@ -1,0 +1,45 @@
+Role Summary
+고성능·저전력 AI 반도체를 위한 NPU Architect는 차세대 AI Workload의 연산 특성을 정량적으로 분석하고, 이를 최적으로 수용하는 NPU Architecture를 정의하는 역할을 수행합니다. Compute Datapath, Memory Hierarchy, Interconnect, ISA에 이르는 NPU 전반의 구조를 설계하며, PPA(Performance/Power/Area) Trade-Off를 정량 모델링과 DSE(Design Space Exploration)를 통해 평가하고 의사결정합니다.
+LLM, VLM, VLA 등 최신 AI 모델의 연산 패턴을 깊이 이해하고, Algorithm/RTL/DV/Compiler/Runtime 팀과 협업하여 Specification 정의부터 Tape-Out 및 Silicon Bring-Up까지 Architecture 관점의 Ownership을 갖습니다.
+NPU 또는 AI/DL Workload에 대한 직접적인 경험이 없더라도 CPU, DSP, GPU 등 Processor Architecture 설계 또는 Microarchitecture 설계 경험을 보유하신 분이라면 지원 가능합니다.
+Key Responsibilities
+NPU IP Architecture 및 Microarchitecture 정의 (Compute, Memory, NoC, ISA)
+AI Workload(LLM, ViT, Diffusion, VLA 등) 특성 분석 및 HW 매핑 전략 수립
+Cycle-Accurate/Analytical Performance·Power Model 개발 및 운영
+PPA Trade-Off 기반 Design Space Exploration 주도
+최신 Quantization 기법 및 Mixed-Precision(INT8/INT4, FP8, MX Format)의 HW 영향 분석 및 Datapath 방향 제시
+Algorithm/Compiler/Runtime 팀과의 HW/SW Co-Design(Operator Fusion, Tiling, Scheduling)
+Architecture Specification 문서화 및 RTL/DV/Implementation 팀에 대한 Specification Ownership
+Requirements
+전자공학, 컴퓨터공학 또는 관련 분야 학사 이상
+NPU/CPU/GPU/DSP/SoC 등 Processor 또는 Accelerator Architecture 설계 경험
+Compute Datapath, Memory Hierarchy, Interconnect에 대한 이해
+AI/DL Workload 분석 및 HW 매핑 경험
+AI Workload의 수학적 구조에 대한 깊은 이해
+Tensor Shape, Layout, Stride 및 Memory Access Pattern에 대한 깊은 이해
+C++/Python 기반 Performance Model 개발 경험
+Preferred Qualifications
+NPU/CPU/GPU/DSP/SoC 등 Processor 또는 Accelerator Architecture 설계 경험 5년 이상
+LLM(Prefill/Decode), VLA, Diffusion 등 최신 모델의 AI Workload 분석 및 HW 매핑 경험
+최신 Quantization 기법에 대한 지식
+Floating-Point, Integer, MX-Format 등 다양한 Data Type에 대한 지식
+NoC Topology 및 Memory Subsystem Architecture 설계 경험
+HW/SW Co-Design 경험(Compiler, Algorithm)
+Tape-Out 및 Silicon Bring-Up 경험
+Advanced Process Node(4nm/3nm/2nm) 프로젝트 경험
+Hiring Process
+서류전형 > 실무면접(1차) > 최종면접(2차) > 처우협의 > 최종 합격
+제출서류 : 이력서 및 자기소개서(필수), 성적증명서(필수), 포트폴리오(선택)
+서류전형 합격자에 한하여 개별 안내드리며, 채용절차는 사전 안내 후 변경될 수 있습니다.
+Additional Information
+신입 및 경력 입사자는 입사 후 3개월의 수습 기간이 적용됩니다.
+장애인 및 국자유공자 등 취업 보호 대상자는 관련 법령에 따라 우대합니다.
+지원서 및 제출 서류에 허위 사실이 확인될 경우, 채용이 취소될 수 있습니다.
+경력사항
+경력 무관
+고용형태
+정규직
+근무지
+모빌린트 본사
+서울특별시 강남구 선릉로93길 35, 나라키움 역삼B 빌딩 3층
+지원하러 가기

@@ -1,0 +1,44 @@
+Job Location (Short):
+Seoul, Korea (the Republic of)
+Workplace Type:
+Hybrid
+Overview
+Octave is hiring a Software Consultant (Technical Support Engineer) to support Octave Attune EAM customers across Korea and APAC.
+Key Responsibilities
+Troubleshoot complex EAM application, database, interface, and system issues
+Work with development/product teams and keep customers updated
+Translate maintenance/operations problems into technical solutions
+Maintain documentation, knowledge base, and support processes
+Use AI tools to improve troubleshooting and documentation
+Required Skills
+Strong SQL skills and relational database knowledge
+Experience with Oracle and/or SQL Server
+Understanding of application servers such as JBoss/Apache
+Knowledge of REST/SOAP APIs, SSO, XML/JSON
+Confidence using AI tools in daily work
+Fluent Korean and professional English
+Preferred Experience
+EAM/CMMS experience such as HxGN/Infor EAM, Maximo, or SAP PM
+Background in manufacturing, heavy industry, power, petrochemical, utilities, etc.
+Knowledge of maintenance, reliability, MRO inventory, and asset management
+Skills in Python, GIS, cloud/SaaS, log analytics, or CRM are a plus
+Ideal Candidate
+Self-starter with strong learning mindset
+2+ years in technical support or related industry experience
+Degree in Engineering, Computer Science, Mathematics, Physics, or related field
+Engineering background is highly preferred
+*This is a 1-year contract position with the possibility of conversion to permanent employment depending on performance and business needs.
+About Octave
+Octave provides mission-critical software that empowers organizations to make informed decisions across every stage of the asset lifecycle – Design, Build, Operate and Protect – where performance, safety, and reliability are non-negotiable and failure is not an option.
+Turning complex operational data into actionable intelligence, Octave connects expertise, real-world conditions and enterprise-scale insight to improve performance, resilience and incident response where it matters most.
+Octave has more than 7,000 employees in 45 countries. Learn more at
+octave.com
+and follow us on
+LinkedIn
+.
+Why work for Octave?
+All in. Always forward. That’s the way we do things around here. We put trust in our people because we believe it’s the best way to unleash potential, bring ideas to life, and keep moving ahead. And it’s why we’re committed to creating an environment that’s truly supportive, providing you with the resources you need to support your ambitions, no matter who you are or where you are in the world.
+Everyone is welcome
+At Octave, we believe that diverse and inclusive teams are critical to the success of our people and our business. Here, everyone is welcome. As an inclusive workplace, we don’t discriminate. In fact, we embrace differences and are fully committed to creating equal opportunities, an inclusive environment, and fairness for all.
+Respect is the cornerstone of how we operate, so speak up and be yourself. You’re valued here.
+지원하러 가기

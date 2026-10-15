@@ -1,0 +1,42 @@
+Role Summary
+NPU RTL Engineer는 NPU의 핵심 Datapath 및 Control Logic을 설계하고, PPA(Performance/Power/Area) 목표를 충족하는 합성 가능한 고품질 RTL을 구현합니다.
+Architecture, DV, Physical Design 등 다양한 직군과 협업하며, RTL 작성 단계부터 Synthesis, Timing Closure, Silicon Bring-Up까지 IP의 전체 개발 Life-Cycle에 걸쳐 Ownership을 갖습니다.
+NPU 경험이 없더라도 복잡한 RTL Block, Datapath, Control Logic, DMA, Memory Subsystem 설계 경험이 있는 분이라면 지원 가능합니다.
+Job Responsibilities
+NPU 주요 블록(Tensor/Vector Engine, Scheduler, Control Unit 등)의 RTL 설계 및 구현
+AMBA AXI4 기반 Interconnect 및 Memory Subsystem(SRAM, MMU, DMA 등) RTL 설계
+Lint, CDC, DFT, Synthesis, Timing, Low-Power 관련 RTL 품질 관리
+Architect와의 협업을 통한 Microarchitecture 상세화 및 구현 가능성 검토
+DV 팀과의 Test Plan, Functional Coverage, Debug, Verification Closure 협업
+FPGA/Emulation Prototyping 및 Silicon Bring-Up 지원
+Requirements
+전자공학, 컴퓨터공학 또는 관련 분야 학사 이상
+NPU/CPU/GPU/DSP 등의 RTL 설계 경험
+SystemVerilog/Verilog 기반 RTL 설계 또는 검증 경험
+Preferred Qualifications
+RTL 설계 또는 검증 경험 3년 이상
+주요 AI Workload의 연산 구조와 데이터 흐름에 대한 이해
+최신 Quantization 기법에 대한 이해 및 관련 Datapath 구현 경험
+Floating-Point, Integer, MX-Format 등 다양한 Data Type에 대한 지식
+AMBA(AXI4/AHB/APB) 등 표준 Interconnect 프로토콜 이해
+Memory Subsystem(Scratchpad, DMA, Multi-Bank SRAM 등) RTL 설계 경험
+Advanced Process Node Tape-Out 경험
+Synthesis, Lint, CDC, DFT 등 ASIC Design Flow 경험
+RTL Simulation 및 Debugging Flow 경험
+VCS, Xcelium 등 Logic Simulator 및 Verdi 등 Wave Debugger 활용 능력
+Hiring Process
+서류전형 > 실무면접(1차) > 최종면접(2차) > 처우협의 > 최종 합격
+제출서류 : 이력서 및 자기소개서(필수), 성적증명서(필수), 포트폴리오(선택)
+서류전형 합격자에 한하여 개별 안내드리며, 채용절차는 사전 안내 후 변경될 수 있습니다.
+Additional Information
+신입 및 경력 입사자는 입사 후 3개월의 수습 기간이 적용됩니다.
+장애인 및 국자유공자 등 취업 보호 대상자는 관련 법령에 따라 우대합니다.
+지원서 및 제출 서류에 허위 사실이 확인될 경우, 채용이 취소될 수 있습니다.
+경력사항
+경력 무관
+고용형태
+정규직
+근무지
+모빌린트 본사
+서울특별시 강남구 선릉로93길 35, 나라키움 역삼B 빌딩 3층
+지원하러 가기

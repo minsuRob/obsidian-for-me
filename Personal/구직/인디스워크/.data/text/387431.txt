@@ -1,0 +1,29 @@
+팀 소개
+Language Lab은 자연어 처리 분야의 기술적 난제 해결을 위한 핵심 선행기술을 연구하며 Learning-by-Reading AI 확보를 통한 챗봇 등 Language 분야 서비스 혁신 이라는 비전을 가지고 있습니다.
+최적의 연구 환경에서 다양한 현장의 데이터를 다루어 볼 수 있는 기회이자, 최고의 전문가들과 함께 심도있게 연구하고 구현해 보는 값진 경험을 쌓을 수 있는 인턴 프로그램에 지원해주세요!
+수행 업무
+1) Large Language Model Tuning
+– Pre-trained Language modeling의 Post-training, Instruction Tuning, RL alignment과 같은 튜닝과 관련된 연구와 문서 질의응답, 문서생성, 대화 기능 등의 기능 최적화
+2) Advanced RAG
+– 최신의 LLM기술을 활용하여 사용자의 입력과 검색 후보를 좀더 정확하게 분석하고 답변을 신뢰할 수 있게 연구와 개발
+3) Text Analytics
+– Large Language Model과 다양한 언어처리 기술 기반으로 정보추출, 문서요약 등의 기술
+4) Document Understanding
+– 논문, 특허 정보로부터 물성 정보, 실험조건 등의 최신 기술을 분석하고 데이터 베이스화하는 전문영역 문서 이해기술과 PPT와 같은 일반문서의 구조와 내용을 더 잘 이해하기 위한 기술
+5) Data Analysis & Visualization
+–  사용자의 질의를 분석하여 데이터를 검색하거나 검색된 데이터를 통게적으로 분석하고 시각화하는 기술
+6) Speech-To-Text/Text-To-Speech
+– 최신 End-To-End Speech-To-Text 기술과 자연스러운 음성을 합성하는 기술에 대한 연구를 진행 중
+7) 대화형 Agent
+– AI가 사람수준으로 대화가 가능하도록 하는 기술을 연구하고 있습니다. 대화 맥락 이해, 대화 기억 및 추론, 상황에 맞는 실행 계획 등의 기술
+지원자격 및 우대사항
+석사 학위 이상
+Deep Learning, Machine Learning 알고리즘 연구/개발 경험
+Tensorflow, PyTorch, JAX 등 Machine Learning Framework 활용 경험
+Python 등 프로그래밍 언어 경험
+6개월 근무 가능자 (기간 협의 가능)
+전형절차
+서류심사 → 코딩테스트/LG Way Fit Test(인성검사) → 1차 직무 인터뷰(온라인) → 최종 합격
+* 전형 절차는 변경될 수 있습니다. 서류 합격 시 전형 절차에 대해 별도로 안내 해 드립니다.
+현재 LG AI연구원은 병역지정업체가 아니므로, 전문연구요원 채용 및 전직이 불가함을 알려드립니다.
+지원하러 가기

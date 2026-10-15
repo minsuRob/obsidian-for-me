@@ -1,0 +1,26 @@
+Seoul, South Korea
+Google welcomes people with disabilities.
+Minimum qualifications:
+Bachelor’s degree in Engineering, Computer Science, a related field, or equivalent practical experience.
+Experience in product implementations, technical solutions consulting, or technical sales.
+Experience troubleshooting technical issues for internal/external partners or customers.
+Ability to communicate in English and Korean fluently to support client relationship management in this region.
+Preferred qualifications:
+3 years of customer-facing experience in product implementations, technical solutions consulting, or technical sales.
+3 years of experience working with database technologies (e.g., SQL).
+2 years of experience in building iOS/Android applications.
+Experience in problem-discovery, problem-solving, analysis, and communication, with the ability to absorb technical concepts and effectively communicate them to a non-technical audience.
+Ability to develop scripts or diagnostic workflows and synthesize complex technical logs into actionable commercial solutions.
+Excellent collaboration skills including the ability to work actively with cross-functional groups.
+About the job
+gTech Ads is responsible for all support and media and technical services for customers big and small across our entire Ad products stack. We help our customers get the most out of our Ad and Publisher products and guide them when they need help. We provide a range of services from enabling better self help and in-product support, to providing better support through interactions, setting up accounts and implementing ad campaigns, and providing media solutions for customers business and marketing needs and providing complex technical and measurement solutions along with consultative support for our large customers. These solutions range from bespoke and customized ones for our customers to scalable support for millions of customers worldwide. Based on the evolving needs of our ads customers, we partner with Sales, Product and Engineering teams within Google to develop better solutions, tools, and services to improve our products and enhance our client experience. As a cross-functional and global team, we ensure our customers get the best return on investment with Google and we remain a trusted partner. Google creates products and services that make the world a better place, and gTech’s role is to help bring them to life. Our teams of trusted advisors support customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers’ complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.
+To learn more about gTech, check out our
+video
+.
+Responsibilities
+Work with external clients and internal sales stakeholders to identify key customer business objectives through a consultative approach.
+Lead client meetings and explore the opportunities for joint technical plans and packaged solutions which help our customers achieve their business objectives.
+Develop expertise of the Google advertising products and customer infrastructure to be able to architect technical solutions and meet customer needs.
+Lead complex multi-quarter technical projects by collaborating closely with cross-functional internal and external teams (i.e., technical and non-technical team members).
+Own end-to-end technical relationships with the assigned publishers – covering both technical consultations and troubleshooting escalations.
+지원하러 가기

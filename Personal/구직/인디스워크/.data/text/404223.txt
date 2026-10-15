@@ -1,0 +1,22 @@
+About the Team
+We enable Physical AI to operate reliably in the real world. Our mission is to maximize inference efficiency in on-device environments while meeting accuracy and latency requirements under real-world constraints. By understanding the computational structure of VLAs, building dedicated runtime engines, and engineering the software stack from scratch, we shape the next-generation of serving systems.
+Responsibilities
+Analyze the architecture and operations of generative models, especially VLAs
+Deploy and run models on edge devices, utilizing hardware accelerators such as NPUs
+Identify performance bottlenecks, then research and apply techniques to resolve them
+Minimum Qualifications
+Proficiency in C/C++ or Python
+Fundamental CS knowledge and English proficiency to understand ML systems research papers
+A proactive approach to problem-solving
+Preferred Qualifications
+Experience deploying and optimizing generative models on edge devices
+Experience profiling performance at kernel and hardware level
+Kernel programming experience on hardware accelerators such as GPUs or NPUs
+전형 절차
+Application
+→Technical interview
+→Offer
+→Hired
+서류 합격 시 개별 연락드립니다. 직무에 따라 커피챗 또는 과제 전형이 포함될 수 있습니다.
+상시 채용
+지원하러 가기

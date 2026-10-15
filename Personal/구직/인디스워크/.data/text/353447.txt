@@ -1,0 +1,35 @@
+Role Summary
+고성능·저전력 AI 반도체의 통합 설계를 담당하는 SoC Design Engineer는 SoC 전반의 RTL 설계 및 통합을 주도하며, 시스템 수준의 성능과 전력 효율을 최적화합니다. 복잡한 AI 연산 구조와 다양한 IP를 유기적으로 결합해 안정적이고 확장 가능한 SoC 아키텍처를 구현합니다.
+아키텍처, 검증, 소프트웨어 팀과 긴밀히 협업해 최신 AI·딥러닝 알고리즘을 하드웨어에 효과적으로 반영하고, 시스템 레벨에서 발생하는 문제를 선제적으로 해결합니다. 또한 빠르게 변화하는 AI 반도체 환경 속에서 제품의 완성도와 경쟁력을 좌우하는 핵심 역할을 담당합니다.
+Job Responsibilities
+SoC Level RTL 설계
+Interface, Power, management, Clocking 등을 위한 RTL 개발
+Compiler/Runtime/Software와의 SoC Co-design
+다양한 레벨의 IP/SoC 디자인에 대한 Verification
+Requirements
+전자공학, 컴퓨터공학 또는 관련 분야 학사 이상
+Standard HDLs(Verilog, SystemVerilog 등) 활용 능력
+SoC 및 Bus Architecture에 대한 구현 경험
+RTL design 및 IP 검증 관련 경험
+스크립트 언어(Python, C, Tcl, Perl 등) 활용 경험
+Preferred Qualifications
+SoC 설계 및 Chip 생산 전반에 대한 경험
+AP, High speed interface에 대한 경험
+FPGA 또는 ASIC 개발 경험
+디자인하우스 또는 팹리스 회사 경력
+Hiring Process
+서류전형 > 실무면접(1차) > 최종면접(2차) > 처우협의 > 최종 합격
+제출서류 : 이력서 및 자기소개서(필수), 성적증명서(필수), 포트폴리오(선택)
+서류전형 합격자에 한하여 개별 안내드리며, 채용절차는 사전 안내 후 변경될 수 있습니다.
+Additional Information
+신입 및 경력 입사자는 입사 후 3개월의 수습 기간이 적용됩니다.
+장애인 및 국자유공자 등 취업 보호 대상자는 관련 법령에 따라 우대합니다.
+지원서 및 제출 서류에 허위 사실이 확인될 경우, 채용이 취소될 수 있습니다.
+경력사항
+경력 무관
+고용형태
+정규직
+근무지
+모빌린트 본사
+서울특별시 강남구 선릉로93길 35, 나라키움 역삼B 빌딩 3층
+지원하러 가기

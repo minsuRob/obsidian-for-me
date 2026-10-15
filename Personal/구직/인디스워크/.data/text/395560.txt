@@ -1,0 +1,51 @@
+Seoul, Korea, Republic of
+Company:
+Qualcomm Korea YH
+Job Area:
+Interns Group, Interns Group > Interim Engineering Intern – SW
+Qualcomm Overview:
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age – and this is where you come in.
+General Summary:
+We are building next-generation on-device Agentic AI technologies that provide intelligent, personalized, and context-aware assistance while preserving efficiency and privacy on edge devices. Our research focuses on enabling AI systems to understand user context, learn from interactions, maintain intelligent memory, and perform complex reasoning through efficient on-device multimodal models.
+We are based in Seoul and collaborate closely with research teams across multiple global sites. We are looking for research interns interested in developing novel theories, algorithms, and systems in the following areas for Agentic AI:
+Long-term memory and memory-augmented AI systems.
+Personalization, User context understanding, multimodal user modeling
+Multimodal generative models (LLM, LVM) and Foundation models
+Reinforcement learning, Continual learning, Knowledge distillation for SLM, SMM
+Hybrid agents, Privacy, Data construction
+The technologies developed during the internship may be deployed on commercial mobile and edge devices powered by Qualcomm platforms. Research outcomes are expected to contribute to state-of-the-art AI technologies and may lead to publications in top-tier AI conference.
+Minimum Qualifications
+Currently pursuing a Ph.D. or Master’s degree in Electrical Engineering, Computer Science, Artificial Intelligence, or a related field.
+Strong knowledge of machine learning and deep learning
+Research experience in LLM, LVM, Foundation models, transformers, and/or personalization techniques
+Experience implementing ML algorithms using Python and deep learning frameworks (e.g., PyTorch, TensorFlow)
+Strong research and problem-solving skills demonstrated through publications or research projects.
+Publication:
+two first-author papers
+in a top-tier
+(NeurIPS, CVPR, ICML, ICCV, ICLR, ECCV, ACL, NAACL) or
+highly competitive
+international conferences (e.g., AAAI, CoRL, WACV, BMVC).
+At least,
+one sole 1st-author paper in the top-tier venues.
+Preferred Qualification
+Prolific record of high-impact publication
+in top-tier AI conferences including
+CVPR, ICCV, ECCV, ICLR, NeurIPS, ICML, ACL (main), and EMNLP (main)
+,
+NAACL (main)
+or a proven track record in industrial R&D.
+Deep architectural understanding
+on LLMs and LVMs that
+goes beyond basic prompting and inference
+(e.g., structural optimization, custom layer design, or fundamental algorithmic improvements).
+Experience with
+advanced machine learning techniques
+such as Reinforcement Learning (RL), Memory Network, Reasoning
+Software development experience in
+mobile or embedded environments
+.
+Proficiency in
+large-scale data processing
+and distributed analysis.
+지원하러 가기

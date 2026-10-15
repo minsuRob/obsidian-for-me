@@ -1,0 +1,29 @@
+Responsibilities and Opportunities
+Design and develop Rebellions’ proprietary compiler stack to accelerate deep learning models on RBLN NPU products
+Architect and implement production-grade frontend and backend compilers with strong generalization capabilities, covering broad functional requirements and optimization strategies
+Evaluate and validate core-level and system-level functionalities in close collaboration with hardware and system software architects and engineers
+Key Qualifications
+Master’s degree or higher in Computer Science, Electrical Engineering, or a related field
+Solid understanding of compiler architecture, including transformation passes, high/mid/low-level optimization and scheduling techniques, scratchpad and buffer memory allocation, and backend code generation
+Strong analytical, troubleshooting, and debugging skills
+Proficiency in C++ and Python
+Ideal Qualifications
+Demonstrated experience in developing and maintaining high-quality, production-level software systems
+Experience with deep learning inference on specialized hardware platforms, including NPUs, GPUs, and mobile application processors
+Expertise in cutting-edge LLM inference, with a strong understanding of advanced memory management and high-throughput generation techniques
+Hands-on experience with parallel programming paradigms and the development of low-level kernels for AI accelerators or GPUs
+Academic background in programming language, compiler, computer architecture is preferred
+전형절차
+서류전형 > On-line 인터뷰 > On-site 인터뷰(과제 포함) > Culture-fit 인터뷰 > 처우 협의 > 최종 합격
+전형절차는 직무별로 다르게 운영될 수 있으며, 일정 및 상황에 따라 변동될 수 있습니다.
+전형 일정 및 결과는 지원 시 작성하신 이메일로 개별 안내드립니다.
+참고사항
+본 공고는 모집 완료 시 조기 마감될 수 있습니다.
+지원서 내용 중 허위사실이 있는 경우에는 합격이 취소될 수 있습니다.
+채용 및 업무 수행과 관련하여 요구되는 법령 상 자격이 갖추어지지 않은 경우 채용이 제한될 수 있습니다.
+보훈 대상자 및 장애인 여부는 채용 과정에서 어떠한 불이익도 미치지 않습니다.
+담당 업무 범위는 후보자의 전반적인 경력과 경험 등 제반사정을 고려하여 변경될 수 있습니다. 이러한 변경이 필요할 경우, 최종 합격 통지 전 적절한 시기에 후보자와 커뮤니케이션 될 예정입니다.
+근무지
+Rebellions | 리벨리온
+경기도 성남시 분당구 정자일로156번길 6, R-TOWER 3F ~ 8F
+지원하러 가기

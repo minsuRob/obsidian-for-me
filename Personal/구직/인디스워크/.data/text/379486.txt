@@ -1,0 +1,39 @@
+주요 업무
+프론트엔드
+: 관리자·모니터링 화면 개발 및 유지보수, UI 설계·구현, 다양한 고객사 플랫폼 대응 보안 라이브러리(SDK) 개발
+백엔드
+: Java/Spring Boot 기반 API 설계·개발, Kafka·OpenSearch·Redis 기반 수집/통계/검색 파이프라인 개발
+현장 지원
+(내·외근) : 제품 설치·초기 설정·API 적용 가이드, 현장 장애 대응 및 정기 점검, 이슈 분석·보고서 작성
+사용 기술
+프론트엔드
+: TypeScript, React, Vue 3, jQuery, Next.js, Vite, Ant Design Pro
+백엔드
+: Java, Spring Boot, Spring Framework
+데이터
+: MySQL, Redis, Kafka, OpenSearch, AWS S3
+서버/인프라
+: Apache, Tomcat, Docker
+CI/CD & 협업
+: Jenkins, GitLab
+자격 요건
+웹 프론트엔드
+또는
+백엔드 개발·유지보수 경력 3년 이상
+프론트엔드 : React·TypeScript 개발 경험, UI 라이브러리(Ant Design 등) 활용 경험
+백엔드 : Java·Spring Boot 기반 서비스 개발 경험, RDBMS(MySQL 등) 및 REST API 이해
+WEB(Apache)·WAS(Tomcat) 등 웹 서비스 운영 구조 이해
+외근 및 고객사 방문 가능, 적극적인 소통 역량
+우대 사항
+프론트엔드·백엔드를 아우르는
+풀스택 개발 경험
+Kafka / OpenSearch / Redis 활용 경험
+모듈형 라이브러리·SDK 설계·개발 경험
+Claude 활용 개발 실무 경험 (하네스·스킬·훅 기반 워크플로우 구성)
+보안 솔루션 구축·현장 지원 경험(nProtect 또는 유사 솔루션)
+보안 관련 자격증(CISSP, CISA, 정보처리기사, 정보보안기사 등)
+필수 사항
+지원서와
+포트폴리오
+제출 (참여 프로젝트·기술 스택 명확히 기재)
+지원하러 가기

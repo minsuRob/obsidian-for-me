@@ -1,0 +1,41 @@
+Introduction
+A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You’ll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you’ll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You’ll be encouraged to challenge the norm, explore new ideas, and create innovative solutions that deliver real results. Our culture of growth and empathy focuses on your long-term career development while valuing your unique skills and experiences.
+Your role and responsibilities
+As an IBM Consulting intern, you will work with the latest technologies and collaborate with team members to create real impact for our clients and the greater world. You will have the opportunity to bring innovative ideas forward, put your transferable skills to work, and develop and learn new skills that will support your career growth.
+SAP SCM PP Module Consultant
+* Assist in the configuration, testing, and maintenance of SAP business solutions (e.g., SAP S/4HANA, SAP ERP).
+* Skilled in SAP ABAP code analysis and leveraging AI tools for development
+* Support day-to-day SAP operations and resolve issues related to the SAP system.
+* Assist in gathering and documenting business requirements for SAP implementations.
+* Participate in SAP system upgrades and migrations.
+* Conduct data analysis and generate reports for business users.
+* Support SAP functional teams in identifying areas for optimization and improvement.
+* Learn and assist in SAP module-specific tasks such as Production Planning (PP) or Sales and Distribution (SD).
+* Assist in user training and preparation of training materials for internal users.
+* Engage in cross-functional projects and collaborate with various departments like finance, procurement, supply chain, etc.
+Required education
+Bachelor’s Degree
+Required technical and professional expertise
+* (MUST) Have basic knowledge in SAP
+* (MUST) Have basic knowledge in ABAP
+* (MUST) Currently enrolled in university (at least 3rd year+) or expected to graduate in 6 months.
+* Strong interpersonal skills that enhance collaboration and relationship building, while also managing dynamic workloads in an agile environment.
+* Ability to perform analysis and development using AI tools.
+* Have initiative and passion to actively seek new knowledge and improve skills while embracing a growth mindset to assimilate diverse viewpoints
+* Demonstrate leadership experience and ability to communicate effectively through active listening; while also be willing to adapt and have a readiness to take ownership of tasks and challenges.
+* Interest in one or more of the following types of consulting: package, security, strategy, application, business transformation, or experience.
+* Must be native level in Korean language and professional level in English.
+* 공인 영어 시험 성적 보유자 (점수 제한 없음)
+ABOUT BUSINESS UNIT
+IBM Consulting is IBM’s consulting and global professional services business, with market leading capabilities in business and technology transformation. With deep expertise in many industries, we offer strategy, experience, technology, and operations services to many of the most innovative and valuable companies in the world. Our people are focused on accelerating our clients’ businesses through the power of collaboration. We believe in the power of technology responsibly used to help people, partners and the planet.
+YOUR LIFE @ IBM
+In a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.
+Being an IBMer means you’ll be able to learn and develop yourself and your career, you’ll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.
+Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.
+Are you ready to be an IBMer?
+ABOUT IBM
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 500 companies relying on the IBM Cloud to run their business.
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+IBM is proud to be an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, neurodivergence, age, or other characteristics protected by the applicable law. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+지원하러 가기

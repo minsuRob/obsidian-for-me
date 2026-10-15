@@ -1,0 +1,46 @@
+Seoul, South Korea
+What to know:
+Commvault does
+not
+conduct interviews by email or text.
+We will never ask you to submit sensitive documents (including banking information, SSN, etc) before your first day.
+About Commvault
+Commvault (NASDAQ: CVLT) is the gold standard in cyber resilience. The company empowers customers to uncover, take action, and rapidly recover from cyberattacks – keeping data safe and businesses resilient. The company’s unique AI-powered platform combines best-in-class data protection, exceptional data security, advanced data intelligence, and lightning-fast recovery across any workload or cloud at the lowest TCO. For over 25 years, more than 100,000 organizations and a vast partner ecosystem have relied on Commvault to reduce risks, improve governance, and do more with data.
+About the Team
+The Automation team at Clumio (Commvault) works closely with the backend team to help build and validate a cloud-scale SaaS backup platform that helps enterprises meet their cloud data protection needs. For many customers, backup is not a “nice-to-have” — it is a mandatory foundation driven by compliance, audit, and security requirements, where recovery speed, cost efficiency, and the ability to handle large-scale data are critical differentiators in real-world environments.
+Our systems protect and recover large volumes of cloud object data in a cloud-native way. Compared to native cloud backup solutions, we deliver up to 10× faster recovery times, roughly half the cost for S3 workloads, and the ability to reliably support significantly larger data scales. These outcomes come from deliberate engineering decisions across system architecture, data flows, and failure-handling strategies.The platform is designed to gracefully handle and recover from failures through reprocessing and retries, while maintaining correctness and reliability at scale. The team operates a proven platform built on Amazon S3 and DynamoDB and is now expanding into multi-cloud data protection across GCP and Azure — an opportunity to apply and evolve our approach across diverse cloud ecosystems.
+Beyond our SaaS solutions, we are also building AI agents that help our customers get more value from their data and operations. As a team, we embrace modern engineering practices, including agentic AI-assisted coding, to build and ship faster — and you will have the opportunity to work hands-on with these tools and techniques.
+Role Overview
+As a Software Engineer focused on automation, you will help ensure a very high engineering quality bar for Clumio’s best-in-class SaaS platform for data protection in the public cloud. You will work closely with Development, Product Management, and Customer Success teams, and grow your skills alongside experienced engineers. This is a great opportunity for a new college graduate or early-career engineer who is passionate about learning Python-based automation, and who wants to learn about modern SaaS platforms and their deployments in clouds like AWS, GCP, and Azure.
+The team builds Python-based automation to interact with and manipulate AWS infrastructure that simulates customer environments, involving services such as EC2, RDS, DynamoDB, S3, Cognito, SQS, SNS, VPC, CloudFormation, Lambda, Kubernetes, and Docker. As an automation team member, you get to build best-in-class data-generation tools to set up scale environments and build REST API libraries.
+What You’ll Do
+Work with a highly motivated team of engineers in a fast-paced environment.
+Design and build test automation frameworks and tools.
+Set up infrastructure (storage, compute, networking) to run automated tests.
+Design and implement automated tests, including end-to-end integration tests and load/stress tests.
+Help drive adoption of best practices in testing and product quality.
+Deliver under tight deadlines using agile methodology.
+Participate in requirement reviews and collaborate with Customer Success teams to help resolve customer escalations.
+Collaborate through design discussions and code reviews, and work with senior and principal engineers to align your work with the broader technical direction.
+Qualifications
+New college graduate, or 1+ year of industry experience in software development or test automation.
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.
+Solid programming fundamentals in an OOP language such as Python or Go.
+A highly motivated self-starter with a builder’s mindset and a passion for quality.
+Working knowledge of English.
+Nice to Have
+Exposure to public cloud technologies (AWS, Azure, or GCP).
+Familiarity with Docker and container orchestration such as Kubernetes.
+Internship, project, or coursework experience in test automation or backend systems.
+You’ll Love Working Here Because…
+You’ll collaborate with amazing, driven, and supportive teammates.
+You’ll enjoy continuous professional growth through product training, development programs, and clear career pathways — ideal for early-career engineers.
+You’ll work on high-impact, large-scale cloud data protection systems used by global enterprises.
+You’ll thrive in an inclusive, open culture with opportunities to connect through our Community Guilds.
+You’ll receive generous global benefits designed to support your well-being.
+You’ll earn competitive compensation that reflects your impact.
+You’ll share in our success through our Employee Stock Purchase Plan.
+#LI-MR1
+#LI-Hybrid
+Commvault is an equal opportunity workplace and is an affirmative action employer. We are always committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status and we will not discriminate against on the basis of such characteristics or any other status protected by the laws or regulations in the locations where we work.
+지원하러 가기

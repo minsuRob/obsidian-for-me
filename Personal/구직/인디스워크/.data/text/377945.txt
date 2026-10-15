@@ -1,0 +1,20 @@
+Seoul
+About the role
+As a product intern, you build real features alongside the founding team and ship them to production — not a sandbox. You will learn fast, own meaningful work, and watch your code go live to real users. A great fit for a builder who wants startup reps early.
+What you’ll do
+Build and ship product features across the app with the founding team.
+Prototype quickly, get feedback, and iterate toward something users love.
+Jump on whatever moves the product forward — design, frontend, glue code.
+What we look for
+Some SvelteKit / TypeScript — or a fast learner who ships.
+Curious, scrappy, and detail-driven; you finish what you start.
+Excited to learn a lot, fast, in a high-ownership environment.
+About us
+We make creator marketing feel like search.
+virev turns 180M+ Instagram, TikTok, and YouTube creators into a database you can actually search — then helps you reach the right ones and run outreach that converts.
+Built on a live map of the creator web.
+3,000 new profiles land in the index every minute. Your next search runs on what creators posted this week — not a list someone exported last spring.
+Mission
+Influencer seeding that actually converts.
+Most brands still find creators by scrolling, guessing, and copy-pasting DMs. We think it should feel like a search engine: describe who you want, see who fits, get their email, and send the pitch — one flow, backed by real data.
+지원하러 가기

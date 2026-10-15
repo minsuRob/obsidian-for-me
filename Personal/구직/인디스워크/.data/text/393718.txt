@@ -1,0 +1,41 @@
+프로젝트 소개
+LG AI연구원 EXAONE Lab에서 Global Frontier 수준의 K-EXAONE 모델을 만들어가는 여정에 함께 하실 분을 찾고 있습니다.
+K-EXAONE 모델이 만들어지는 과정에서 사전학습부터 사후학습, 평가까지 모델 개발 전반을 가까이에서 경험하며, 모델의 부족한 능력을 발견하고 이를 개선하는 업무에 참여하게 됩니다.
+수행 업무
+Agent / Tool Use
+– Coding, Agentic coding, Tool use 등 실제 업무 수행에 필요한 Agent 성능 고도화
+– 장기 task 수행, Multi-step tool interaction, workflow execution 등 실제 사용 환경 중심의 평가 및 개선
+Evaluation / Benchmark Analysis
+– 기존·신규 벤치마크를 기반으로 K-EXAONE 모델의 capability를 정량·정성적으로 평가
+– Benchmark 별 성능 차이와 failure case를 분석하여 모델의 강점·약점 및 개선이 필요한 capability를 진단
+– 평가 결과를 데이터 구축, 학습 등의 모델 개선 방향으로 연결하고 필요한 신규 평가 방법 및 Benchmark 고도화
+Reasoning / Knowledge
+– Graduate, expert 수준의 전문 지식 관련 reasoning task의 성능 고도화
+– 영어 중심 벤치마크에서 Korean, Multilingual로 확장되는 기존/신규 벤치마크 구축 및 성능 고도화
+Long Reasoning
+– 장문 문서, 다중 문서, 긴 대화에서의 retrieval, understanding, multi-hop reasoning 성능 고도화
+이런 분을 찾습니다
+모델을 분석하여 부족한 부분을 발견하고 이를 보완할 수 있는 데이터 생성 및 필터링, quality control 경험자
+Reasoning, math, coding, tool, agent 관련 데이터 또는 벤치마크를 직접 제작하고 결과를 분석해 성능을 개선해 본 경험자
+Pre-training / mid-training / SFT / RL 등의 학습 단계를 이해하고 과정별 고품질 데이터를 구축해 본 경험자
+lm-evaluation-harness, vLLM, SGLang 등 LLM evaluation / inference framework 사용 경험자
+논문, 오픈소스 프로젝트, AI/ML 대회 등의 연구·개발 경험자
+함께하게 된다면
+AI연구원은 본인이 맡은 벤치마크 점수만 높이는 것보다 최종 모델의 전체 성능을 다함께 높이는 것을 중요하게 생각합니다.
+어떤 실험은 기대보다 훨씬 좋은 결과를 만들기도 하고, 어떤 실험은 많은 시간을 들였음에도 성능으로 이어지지 않을 수 있습니다.
+개별 영역의 최적해가 전체 모델의 최적해와 다를 수도 있습니다. 그 과정에서 화려하거나 새로운 방법 자체보다는, 때로는 지루할 만큼 꼼꼼한 분석과 반복적인 검증이 필요하더라도 실제 모델의 성능을 개선하고 팀에 큰 가치를 만드는 방법을 중요하게 생각합니다.
+빠르게 실험하고, 결과를 분석하고, 다시 다음 가설을 만드는 과정을 즐기며 혼자서는 만들기 어려운 큰 모델의 성능을 팀과 함께 끌어올리는 경험을 해보고 싶은 분을 기다립니다.
+지원자격
+AI 분야 석사/박사 재학중이신 분
+우대사항
+AI 분야 석사 학위 소지자
+AI 관련 top-tier 학회(예: NeurIPS, ICML, ICLR, AAAI, CVPR, ACL 등) 1저자 논문 게재 경험
+10B 이상 크기의 LLM 또는 LMM을 pre-training 및 post-training 수행한 경험 보유
+LLM 또는 LMM을 활용한 과제 수행 경험 보유
+근무지
+LG AI연구원 (서울 마곡 중앙로 150)
+전형 절차
+서류심사 → 코딩테스트 → 기술 인터뷰(온라인) → 최종 합격
+* 전형 절차는 변경될 수 있습니다. 서류 합격 시 전형 절차에 대해 별도로 안내 해 드립니다.
+현재 LG AI연구원은 병역지정업체가 아니므로, 전문연구요원 채용 및 전직이 불가함을 알려드립니다.
+지원하러 가기

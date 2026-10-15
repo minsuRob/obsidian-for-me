@@ -1,0 +1,74 @@
+회사 소개
+함께 더 이야기 하고 싶은 AI를 만드는 사람들, 마인드로직입니다.
+[마인드로직이 만들어낸 성과]
+국내외 유수의 투자자들로부터 누적 투자 150억, 탄탄한 재무구조
+7년 이상 딥러닝 기반 챗봇 상용 서비스 제공 중
+독창적인 페르소나 그라운딩 및 장기기억 기술에 기반한 세계 최고 수준의 페르소나 챗봇 엔진 보유
+서울대학교, 서강대학교, 숙명여자대학교 등 다수의 대학에 AI서비스 제공 중
+포브스 선정 한국인이 사랑한 모바일앱 17위, 소셜부문 6위 달성
+구글 어시스턴트 트래픽 글로벌 Top 5 달성
+포지션 정보
+직무: TTS AI Research Engineer
+고용 형태: 정규직
+합류 여정
+서류전형
+자유 형식의 이력서 / 포트폴리오, PDF형식 제출
+TTS 관련 프로젝트 및 연구 경험 상세 기술 필수
+인터뷰전형
+온라인 기술 인터뷰 (포트폴리오 발표 포함)
+대면 Tech & Culture Fit 인터뷰
+주요업무
+현재 해결해야 할 핵심 과제
+자연스러운 인토네이션 개선: 페르소나별 말투와 억양을 정확히 재현하는 TTS 모델 개발
+감정 표현 고도화: 웃음소리, 한숨, 감탄사 등 자연스러운 감정 표현이 가능한 TTS 구현
+첫 토큰 지연 최소화: 실시간 대화를 위한 ultra-low latency TTS 시스템 구축
+핵심 연구개발 영역
+Realtime Conversational Voice Cloning: 대화 상황에 최적화된 실시간 음성 복제 기술 개발
+페르소나 기반 Expressive TTS: 캐릭터별 고유한 음성 스타일과 감정을 반영한 개인화 음성합성 엔진
+Neural Audio Codec 최적화
+TTS 데이터 파이프라인: 음성 데이터 전처리, 정제, 증강을 통한 모델 성능 향상
+자격요건
+컴퓨터 공학, 전기전자공학, 또는 관련 분야 석사 이상 또는 이에 준하는 실무 경험 보유
+TTS/음성합성 연구개발 경험 3년 이상
+PyTorch, TensorFlow 등 딥러닝 프레임워크에 대한 깊은 이해와 활용 경험
+최신 딥러닝 기반 TTS 알고리즘 (FastSpeech, VITS, XTTS 등) 구현 및 커스터마이징 경험
+음성신호처리 기초 지식: FFT, STFT, Mel-spectrogram, MFCC 등의 이해와 활용
+TTS 모델 학습 파이프라인 구축 경험: 데이터 전처리, 학습, 추론 및 튜닝 전반
+Python 및 관련 오디오 처리 라이브러리 (librosa, torchaudio 등) 숙련도
+영어 기술 문서 이해 및 작성 가능한 수준의 언어 능력
+우대사항
+실시간 대화형 TTS 구현 경험 (특히 첫 토큰 지연 최소화)
+Emotional & Expressive TTS: 웃음, 한숨, 감탄사 등 자연스러운 감정 표현 구현 경험
+Voice Cloning 및 Conversational TTS 개발 경험
+음성합성 관련 국제학회 논문 발표: Interspeech, ICASSP, NeurIPS, ICLR 등
+최신 TTS 모델 실험 경험: VITS, XTTS, NeuralSpeech, SpeechT5, Bark, CSM 등
+Neural Vocoder 최적화: WaveNet, WaveGlow, HiFi-GAN, BigVGAN 등 실시간 인퍼런스 구현 경험
+Neural Audio Codec 모델 실험 및 최적화 경험: SNAC, Soundstream, encodec 등
+음성학(Phonetics) 또는 언어학 배경지식 (인토네이션 패턴 이해)
+TTS 상용 서비스 적용 및 운영 경험 (API 서버 구축, 배포 등)
+MLOps 및 모델 서빙 경험 (Docker, Kubernetes, 클라우드 서비스)
+기술스택
+프로그래밍 언어: Python, TypeScript/JavaScript
+딥러닝 프레임워크: PyTorch, TensorFlow, Hugging Face Transformers
+데이터베이스: PostgreSQL, Redis
+클라우드 서비스: AWS
+컨테이너 오케스트레이션: Docker
+CI/CD: GitHub Actions
+버전 관리: Git
+협업 도구: Slack, Jira, Notion
+AI 도구: ChatGPT, Claude, Cursor
+근무환경 및 복지
+주 5일 근무
+자율 시차 출퇴근 (산업기능요원/전문연구요원은 병무청에서 허가하는 유연근무제)
+강남구 선정릉역 도보 1분 미만 거리의 단독 오피스
+최신 업무용 개인 맥북 제공 (맥북M4)
+고성능 GPU 서버 지원 (음성 모델 학습용)
+ChatGPT Pro or Claude / Cursor 구독 지원
+동료들의 생일 축하 & 선물
+그룹 액티비티 서포트
+자율복장
+지원시 참고사항
+지원서 내용, 또는 전형 진행 중 허위 사실이 있는 경우 전형 진행이 취소될 수 있습니다
+취업보호대상자는 관련 법규에 의거하여 우대합니다
+지원 마감: 수시 채용 (우수 인재 채용 시 조기 마감 가능)
+지원하러 가기

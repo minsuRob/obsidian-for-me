@@ -1,0 +1,26 @@
+[담당부서]
+IT혁신팀
+[신입/경력]
+신입
+경력 2년이상 5년 이하
+[담당업무]
+IT/정보보호 업무 운영
+IT인프라(시스템, 네트워크, WAS, NAC, VPN등) 구축 및 운영
+전자적 침해행위, 침해사고, 분석/대응
+취약점 분석 평가 및 보안심의 대응업무
+[우대사항]
+ISMS(-P)/ISO27001등 경험자
+정보보안기사, CISSP, CISA등 보안 자격증 보유자
+클라우드 보안 아키텍쳐(AWS 등) 경험자
+[근무지]
+경기도 안성시 미양면 제4산단로 71
+반도체의 기술을 높이는 사람들, LSE
+경쟁력 있는 기술 연구와 지속 가능 경영을 통해 반도체 산업의 미래를 만들어가는 엘에스이에서
+함께 성장하고 하는 여러분의 도전을 기다립니다.
+엘에스이 주식회사(LSE Co., Ltd)
+축적된 기술력과 노하우를 바탕으로 반도체 세정장비를 전문적으로 제조하고 있으며,
+지속적인 기술개발과 지속가능경영을 통해 반도체 사업의 경쟁력 강화와 고부가 가치 창출에 기여하고 있습니다.
+사업분야
+NSM-series
+NSM-series is a single wafer processor that consists of12 chambers and an advanced chamber structure &wafer transport module to improve small size particlecontrol and throughput in the process applicationunder 20nm technology node.
+지원하러 가기

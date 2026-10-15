@@ -1,0 +1,29 @@
+Pangyo, South Korea
+Full-time
+Responsibilities
+Physical Design (Back-end) Design
+SoC P&R (Floorplan, Placement, CTS, Routing) and Timing Closure
+Physical Verification (DRC/LVS)
+Signoff Power Estimation, Analysis & verification
+On-Chip PSI Analysis
+CPU/GPU Hardening
+Qualifications
+Physical Implementation (Floorplan & P&R) 유경험자
+Physical Verification (Sign-off DRC/LVS) 유경험자
+CPU/GPU hardening 유경험자
+Physical Implementation(P&R) 및 Physical Verification(PV)에 대한 이해
+ASIC 설계 flow 및 설계 방법론에 대한 이해
+Multiple-Power 및 Low Power Design 및 UPF 이해
+유관 업무 경력 3년 이상
+Physical Implementation 에 관심있는 TCL or Python Scripting 유경험자
+Preferred Qualifications
+• SoC Full-chip Physical Design & Implementation 유경험자
+• SoC Full-chip Physical verification 유경험자
+• Script (TCL, Python) 작성 가능자
+• 고속/고전력 Chip의 off-chip PSI 분석 유경험자
+• CPU/GPU Hardening 유경험자
+Company/Team Introduction
+• 회사소개 퀀터라인(Quantaline)은 최신 기술과 혁신을 바탕으로 고성능 반도체 디자인 서비스를 제공하는 전문기업으로, 글로벌 자동차 OEM, 데이터센터, 모바일, 컨슈머 시스템 기업을 대상으로 맞춤형 AI SoC 설계 플랫폼을 제공하는 판교에 위치한 스타트업입니다. 특히, 업계 최고의 기업에서 디자인 서비스 전 과정을 경험한 전문가들로 이루어진 리더급 Manpower를 기반으로 삼성 파운드리 DSP(Design Service Partner) 확보를 목표로, Full Custom SoC 설계 역량과 Turnkey Service(설계–검증–양산까지 일괄 지원)를 갖춘 혁신 기업으로 성장하고 있습니다. 퀀터라인의 주요 응용 분야(Main Application)는 Automotive 제품이며, Implementation 과정에서는 업계에 알려진 최상의 implementation기술을 적용하며, 선단 node의 공정으로 제품을 개발하여, 차세대 경쟁력을 확보하고 있습니다. 지금 퀀터라인은 AI 반도체 디자인 서비스 분야의 글로벌 리더를 목표로, 빠르게 성장하는 글로벌 무대에서, “차세대 AI 반도체 Design Service 혁신을 함께 이끌어갈 열정 있는 인재분들의 도전을 기다립니다.
+개인정보 수집·이용 및 제출서류 관련 안내
+본 채용에 지원서를 제출하는 경우, 지원자는 아래 개인정보 수집·이용 내용을 확인하고 동의한 것으로 간주됩니다. 회사는 채용 전형 진행, 지원자 확인, 전형 결과 안내 및 채용 관련 문의 대응을 위해 지원자의 개인정보를 수집·이용합니다. 수집 항목은 성명, 연락처, 이메일, 이력서·경력기술서·포트폴리오 등 지원자가 제출한 채용 관련 정보입니다. 수집된 개인정보 및 제출서류는 채용절차 종료 후 180일 동안 보관한 뒤 지체 없이 파기합니다. 단, 관계 법령에 따라 보관이 필요한 경우 해당 기간 동안 보관할 수 있습니다. 지원자는 개인정보 수집·이용에 동의하지 않을 권리가 있으나, 동의하지 않을 경우 채용 전형 진행이 제한될 수 있습니다. 제출서류는 전자적 방법으로만 접수되며, 「채용절차의 공정화에 관한 법률」상 반환 대상에 해당하지 않습니다.
+지원하러 가기

@@ -1,0 +1,48 @@
+Overview
+[PCIe/CXL Firmware 개발]
+PCIe 기반의 차세대 메모리 인터페이스 표준인 CXL 시스템을 제어하는 Firmware를 개발합니다. PCIe/CXL Configuration, Device Management, Cache Coherency Control, ATS, DMA 등의 기능을 개발하고 PCIe/CXL Compliance를 지원합니다.
+– PCIe/CXL Core Firmware Development
+– PCIe/CXL Configuration 및 Capability/Status 제어
+– Device Management 기능 개발 (Device Control, Power State, Error Reporting, etc.)
+– CXL Specific 기능 개발 (Memory Management, Cache Coherency, Address Translation, etc.)
+[Embedded system BSP 개발]
+자사에서 설계한 SoC를 위한 Bootloader를 설계하고 Embedded Linux를 포팅합니다. SoC Hardware를 초기화하고 제어하기 위한 Driver를 개발합니다.
+CXL Interface를 제어하고 NVMe SSD를 이용하여 메모리를 확장하는 등의 Emerging Technology에 대해 배우고 경험할 수 있습니다.
+– EEPROM/SPI Flash를 사용한 Bootloader 개발
+– ARM Cortex Core에 Embedded Linux 포팅
+– 장치 초기화 및 제어 (DRAM/SPI/I2C/UART 등)
+– CXL Interface Driver와 NVMe SSD를 이용한 메모리 확장
+– 장치 보안(Secure Boot, Debug)
+[Parallel Processing Platform 및 API 개발]
+당사의 CXL 기반 Near Memory Processing HW를 이용하여 Data Application을 개발하고 실행할 수 있는 SW Platform을 제공
+GPU에서 CUDA Platform을 사용하는 것처럼, 실제 HW 동작의 복잡한 과정을 추상화해 주고, 응용 SW 개발자가 쉽게 사용할 수 있는 Distributed/Parallel Framework(e.g. Map-Reduce 등)을 제시
+– Parallel Processing, Messaging 모델 및 라이브러리 개발
+– Big Data / Large Scale Graph를 위한 병렬 처리 Framework
+– Application Offloading을 위한 API 개발 및 Abstraction Layer 설계
+– CXL 향 Memory Management, Memory Allocator 개발
+– Device Driver 개발
+[Data Analytics Engine 개발]
+CXL Computational Memory를 기반으로 Parquet/Arrow Columnar Data를 저장하고, Spark, Presto등의 Analytics Engine, 혹은 기존 DBMS의 Query Plan을 확장하고 가속하는 Parallel Execution Engine 개발
+초대용량 Graph DB, Vector DB를 위한 CXL Memory/Storage 구조 개발, 이를 기반으로 하는 Graph DB 및 Vector DB Query 가속기 설계와 LLM(+NPU) 운영을 위한 아키텍처 설계
+– Spark등의 Data Analytics/Query Engine 분석과 XCENA 가속 엔진 통합
+– Parallel Query Optimizer, Offloading Code Generator 및 Cost Evaluation 방법론 개발
+– Parquet, Arrow 등 Columnar Data Format 처리
+– Large Scale Graph Processing Framework 기반 Graph Query Algorithm/Executor 개발
+– Scalable Vector Index를 위한 CXL Memory/Storage 구조 및 ANN(Approximate Nearest Neighbor) 가속 솔루션 개발
+Requirements
+전산/컴퓨터/전기전자공학 혹은 SW 관련 전공 BS/MS/Ph.D
+C/C++/Java/Scala/등 관련 분야에 필요한 언어
+[채용절차]
+서류 전형 > 면접 > 채용 건강 검진 > 입사 확정 및 입사 일정 논의 > 입사
+[엑시 복지 제도]
+– 한 달에 하루 구성원들이 스스로 정하는 유급 휴가(MX Day) 지원. 연휴를 더 길게, 휴일이 없는 달도 충분한 휴식 보장
+– 출퇴근 시간에 제약이 없는 유연 근무제
+– 점심 및 저녁 식대(야근 시) 제공
+– 다양한 간식 무한 제공 (네스프레소 커피, 음료, 스낵 등)
+– 연 1회 배우자를 포함하여 건강 검진 지원
+고용형태
+정규직
+근무지
+엑시나
+대한민국 경기도 성남시 분당구 판교역로241번길 20, 8층(삼평동, 미래에셋벤처타워)
+지원하러 가기

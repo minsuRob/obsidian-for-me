@@ -1,0 +1,29 @@
+Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead.
+At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We’re not just any public company – we made history in 2021 by becoming a
+public benefit corporation
+(PBC), legally bound to balancing the interests of customers, employees, society, and investors.
+Join us in
+transforming the life sciences industry
+, committed to making a positive impact on its customers, employees, and communities.
+The Role
+We are looking for a Computer Software Validation (CSV) professional with a specialty in clinical trial software. This role would give you the opportunity to work on a leading solution in Randomization and Trial Supply Management (RTSM) software. To excel in this role, you will require strong technical writing capabilities and the ability to simplify complex topics.
+As a member of the RTSM team, you will work closely with Development and Project Management teams to support customer RTSM implementations in a dynamic environment. You will use your expertise to take ownership of the validation process for assigned projects and play an important role in building and maintaining product excellence for the RTSM system.
+What You’ll Do
+Participate in RTSM requirement gathering sessions with clients and RTSM team members
+Closely collaborate with RTSM Development and Project Management teams to ensure requirements are defined in a clear, testable, and compliant format
+Ensure requirements are adequately tested following a risk-based approach
+Develop and maintain CSV deliverables including requirements specifications, test scripts, summary reports, and trace matrices
+Manage Validation testing cycles and resolution of issues and enhancement requests
+Maintain change control documentation to ensure ongoing validation of the RTSM system
+Provide technical expertise to RTSM team members in computer system validation, applicable regulations, and other quality system requirements
+Support customers as needed in RTSM validation activities
+Requirements
+Working knowledge of software development cycle (SDLC)
+Exceptional attention to detail
+Good interpersonal skills and ability to communicate in English with team members and customers of varying roles and skill levels
+Nice to Have
+Working knowledge of GCP Guidance such as 21 CFR Part 11, EU Annex 11
+#LI-Associate
+Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.
+Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances.
+지원하러 가기

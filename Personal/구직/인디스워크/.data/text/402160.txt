@@ -1,0 +1,26 @@
+[담당부서]
+SW팀
+[신입/경력]
+신입
+[담당업무]
+설비 제어 S/W 개발 및 유지보수
+설비 제어 시나리오 및 UI/UX 개발
+Log관리 및 데이터 수집 모듈 개발
+장비 셋업 및 현장 이슈 대응
+[자격요건]
+학사 학위 이상 졸업(예정)자
+컴퓨터공학, 전기/전자, S/W전공자
+[근무지]
+용인시 기흥구 기흥로 58-1 기흥 ICT밸리 SK V1, A동 16층
+[전형 절차]
+서류 전형 > 1차 면접(실무진) > 2차 비대면 면접 > 최종 합격
+반도체의 기술을 높이는 사람들, LSE
+경쟁력 있는 기술 연구와 지속 가능 경영을 통해 반도체 산업의 미래를 만들어가는 엘에스이에서
+함께 성장하고 하는 여러분의 도전을 기다립니다.
+엘에스이 주식회사(LSE Co., Ltd)
+축적된 기술력과 노하우를 바탕으로 반도체 세정장비를 전문적으로 제조하고 있으며,
+지속적인 기술개발과 지속가능경영을 통해 반도체 사업의 경쟁력 강화와 고부가 가치 창출에 기여하고 있습니다.
+사업분야
+NSM-series
+NSM-series is a single wafer processor that consists of12 chambers and an advanced chamber structure &wafer transport module to improve small size particlecontrol and throughput in the process applicationunder 20nm technology node.
+지원하러 가기

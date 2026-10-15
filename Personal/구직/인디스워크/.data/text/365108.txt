@@ -1,0 +1,32 @@
+About us
+MangoBoost, Inc.
+Agentic AI is fundamentally reshaping the paradigm of AI infrastructure. As environments emerge where countless AI agents operate simultaneously, conventional data center architectures are reaching their limits in both performance and efficiency. In response to this shift, MangoBoost is pioneering a new approach with its full-stack AI infrastructure solution designed to innovate every layer of the AI data center.
+From LLMBoost, our AI inference optimization software, to GPU and storage systems powered by our proprietary DPU architecture, and orchestration software that seamlessly integrates and manages the entire stack, MangoBoost designs and develops every layer of AI infrastructure in-house. Rather than building isolated products, we focus on eliminating system-wide bottlenecks and fundamentally addressing inefficiencies across the entire infrastructure stack.
+MangoBoost’s technology minimizes data movement and coordination overhead while maximizing overall system resource utilization, enabling exceptional performance and optimized total cost of ownership (TCO) for customers. Today, our solutions are already being deployed within real-world AI infrastructure environments through global partners, validating the strength of our technology. Through these efforts, MangoBoost is establishing a new global standard for AI data centers.
+Position Overview
+MangoBoost is engineering the full-stack AI infrastructure driving next-generation, hyper-scale AI data centers—spanning advanced AI networking, next-gen GPU systems, high-performance storage, and the full-stack software ecosystem. Within this mission, our team is building a high-performance network operating system based on SONiC, tailored for next-generation 800G switch platforms (e.g., Broadcom TH5). This network fabric is designed to tightly integrate with our custom DPUs, GPU servers, and storage appliances to deliver low-latency, high-throughput connectivity for AI workloads. As a Software Engineer on this team, you will build and maintain this custom SONiC distribution from an early stage, integrating the latest upstream releases and developing network features that bridge the switch fabric with end-host devices. We hire from junior to senior—scope and ownership scale with your experience. A note on languages: our production stack utilizes C/C++, Python, and Go, but we treat AI-assisted development as a first-class workflow. If you can ship correct, performant systems code with the help of modern AI coding agents, the specific language you’ve used before is not a barrier—your grasp of systems and networking fundamentals is what matters.
+Responsibilities & Opportunities
+Build, customize, and maintain a SONiC-based Network OS for 800G high-performance switches.
+Periodically integrate, port, and validate the latest open-source SONiC releases into our production environment.
+Develop and optimize data center network features via SAI (Switch Abstraction Interface), focusing on RoCEv2, congestion control (PFC, ECN), and hardware telemetry.
+Collaborate cross-functionally with DPU, GPU, and Storage teams to co-design and debug system-level interactions across the AI infrastructure stack.
+Profile network data paths, isolate performance bottlenecks, and optimize forwarding behavior for AI inference and training traffic.
+Write clear design documents and collaborate with a globally distributed, English-working team.
+Required Qualifications
+BS, MS, or PhD in CS, EE, CE, or equivalent practical experience (junior to senior welcome)
+Solid understanding of L2/L3 networking protocols (e.g., BGP, ECMP, VLAN, IPv4/IPv6) and data center topologies (e.g., Spine-Leaf)
+Working knowledge of Linux systems and networking fundamentals (kernel routing, Netlink, TCP/IP stack, debugging tools)
+Strong programming ability in at least one systems language (C/C++, Python, Go), and comfort picking up unfamiliar codebases—including with AI coding agents
+Ability to write technical documentation and communicate effectively in English
+Preferred Qualifications
+Hands-on experience with SONiC architecture and component development (e.g., SWSS, Orchagent, SyncD, Redis interactions)
+Familiarity with high-performance networking silicon (e.g., Broadcom Tomahawk series) and Switch Abstraction Interface (SAI)
+Experience with RDMA/RoCEv2 internals, lossless network tuning, and AI traffic characteristics
+Practical experience integrating network switches with PCIe-based end-host devices like DPUs or SmartNICs
+Open-source contributions to SONiC, SAI, or related networking infrastructure projects
+Notice Regarding Return of Hiring Documents
+This notice is in accordance with Article 11, Section 6 of the Fair Hiring Procedure Act, which allows job applicants, excluding the final successful candidate, to request the return of any recruitment documents they have submitted.
+Job applicants who were not selected as the final candidates in the recruitment process are entitled to request the return of the recruitment documents they submitted within 180 days of the date the employment decision is confirmed. However, this does not apply to documents submitted via the website or email, or documents voluntarily submitted by the applicant without the company’s request. If the recruitment documents are lost due to natural disasters or other reasons for which the company is not responsible, it will be considered as having been returned.
+Applicants wishing to request the return of their recruitment documents should fill out the Request for Return of Hiring Documents [Form 3 of the Enforcement Rules of the Fair Hiring Procedure Act] and submit it by email (recruiting@mangoboost.io). The documents will be sent by registered mail to the designated address within 14 days from the confirmation of submission. Please note that the cost of registered mail will be borne by the recipient.
+The company will keep the recruitment documents for 180 days following the confirmation of the employment decision. If no request for the return of documents is made within that period, the company will dispose of all recruitment documents without delay in accordance with the Personal Information Protection Act.
+지원하러 가기

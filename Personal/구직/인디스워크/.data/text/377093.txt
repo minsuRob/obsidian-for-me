@@ -1,0 +1,48 @@
+We are looking for the best
+About Us
+42dot은 소프트웨어와 AI로 모빌리티 문제를 해결하기 위해 노력하는 모빌리티 AI 기업입니다. 현대자동차그룹 글로벌 소프트웨어 센터로서, 42dot은 소프트웨어 정의 차량 개발을 선도하며 미래 모빌리티를 개척하고 있습니다.
+우리는 안전을 최우선으로 하고 사용자 중심적인 소프트웨어 정의 차량 기술을 개발하여, 스마트폰처럼 지속적인 업데이트를 통해 최신 성능을 제공합니다. 소프트웨어와 AI 기술을 발전시켜, 42dot은 모든 것이 연결되고 자율적으로 움직이는 자율 관리형 도시 교통 운영 체제를 통해 새로운 세상을 그려 나가고 있습니다.
+Responsibilities
+Client, Back-End 전반에서 보안 요구사항을 정의하고 구현합니다.
+API gateway, MCP 서버/클라이언트, Provider 연동 구간에서 보안위협을 식별하고 완화합니다.
+Next.js 기반 운영 콘솔에서 UX를 개선합니다.
+OTLP trace, anomaly event, Datadog, OpenTelemetry, logs, metrics를 활용해 보안 탐지와 incident response 체계를 구축합니다.
+Redis, PostgreSQL, MongoDB, Kafka 등 플랫폼 의존성의 설정, 데이터 보존, 감사, 장애 시 정책을 설계합니다.
+Kubernetes, Helm, Docker, GitLab CI/CD 환경에서 서비스를 개발하고 운영합니다.
+SRE, 인프라, Back-End, Front-End, 보안 조직과 협업해 보안 요구사항을 실현 가능한 플랫폼 기능으로 구체화합니다.
+Qualifications
+JWT, OAuth/OIDC 개념, JWKS, key rotation, token lifecycle, session, PAT, secret management에 대한 실무 이해가 있는 분.
+해시, HMAC, 디지털 서명, 대칭/비대칭 암호화, 안전한 난수, 인증서 체인 등 기본 암호학 개념을 이해하고 토큰 서명/검증, 키 회전, 인증서 기반 통신에 적용해본 경험이 있는분.
+Go 또는 다른 백엔드 언어로 HTTP API 서버, middleware, service-to-service authentication, audit logging을 개발해본 경험이 있는 분.
+SSRF, CSRF, XSS, replay attack, token leakage, privilege escalation, insecure direct object reference 같은 위험을 식별하고 대응책을 제시할 수 있는 분.
+Kubernetes, Helm, Docker, CI/CD 환경에서 서비스를 운영해본 경험이 있는 분.
+로그, 메트릭, 트레이스, 보안 이벤트를 기반으로 이슈를 조사하고 해결해본 경험이 있는 분.
+보안 요구사항을 개발자 경험과 운영 편의성을 해치지 않는 플랫폼 기능으로 설계할 수 있는 분.
+코드 리뷰, 테스트, 문서화, 운영 절차를 통해 서비스 품질을 지속적으로 높일 수 있는 분.
+Preferred Qualifications
+RBAC, ABAC, ReBAC, policy engine, permission model 중 하나 이상을 이해하고 권한 오남용 위험을 설명할 수 있는 분.
+인증/인가, IAM, API security, platform security 중 하나 이상을 production 환경에서 설계하거나 운영한 경험이 있는 분.
+IAM, Zero Trust, API Gateway, Service Mesh, Developer Platform, Internal Security Platform 구축 경험이 있는 분.
+OAuth 2.0, OIDC, mTLS, SPIFFE/SPIRE, workload identity, service account security 경험이 있는 분.
+Secret rotation, KMS/HSM, certificate lifecycle, key custody, signing infrastructure를 운영해본 경험이 있는 분.
+Cryptographic library/API를 직접 구현해본 경험이 있는 분.
+Dependency vulnerability triage, exploitability assessment, compensating control 설계 경험이 있는 분.
+Next.js/React 기반 운영 콘솔에서 권한 UI, audit UX를 설계한 경험이 있는 분.
+Interview Process
+서류전형 – 코딩테스트 – 화상면접 (1시간 내외) – 대면 혹은 화상면접 (3시간 내외) – 최종합격
+전형절차는 직무별로 다르게 운영될 수 있으며, 일정 및 상황에 따라 변동될 수 있습니다.
+전형일정 및 결과는 지원서에 등록하신 이메일로 개별 안내드립니다.
+Additional Information
+이력서 제출 시 주민등록번호, 가족관계, 혼인 여부, 연봉, 사진, 신체조건, 출신 지역 등 채용절차법상 요구 금지된 정보는 제외 부탁드립니다.
+모든 제출 파일은 30MB 이하의 PDF 양식으로 업로드를 부탁드립니다.
+인터뷰 프로세스 종료 후 지원자의 동의하에 평판조회가 진행될 수 있습니다.
+국가보훈대상자 및 취업보호 대상자는 관계법령에 따라 우대합니다.
+장애인 고용 촉진 및 직업재활법에 따라 장애인 등록증 소지자를 우대합니다.
+42dot은 의뢰하지 않은 서치펌의 이력서를 받지 않으며, 요청하지 않은 이력서에 대해 수수료를 지불하지 않습니다.
+3개월의 수습기간이 적용될 수 있습니다.
+※ 지원 전 아래 내용을 꼭 확인해 주세요.
+42dot이 일하는 방식,
+42dot Way 보러가기 →
+42dot만의 업무몰입 프로그램,
+Employee Engagement Program 보러가기 →
+지원하러 가기

@@ -1,0 +1,47 @@
+Step into a career with ASM, where cutting edge technology meets collaborative culture.
+For over 55 years ASM has been ahead of what’s next, at the forefront of innovation and what’s technologically possible. With more than 4,500 ASMers representing 70 nationalities, our people and our advanced semiconductor devices are playing a crucial role in trends such as 5G, cloud computing, AI, and autonomous driving.  But we’re more than just a tech company. We value diversity, inclusion and sustainability as we strive to make a positive impact on the world.  Our development programs help support your growth, shaping your future and pushing the boundaries of innovation to unleash potential.
+Job’s Mission
+As a Field Software Engineer
+at ASM in our Sales & Service function based in Korea, your mission is to become a trusted technical expert supporting the installation, maintenance, and optimization of ASM’s advanced semiconductor equipment. With structured onboarding and mentorship, you’ll contribute to ensuring our tools perform at the highest standards while developing hands-on experience in a highly dynamic, customer-facing environment.
+What You Will Be Working On
+Support SW Design Engineers in development, testing, deployment, maintenance and improving software for our semiconductor manufacturing equipment
+Able to triage mechanical, electrical and software bugs
+Responsible to manage escalation calls with SW team and customers at local level
+Work with QA / Support team to add replicated bugs to regression
+Work with customers to write correct specs for features and help with fixing bugs and develop small features if possible
+Investigate & troubleshoot both internal and external inquiries, questions and problem reports. Offer problem analysis, solutions, or alternatives because of these investigations.
+Participate in system design teams.
+Be the eyes and ears of the customer, align on priorities
+Work with customers to upgrade tools to the latest SW version and help with the qualification
+Troubleshooting complex, microprocessor-controlled electromechanical systems.
+Providing tool-down repair support in complex situations and working collaboratively in cross-functional teams to develop and present action plans for issue resolution.
+Performing on-site service at various customer locations, primarily in cleanroom environments.
+Ensuring a high level of customer satisfaction through advanced service skills and permanent problem resolution, always maintaining a “safety first” mindset.
+Delivering comprehensive and timely service reports.
+What We Are Looking For
+Bachelor’s or master’s degree in a relevant field related to software, or semiconductor-related engineering fields.
+Candidates with at least 3 years of experience in a semiconductor equipment company are preferred.
+A strong interest in the semiconductor industry and eagerness to build a career in field software engineering.
+Effective communication skills in both Korean and English.
+Strong analytical and problem-solving skills
+Some software development skills in one or more general purpose programming languages: C++, C#
+Being able to read code and step through a debugger/IDE
+Proficiency in MS Office applications.
+Willingness to travel and work at customer sites
+A proactive attitude, with a strong desire to learn, grow, and work in a fast-paced technical environment.
+Apply today to be part of what’s next.
+We make the tech that enables the chips in devices which improve lives around the world. We do this with an eye to the future, pushing the boundaries of what’s possible through cutting-edge innovation, and driving the next wave of technological breakthroughs that shape how we live, work, and connect.
+To learn more about ASM, find us at
+asm.com
+and on
+LinkedIn
+,
+Facebook
+,
+Instagram,
+X
+and
+YouTube
+.
+ASM is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, religion, age, nationality, social or ethnic origin, sexual orientation, gender, gender identify or expression, marital status, pregnancy, political affiliation, disability, genetic information, veteran status, or any other characteristic protected by law.
+지원하러 가기

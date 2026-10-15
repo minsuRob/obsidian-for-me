@@ -1,0 +1,44 @@
+Company:
+Qualcomm Korea YH
+Job Area:
+Interns Group, Interns Group > Interim Engineering Intern – SW
+Qualcomm Overview:
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age – and this is where you come in.
+General Summary:
+Our team in Seoul is developing AI technology that enables edge devices to run various models—including LLMs, VLMs, omni models, and more—efficiently. We work closely with teams in San Diego, Amsterdam, Beijing, Hanoi, and other global locations to deliver production-ready solutions that power next-generation devices.
+We are looking for research interns with strong programming skills and a passion for quantization and model efficiency improvements.
+What You’ll Do (Responsibilities)
+Implement, benchmark, and improve
+low-bit quantization methods
+(PTQ / QAT) for various AI models.
+Contribute to
+evaluation and profiling pipelines
+, measuring accuracy and on-device performance (latency, throughput, memory) on Qualcomm hardware.
+Prototype and optimize
+efficient inference kernels
+and model-compression techniques for edge deployment.
+Collaborate with cross-functional and global teams to move research prototypes toward
+production-ready solutions
+.
+Document findings clearly and present results to the team.
+Minimum Qualifications
+Currently pursuing a
+BS, MS, or PhD
+in Computer Science, Electrical Engineering, or a related field.
+Proficiency in
+Python
+.
+Hands-on experience with
+deep learning frameworks
+(e.g., PyTorch).
+Strong problem-solving and debugging skills.
+Preferred Qualifications
+Understanding of
+quantization techniques and model compression
+.
+Good software design fundamentals.
+Familiarity with
+Triton kernels and CUDA programming
+.
+Experience profiling or optimizing models for efficient inference.
+지원하러 가기

@@ -1,0 +1,51 @@
+About this opportunity:
+The Sales Engineering team plays a key role in bridging technology and business to drive customer success. In this role, you will work closely with both global and local sales teams to understand customer needs and design the best-fit iPECS solutions. You’ll be involved throughout the entire process—from UCaaS-based product demonstrations and PoCs to deployment support—delivering real value to customers. Join the Sales Engineering team and be part of creating meaningful impact for our customers.
+Sales Engineering 팀은 기술과 비즈니스를 연결해 고객의 성공을 이끄는 핵심 조직입니다. 팀에 합류하게 되시면 글로벌 및 국내 영업팀과 긴밀히 협력해 고객사의 요구를 분석하고, 최적의 iPECS 솔루션을 설계 및 제안하게 됩니다. UCaaS기반 제품 데모 및 PoC, 구축 지원까지 전 과정에 참여하며 실질적인 고객 가치를 만들어내는 Sales Engineering 팀에 합류하세요.
+What you will do:
+Partner with global and local sales teams to drive new customer acquisition and revenue growth
+Analyze customer requirements and design optimal solutions based on a deep understanding of the iPECS portfolio
+Lead technical engagements, including product demonstrations, PoCs, and solution presentations, to clearly articulate business value
+Identify and address product gaps through workarounds or third-party integrations
+Drive new business opportunities, including UCaaS offerings, new business models, and expansion into new markets
+Support successful solution deployment, including on-site evaluations and post-sales technical activities when needed
+Collaborate with Sales, Customer Support, and R&D to analyze issues, prioritize improvements, and deliver effective solutions
+Coordinate across internal teams and customers to ensure seamless communication and successful project execution
+Contribute to strengthening the technical capabilities of account managers and partner sales engineers
+글로벌 및 국내 영업팀과 협업하여 신규 고객 확보 및 매출 성장 지원
+iPECS 전반 솔루션에 대한 이해를 바탕으로 고객 요구사항 분석 및 최적 솔루션 설계
+제품 데모, PoC, 기술 프레젠테이션 등 기술 세일즈 활동 리딩 및 고객 가치 전달
+제품 기능 격차에 대한 대응 방안 도출(워크어라운드 또는 3rd party 연동)
+UCaaS, 신규 비즈니스 모델, 신규 시장(국가) 등 신규 사업 기회 발굴 및 확대
+솔루션 구축 및 현장 평가 등 성공적인 도입 지원 및 필요 시 기술 지원 수행
+영업, 고객지원, R&D와 협업하여 이슈 분석 및 우선순위 설정, 해결 방안 도출
+고객 및 내부 조직 간 원활한 커뮤니케이션 및 협업 조율을 통한 프로젝트 수행 지원
+AM 및 파트너 세일즈 엔지니어의 기술 역량 강화 기여
+The skills you bring:
+Solid understanding of VoIP, SIP, IPT, UCaaS/CCaaS, and overall ICT environments
+Willing to learn in pre-sales, product management, or related customer-facing technical roles (
+Only New Grads/ less than 2 years of experience
+)
+Ability to analyze customer requirements (e.g., RFI/RFP, pain points) and translate them into effective technical solutions
+Strong presentation skills with the ability to engage both technical and non-technical (executive) audiences
+A combination of technical expertise and business acumen with a strong customer-focused mindset
+Experience in identifying and addressing solution gaps through creative problem-solving or integrations
+Strong communication, collaboration, and stakeholder management skills
+Ability to work effectively in a fast-paced, evolving environment with attention to detail
+Business-level English is mandatory
+(Preferred) Experience with iPECS solutions or similar UC/communication platforms
+(Preferred) Understanding of market trends in UCaaS, CCaaS, and cloud communication technologies
+VoIP, SIP, IPT, UCaaS/CCaaS 및 전반적인 ICT 환경에 대한 이해
+Pre-sales, 제품관리 및 기술지원 등 고객 접점 기반 기술 직무를 배우고 싶은
+졸업 예정자/ 대졸 신입/ 2년 이하 인턴십 경력 우대
+RFI/RFP, 고객 Pain Point 등 요구사항 분석 및 이를 기반으로 한 기술적 솔루션 도출 역량
+기술 및 비기술(경영진) 대상 모두를 아우르는 프레젠테이션 및 커뮤니케이션 역량
+기술 이해도와 비즈니스 감각을 겸비한 고객 중심 사고
+솔루션 격차 식별 및 연동/대안 제시 등 문제 해결 역량
+이해관계자 협업 및 커뮤니케이션 역량
+빠르게 변화하는 환경에서의 업무 수행 능력 및 세부 사항에 대한 높은 집중도
+영어 커뮤니케이션 역량(읽기/쓰기/말하기)
+(우대사항) iPECS 또는 유사 UC/커뮤니케이션 솔루션 경험
+(우대사항) UCaaS, CCaaS 및 클라우드 커뮤니케이션 시장 트렌드에 대한 이해
+Why join Ericsson?
+At Ericsson, you´ll have an outstanding opportunity. The chance to use your skills and imagination to push the boundaries of what´s possible. To build solutions never seen before to some of the world’s toughest problems. You´ll be challenged, but you won’t be alone. You´ll be joining a team of diverse innovators, all driven to go beyond the status quo to craft what comes next.
+지원하러 가기

@@ -1,0 +1,67 @@
+Pangyo, Korea
+About Seoul Robotics
+Seoul Robotics is an autonomous driving company with a mission to solve first and last-mile logistics challenges, backed by a team of industry experts from Google, NVIDIA, Coupang, Hyudai Motor Company and GM.
+This position offers a great opportunity to advance your professional career in the cutting-edge autonomous robotics industry, where AI/ML is embedded at the core of the product.
+With members from over 10 different countries, you have the chance to work in a unique international environment in the heart of Seoul, where English is our primary language.
+Our global clients provide opportunities to work overseas in various areas in Asia and the US.
+[Our Story and Technology]
+– Powering the Future of Autonomy with LV5 CTRL TWR(YouTube
+LINK
+)
+– Media (Chosun Biz
+LINK
+, PR Newswire
+LINK
+)
+[Our Principles]
+■  Add Value
+■  Earn Trust
+■  Own Your Job
+■  Keep Growing
+■  Respect Diversity
+About the Role
+We are looking for an Autonomy Software Engineer to help build and scale core autonomy capabilities. This is a product engineering role for people who enjoy shipping real systems: designing clean software, developing new features, improving reliability, and delivering measurable impact in real operations. The role is best suited for early-career to mid-level engineers who are ready to grow their technical ownership while working on real-world autonomy systems. Experience in robotics or autonomous driving is a plus, not a strict requirement.
+What You Will Do
+Build and improve core autonomy functionality in planning, control, and estimation pipelines
+Design, implement, and maintain robust Python and C++ software for production use
+Help translate product and operational needs into practical technical solutions
+Improve system reliability, performance, and maintainability across modules
+Investigate complex issues using logs, simulation, and operational data, and contribute to durable fixes
+Develop test and validation workflows to support safe and confident releases
+Contribute to engineering quality through design reviews, code reviews, and better development practices
+Required Qualifications
+Strong software engineering fundamentals and hands-on C++ development experience
+Solid grasp of linear algebra, calculus, and geometry, and the ability to translate mathematical concepts into working software
+Experience developing non-trivial software systems through professional work, research, or substantial projects
+Strong problem-solving and debugging skills, including the ability to investigate issues systematically
+Experience writing clean, testable, maintainable code
+Effective collaboration and communication skills in team environments
+Willingness to take responsibility for assigned problems and follow them through implementation and validation
+Preferred Qualifications
+Robotics, autonomous driving, or other real-time/safety-critical system experience
+Practical understanding of planning, control, and/or state estimation systems
+Experience with simulation-based development and validation
+Experience with Linux-based development and CI/CD workflows
+Experience owning a software feature or component from implementation through testing and integration
+Leveling (Junior/Mid)
+Junior-level engineers are expected to contribute to features and modules with guidance, while developing stronger system-level understanding and gradually taking on more ownership
+Mid-level engineers are expected to independently own features or modules, make sound implementation decisions, and contribute to technical design
+Why Join Us
+Work on autonomy software that controls individual vehicles and entire fleets in real-world deployment, where your decisions directly affect safety and performance
+Collaborate with a strong cross-functional team solving practical, high-value problems
+Grow from hands-on execution to larger technical ownership over time
+Recruitment Process
+Application Review – Tech Interviews (2-3 rounds) – CEO Screening – Reference Check – Offer
+(Please be aware that the recruitment processes & schedules may be changed depending on the job and/or other circumstances)
+Benefits
+▷ Diversity – International team (10+ nationalities)
+▷ Flexible work hours
+▷ Hybrid work
+▷ 10 days of paid sick leave
+▷ Daily meal support
+▷ No dress code
+▷ Premium health check (Once a year)
+▷ Snacks and premium coffee
+Seoul Robotics stands for an open and respectful corporate culture because we believe diversity helps us to find new perspectives.
+Seoul Robotics ensures that all our members have equal opportunities – regardless of age, ethnic origin and nationality, gender and gender identity, physical and mental abilities, religion and belief, sexual orientation, and social background. We always ensure diversity right from the recruitment stage and therefore make hiring decisions based on a candidate’s actual competencies, qualifications, and business needs at the point of the time.
+지원하러 가기

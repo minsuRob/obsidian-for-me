@@ -1,0 +1,25 @@
+Overview
+XCENA는 LLM 추론 성능을 극대화하기 위한 KV Cache 인프라를 개발하고 있습니다.
+CXL Memory 기반 KV Cache 엔진의 핵심 아키텍처를 자체 설계·구현하며, XCENA의 CXL Computational Memory Device 위에서 다수의 LLM 인스턴스가 KV Cache를 효율적으로 공유할 수 있는 소프트웨어 스택을 만듭니다.
+LLM Serving의 KVCache 병목을 하드웨어-소프트웨어 공동 최적화로 해결하는 데 관심이 있는 System Software Engineer를 찾고 있습니다.
+담당 업무
+CXL Memory 기반 KV Cache 스토리지 엔진의 핵심 모듈 설계 및 구현
+LLM 추론 엔진(vLLM, SGLang 등)과 연동되는 KV Cache 저장·조회·공유 파이프라인 최적화
+GPU ↔ CPU ↔ CXL 간 KV Cache 계층적 메모리 관리 및 데이터 이동 최적화
+다수의 LLM 인스턴스 간 KV Cache 공유를 위한 메모리 풀링, 동시성 제어, RPC 통신 설계
+오픈소스 KV Cache 관리 시스템(LMCache, vLLM 등)의 기능 개발 및 커뮤니티 기여
+지원 자격
+필수 요건
+전산/컴퓨터/전기전자공학 혹은 SW 관련 분야 학사 이상 학위 소지자
+Python, C++ 를 활용한 소프트웨어 개발 경험
+LLM, KVCache에 대한 기본적인 이해
+우대 요건
+LLM 추론 엔진 관련 개발 또는 운영 경험
+GPU/CUDA 프로그래밍 및 GPU 메모리 최적화 경험
+CXL, RDMA 등 고성능 메모리/네트워크 기술 경험
+오픈소스 프로젝트 운영/기여 경험
+고용형태
+정규직
+근무지
+엑시나대한민국 경기도 성남시 분당구 판교역로241번길 20, 8층(삼평동, 미래에셋벤처타워)
+지원하러 가기

@@ -1,0 +1,45 @@
+Seoul, Korea
+About Moloco:
+Moloco builds some of the most powerful AI advertising solutions in the world. Our name—short for “machine learning company”—reflects our core mission: democratizing access to the advanced AI that has historically been reserved for tech giants. Led by machine learning pioneers who built some of the most successful ad systems at Google, including YouTube’s monetization engine and key search advertising technologies, we’re transforming how businesses grow and compete in the digital economy.
+Built with AI from day one, Moloco’s planet-scale machine learning platform powers a suite of solutions for advertising growth and monetization.
+Moloco Ads
+is an AI-powered platform that delivers real business outcomes for mobile app marketers through performance-based user acquisition.
+Moloco Commerce Media
+enables retailers and marketplaces to build revenue-generating ad businesses that balance user experience and advertiser performance.
+Moloco is headquartered in Silicon Valley, with offices in Seattle, New York, San Francisco, Seoul, Beijing, Singapore, Gurgaon, Tokyo, Shanghai, London, Tel Aviv, and Berlin.
+Moloco is a truly rewarding place to work and in an exciting period of growth, which you could be a part of. Join us today and apply now!
+The Impact You’ll Be Contributing to Moloco:
+Moloco seeks exceptional Software Engineers to join us in building a state-of-the-art mobile advertising platform. You will be building world-class infrastructure which combines machine learning and big data to help companies supercharge their growth. Many leading service owners and marketers worldwide already benefit from Moloco’s innovative technology to scale performance quickly and efficiently through battle tested prediction models.
+As a company founded by Software Engineers, we understand the value of a strong engineering team and strive to hire only the best talent. You will be challenged to solve real-world problems with top-notch colleagues. Check out our case study published by Google
+https://cloud.google.com/customers/moloco/
+.
+The Opportunity:
+Write server-side code that handles millions of requests per second.
+Implement advertising functionality and customer-facing features.
+Learn and explore technologies to improve the services.
+Collaborate with internal/external cross-functional teams to make the best advertising products.
+How Do I Know if the Role is Right For Me?
+Pursuing BS/MS/PhD degree in computer science or related majors.
+Outstanding problem solving skills with proper data structures and algorithms.
+Excellent software development skills at least in one programming language
+Major/minor in Mathematics or relevant coursework/experience is a plus
+Preferred Skills
+Expected to graduate within a year, OR already graduated within a year
+Fluent in English and Korean (both verbal and written)
+** Work-from-home is not available for this role
+Moloco Thrive: Benefits and Well-Being:
+We take care of you and create the conditions for you to do the best work of your career. Through a lens of inclusion, we offer innovative benefits that empower our employees to take care of themselves and their families so they can do the best work of their lives.
+Moloco Values:
+Lead with Humility:
+Everyone’s voice is respected, valued, and heard. With humility, we become more open and accessible to each other. We win, lose, and learn together. Accountability and feedback are essential to our success.
+Uncapped Growth Mindset:
+We see all situations as opportunities to learn, grow, and improve as individuals and as an organization. We seek diverse perspectives, encourage curiosity, and promote experimentation to push the boundaries of what’s possible.
+Create Real Value:
+We pursue the most impactful opportunities with rigor and integrity. We take intelligent risks and make disciplined trade-offs to maintain deep focus. We help our customers win by delivering durable value.
+Go Further Together:
+We’re one team working towards one mission and vision. We collaborate proactively and inclusively, involving the right people at the right time and in the right way. We strive to create a more equitable workplace. We won’t let each other fail.
+Additional Resources:
+Moloco Company Blog
+Moloco Leadership
+Moloco Newsroom
+지원하러 가기

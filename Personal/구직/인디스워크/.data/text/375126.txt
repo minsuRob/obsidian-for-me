@@ -1,0 +1,72 @@
+About Moloco:
+Moloco builds some of the most powerful AI advertising solutions in the world. Our name—short for “machine learning company”—reflects our core mission: democratizing access to the advanced AI that has historically been reserved for tech giants. Led by machine learning pioneers who built some of the most successful ad systems at Google, including YouTube’s monetization engine and key search advertising technologies, we’re transforming how businesses grow and compete in the digital economy.
+Built with AI from day one, Moloco’s planet-scale machine learning platform powers a suite of solutions for advertising growth and monetization.
+Moloco Ads
+is an AI-powered platform that delivers real business outcomes for mobile app marketers through performance-based user acquisition.
+Moloco Commerce Media
+enables retailers and marketplaces to build revenue-generating ad businesses that balance user experience and advertiser performance.
+Moloco is headquartered in Silicon Valley, with offices in Seattle, New York, San Francisco, Seoul, Beijing, Singapore, Gurgaon, Tokyo, Shanghai, London, Tel Aviv, and Berlin.
+Moloco is a truly rewarding place to work and in an exciting period of growth, which you could be a part of. Join us today and apply now!
+About the Role
+We seek exceptional machine learning engineers to join us in building a state-of-the-art machine learning system. Moloco’s ML system processes over 6 million bid requests per second at under 7ms prediction latency, and our deep learning models power CTR/CVR prediction, ranking, and bid price optimization for live auction decisions at planet scale. Moloco is an engineering company founded by top-tier engineers, and machine learning is the core of Moloco’s engineering systems. We understand the value of a strong engineering team and strive to hire only the best engineers.
+As a Machine Learning Engineer, you will contribute to the full machine learning lifecycle — from model development and experimentation to data pipeline maintenance and production deployment. This role is designed for engineers who have solid machine learning and software engineering fundamentals, can execute end-to-end tasks with increasing independence, and are eager to grow through hands-on work in one of the most technically demanding real-time ML environments in the industry.
+What You Will Do
+Develop and iterate on deep learning models for real-world prediction problems, including CTR/CVR estimation and ranking, with guidance on modeling choices and objective function design.
+Build and maintain data pipelines for model training and serving using GCP products such as Dataflow, BigQuery, BigTable, and open-source frameworks such as Apache Beam, PySpark, and Iceberg.
+Support production model serving, monitor model behavior in live environments, and contribute to debugging and improving model quality.
+Design and run offline experiments — define evaluation metrics, test hypotheses, and document findings to contribute to team-level modeling decisions.
+Collaborate with fellow Machine Learning Engineers, Applied Scientists, and Infrastructure engineers to deliver projects end-to-end within defined scopes.
+Grow your understanding of Moloco’s AdTech domain — including auction mechanics, bidding systems, and advertising outcome modeling — and apply that context to your work.
+Basic Qualifications (3 Titles)
+Machine Learning Engineer II
+Bachelor’s degree or higher in Computer Science or a related technical field, or equivalent professional experience.
+2+ years of hands-on software development experience in machine learning or deep learning, with at least some exposure to production systems beyond academic or personal projects.
+Working knowledge of core machine learning modeling concepts, including classification and regression model selection, loss function design, bias/variance trade-offs, calibration, and offline evaluation.
+Solid foundation in statistics and probability, including conditional probability, common distributions, maximum likelihood estimation, hypothesis testing, and basic A/B test interpretation.
+Experience building or contributing to data pipelines or model serving systems, with an understanding of the engineering trade-offs involved.
+Proficiency in at least one programming language such as Python, Java, or Go.
+Fluent English communication skills.
+Senior Machine Learning Engineer
+Bachelor’s degree or higher in Computer Science or a related technical field, or equivalent professional experience.
+5+ years of hands-on software development experience in machine learning and deep learning, with a clear focus on production systems rather than research prototyping.
+Strong machine learning modeling depth, including model selection for classification, regression, and ranking, loss function design, calibration, class imbalance handling, and bias/variance trade-off reasoning.
+Solid foundation in statistics and probability, including Bayesian inference, maximum likelihood estimation, hypothesis testing, A/B experiment design and interpretation, and probabilistic reasoning under uncertainty.
+Demonstrated experience designing and operating large-scale machine learning systems under real-world constraints, including model-serving architectures, feature stores, and training pipelines.
+Proficiency in at least one programming language such as Python, Java, or Go, with the ability to write clean, robust, production-quality code.
+Fluent English communication skills.
+Staff Machine Learning Engineer
+Bachelor’s degree or higher in Computer Science or a related technical field, or equivalent professional experience.
+8+ years of hands-on software development experience in machine learning and deep learning, with a demonstrated focus on large-scale production systems.
+Proven track record of driving technical direction across teams or domains — not just executing projects, but defining the approach, resolving ambiguity, and influencing how others solve problems.
+Expert-level machine learning modeling depth, including objective function design, calibration, multi-task learning, ranking, and the ability to reason about trade-offs across the full modeling lifecycle.
+Strong foundation in statistics and probability, including Bayesian inference, causal reasoning, experiment design, and the ability to design and interpret complex A/B tests with confidence.
+Deep experience designing and operating large-scale machine learning systems end-to-end under real-world constraints, including model serving architectures, feature pipelines, retraining strategies, and observability.
+Proficiency in at least one programming language, such as Python, Java, or Go, with the ability to write and review production-quality code as part of a team.
+Fluent English communication skills, including the ability to align technical and non-technical stakeholders at the leadership level.
+Preferred Qualifications
+(We sincerely encourage you to apply even if you don’t meet all of the preferred qualifications.)
+Relevant experience in AdTech.
+MS or Ph.D. degree in Computer Science or related technical field
+Moloco Thrive: Benefits and Well-Being:
+We take care of you and create the conditions for you to do the best work of your career. Through a lens of inclusion, we offer innovative benefits that empower our employees to take care of themselves and their families so they can do the best work of their lives.
+Moloco Values:
+Lead with Humility:
+Everyone’s voice is respected, valued, and heard. With humility, we become more open and accessible to each other. We win, lose, and learn together. Accountability and feedback are essential to our success.
+Uncapped Growth Mindset:
+We see all situations as opportunities to learn, grow, and improve as individuals and as an organization. We seek diverse perspectives, encourage curiosity, and promote experimentation to push the boundaries of what’s possible.
+Create Real Value:
+We pursue the most impactful opportunities with rigor and integrity. We take intelligent risks and make disciplined trade-offs to maintain deep focus. We help our customers win by delivering durable value.
+Go Further Together:
+We’re one team working towards one mission and vision. We collaborate proactively and inclusively, involving the right people at the right time and in the right way. We strive to create a more equitable workplace. We won’t let each other fail.
+Additional Resources:
+Moloco Company Blog
+Moloco Leadership
+Moloco Newsroom
+AI Use in Interviews
+Our interview process is designed to get to know the real you. Unless a round specifically includes AI as part of what’s being assessed, we ask that candidates engage without AI assistance. Please review our
+AI Use in Interviews Policy
+before your interview to understand what to expect. Failure to comply with this policy may impact your candidacy.
+Equal Opportunity:
+Creating a diverse workforce and a culture of inclusion and belonging is core to our existence. To reach our goals, diversity of talent and thought is a critical component of how we operate as an organization. Our workforce is our superpower, and we know that fostering a culture of inclusion, authenticity, and belonging gives us the greatest opportunity to achieve our vision to become the scaling engine for the Internet economy.
+Moloco is an equal opportunity employer. We highly value diversity in our current and future employees and do not discriminate (including in our hiring and promotion practices) on the basis of race, color, creed, religion, national origin, age, sex and gender, gender expression and identity, sexual orientation, marital status, ancestry, physical or mental disability, military or veteran status, or any other characteristic protected by law.
+지원하러 가기

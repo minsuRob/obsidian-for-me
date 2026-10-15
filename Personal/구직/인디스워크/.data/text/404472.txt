@@ -1,0 +1,68 @@
+Job details
+Step into a career with ASM, where cutting edge technology meets collaborative culture.
+For over 55 years ASM has been ahead of what’s next, at the forefront of innovation and what’s technologically possible. With more than 4,500 ASMers representing 70 nationalities, our people and our advanced semiconductor devices are playing a crucial role in trends such as 5G, cloud computing, AI, and autonomous driving.  But we’re more than just a tech company. We value diversity, inclusion and sustainability as we strive to make a positive impact on the world.  Our development programs help support your growth, shaping your future and pushing the boundaries of innovation to unleash potential.
+Job Summary
+We are seeking a proactive IT Site Support Engineer to provide onsite and remote technical support across multiple office. The ideal candidate will possess strong experience in end-user computing, infrastructure support, AI-enabled workplace tools, IT operations, and customer-focused service delivery. Frequent travel between sites and remote support for satellite offices may be required.
+Key Responsibilities
+End User & Workplace Support
+Provide onsite and remote end-user support for hardware, software, mobile devices, and workplace technologies.
+Install, configure, deploy, and troubleshoot Windows devices and peripherals.
+Support user onboarding, offboarding, device provisioning, and account administration.
+Deliver VIP and executive user support when required.
+Remote Site Support
+Provide remote operational support for regional and branch office locations.
+Coordinate with local vendors and business stakeholders to resolve infrastructure and workplace technology issues.
+Monitor and support remote site IT operations, ensuring service continuity and compliance with corporate standards.
+Act as the primary point of contact for remote site escalations and troubleshooting activities.
+Microsoft 365 & AI Adoption Support
+Support Microsoft 365 applications including Teams, Outlook, OneDrive, SharePoint, and Office applications.
+Assist employees in utilizing Microsoft Copilot and AI-powered productivity
+tools.
+Provide end-user guidance, training, and troubleshooting for AI-based workplace solutions.
+Promote adoption of digital workplace technologies and support AI-driven business transformation initiatives.
+Create and maintain user documentation, quick guides, and knowledge-base articles for Copilot and Microsoft 365 services.
+Infrastructure & Network Support
+Support Active Directory, Microsoft Intune, Autopilot, and endpoint management solutions.
+Perform basic network troubleshooting including VLAN, TCP/IP, switching, wireless connectivity, and printer support.
+Support meeting room technologies, video conferencing platforms, and collaboration devices.
+Assist in infrastructure deployment, relocation, upgrade, and enhancement projects.
+Asset & Security Management
+Manage IT assets throughout their lifecycle, including procurement, deployment, inventory, and disposal.
+Support cybersecurity initiatives, secure workplace operations, and access management controls.
+Ensure compliance with IT policies, security standards, and operational procedures.
+Required Qualifications
+Experience in IT Support, Site IT, Service Desk, Desktop Support, or Field Support roles.
+Knowledge of Microsoft 365, Active Directory, Microsoft Intune, and Windows platforms.
+Understanding of networking fundamentals (TCP/IP, VLAN, DNS, DHCP, Switching).
+Strong customer service and communication skills.
+Ability to work independently in both onsite and remote support environments.
+Korean language proficiency with basic business-level English communication.
+Preferred Qualifications
+Experience supporting Microsoft Copilot or other AI productivity platforms.
+Experience conducting user training, adoption programs, and digital workplace initiatives.
+Experience with Windows Autopilot, Windows Hello for Business, and Windows 11 deployments.
+Experience supporting global enterprise environments.
+Military IT administration or infrastructure support experience.
+Relevant certifications such as Information Processing Engineer, Microsoft Certifications, ITIL, CompTIA Network+, or Security+.
+Mandatory Requirements
+Valid Korean Driver’s License (Class 1 or Class 2)
+Must own and operate a personal vehicle
+Willingness to travel frequently between customer and office locations
+Ability to provide onsite emergency support when required
+Experience supporting both onsite and remote office users
+Apply today to be part of what’s next.
+We make the tech that enables the chips in devices which improve lives around the world. We do this with an eye to the future, pushing the boundaries of what’s possible through cutting-edge innovation, and driving the next wave of technological breakthroughs that shape how we live, work, and connect.
+To learn more about ASM, find us at
+asm.com
+and on
+LinkedIn
+,
+Facebook
+,
+Instagram,
+X
+and
+YouTube
+.
+ASM is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, religion, age, nationality, social or ethnic origin, sexual orientation, gender, gender identify or expression, marital status, pregnancy, political affiliation, disability, genetic information, veteran status, or any other characteristic protected by law.
+지원하러 가기

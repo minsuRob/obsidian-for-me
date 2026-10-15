@@ -1,0 +1,37 @@
+About us
+MangoBoost, Inc.
+Agentic AI is fundamentally reshaping the paradigm of AI infrastructure. As environments emerge where countless AI agents operate simultaneously, conventional data center architectures are reaching their limits in both performance and efficiency. In response to this shift, MangoBoost is pioneering a new approach with its full-stack AI infrastructure solution designed to innovate every layer of the AI data center.
+From LLMBoost, our AI inference optimization software, to GPU and storage systems powered by our proprietary DPU architecture, and orchestration software that seamlessly integrates and manages the entire stack, MangoBoost designs and develops every layer of AI infrastructure in-house. Rather than building isolated products, we focus on eliminating system-wide bottlenecks and fundamentally addressing inefficiencies across the entire infrastructure stack.
+MangoBoost’s technology minimizes data movement and coordination overhead while maximizing overall system resource utilization, enabling exceptional performance and optimized total cost of ownership (TCO) for customers. Today, our solutions are already being deployed within real-world AI infrastructure environments through global partners, validating the strength of our technology. Through these efforts, MangoBoost is establishing a new global standard for AI data centers.
+Position Overview
+MangoBoost is engineering the full-stack AI infrastructure driving next-generation, hyper-scale AI data centers—spanning advanced AI networking, next-gen GPU systems, high-performance storage, and the full-stack software ecosystem.
+Within this mission, our team is building a high-performance storage appliance purpose-built for AI workloads: an open-source distributed storage backend orchestrated on Kubernetes, engineered to deliver data-center-scale IO performance. The platform spans the storage data path (SPDK, NVMe-oF), a Kubernetes Operator for orchestration, REST API and CLI control planes, and a React management dashboard—integrating distributed storage (e.g., DAOS), graph databases (e.g., Kuzu), and vector databases (e.g., Qdrant) into a unified data and memory layer for AI.
+As a Software Engineer on this team, you will design and build across this entire stack, from the kernel-bypass data path up to the orchestration and control plane. We hire from junior to senior—scope and ownership scale with your experience.
+A note on languages: our production stack is primarily Go and C/C++, but we treat AI-assisted development as a first-class workflow. If you can ship correct, performant systems code with the help of modern AI coding agents, the specific language you’ve used before is not a barrier—your grasp of systems fundamentals is what matters.
+Responsibilities & Opportunities
+Design and implement components across the storage stack: data path (SPDK/NVMe-oF), orchestration (Kubernetes Operator/CRDs), control plane (REST API, CLI), and management UI (React)
+Integrate and extend open-source distributed storage backends to meet data-center-scale throughput and latency targets
+Profile end-to-end IO paths, isolate bottlenecks, and optimize performance across CPU, network, and storage devices
+Build the data and memory layer for AI workloads by integrating distributed, graph, and vector storage
+Write clear design documents and collaborate with a globally distributed, English-working team
+Required Qualifications
+BS, MS, or PhD in CS, EE, CE, or equivalent practical experience (junior to senior welcome)
+Solid understanding of storage and/or networking system concepts, with hands-on project experience in related systems
+Experience with performance evaluation, bottleneck analysis, and performance optimization on real systems
+Working knowledge of Linux system fundamentals (processes, memory, filesystems, networking, debugging)
+Strong programming ability in at least one systems language (Go, C/C++, Rust, Python, …), and comfort picking up unfamiliar languages—including with AI coding agents
+Ability to write technical documentation and communicate effectively in English
+Preferred Qualifications
+Hands-on experience with distributed/parallel storage internals (Ceph, Lustre, DAOS, or similar)
+Familiarity with high-performance IO and kernel-bypass technologies: SPDK, NVMe-oF, RDMA/RoCE
+Kubernetes Operator/controller development (CRDs, reconciliation loops)
+Experience with LLM inference systems and KV-cache/memory tiers (vLLM, LMCache, Mooncake), or leveraging storage within AI pipelines
+Experience with graph databases (e.g., Kuzu) or vector databases (e.g., Qdrant)
+Full-stack/React experience for management dashboards
+Open-source contributions to storage, networking, or infrastructure projects
+Notice Regarding Return of Hiring Documents
+This notice is in accordance with Article 11, Section 6 of the Fair Hiring Procedure Act, which allows job applicants, excluding the final successful candidate, to request the return of any recruitment documents they have submitted.
+Job applicants who were not selected as the final candidates in the recruitment process are entitled to request the return of the recruitment documents they submitted within 180 days of the date the employment decision is confirmed. However, this does not apply to documents submitted via the website or email, or documents voluntarily submitted by the applicant without the company’s request. If the recruitment documents are lost due to natural disasters or other reasons for which the company is not responsible, it will be considered as having been returned.
+Applicants wishing to request the return of their recruitment documents should fill out the Request for Return of Hiring Documents [Form 3 of the Enforcement Rules of the Fair Hiring Procedure Act] and submit it by email (recruiting@mangoboost.io). The documents will be sent by registered mail to the designated address within 14 days from the confirmation of submission. Please note that the cost of registered mail will be borne by the recipient.
+The company will keep the recruitment documents for 180 days following the confirmation of the employment decision. If no request for the return of documents is made within that period, the company will dispose of all recruitment documents without delay in accordance with the Personal Information Protection Act.
+지원하러 가기

@@ -1,0 +1,46 @@
+As Datadog’s in-house product experts, the Technical Escalation Engineering (TEE) team plays a critical role in driving our global success. We enable our customers, from the world’s most innovative startups to the largest enterprises.
+Through deep technical expertise, relentless problem-solving, and exceptional customer engagement, we educate, guide, and troubleshoot, delivering high-impact solutions that shape the customer experience. Whether through hands-on technical call, in-depth fact findings meeting, or complex investigations, we set the gold standard for technical excellence and customer advocacy.
+As part of our TEE team, you’ll tackle the most challenging technical problems, collaborate directly with Engineering and Product to refine and evolve our platform, and mentor teams worldwide, elevating the technical bar at every level.
+As part of the Technical Escalation Engineering (TEE) team, you’ll operate at the heart of Datadog’s ecosystem, working at the intersection of Technical Solutions, Engineering, Product, and our Customers. Every challenge you take on will directly impact the performance, scalability, and success of both our clients and our platform. You’ll be in an environment that moves fast, challenges you daily, and rewards curiosity, ownership, and technical excellence.
+This is your chance to shape the future of observability and security, driving innovation, mentoring teams, and influencing product direction while witnessing your expertise make an immediate and lasting impact.
+At Datadog, we place value in our office culture – the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.
+What You’ll Do:
+Become the expert on usage metering, revenue-impacting behavior, and Cloud Cost Management within Technical Solutions, helping customers optimize usage and control spend across all Datadog product lines.
+Lead escalations involving unexpected usage, missing metering data, usage spikes, billing anomalies, unclear attribution, or limits enforcement (e.g., quotas, plans, exclusions, overages).
+Partner closely with Product, Engineering, and Finance to escalate bugs, align on expected behavior, improve usage visibility, and drive transparency and fairness in billing and usage tracking.
+Build internal guides, tooling, diagnostics, and playbooks — plus customer-facing content — that help teams confidently handle billing- and revenue-related questions and forecast, reduce, and monitor observability costs.
+Enable the global Solutions team by running training sessions and building scalable resources that empower others to support usage, billing, and cost-related conversations effectively.
+Act as a voice of the customer, surfacing feedback and patterns to help shape the roadmap for usage visibility, billing transparency, and cost management.
+Who You Are:
+Curious and detail-oriented when it comes to how usage is measured, attributed, and billed across products — including usage limits, overages, metering discrepancies, plan entitlements, and customer contract constraints.
+Passionate about helping customers optimize their cloud footprint, with a strong grasp of cloud cost drivers, usage attribution, and spend analysis.
+Familiar with cloud billing models (AWS, Azure, GCP) — usage types, tags, accounts/projects — and how that data is exposed via APIs and billing exports.
+Comfortable digging into data retention, high-cardinality signals, metric volume, log ingestion, and overage prevention, and able to translate telemetry volume into cost impact.
+Familiar with APIs, product usage metrics, tagging strategies, and the nuances of account-level configurations and multi-org setups.
+Experienced working across technical and business boundaries — equally comfortable with backend telemetry pipelines and customer-facing impact and urgency.
+Analytical and precise, able to communicate usage and cost impact clearly to both technical and non-technical stakeholders.
+Comfortable working with ambiguity, data anomalies, and edge cases, and committed to finding root causes that drive customer trust.
+Datadog values people from all walks of life. We understand not everyone will meet all the below qualifications on day one. That’s okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.
+Bonus points
+Computer Science or Engineering majors
+Experienced in using Zendesk, Jira, Confluence, or similar softwares.
+Familiarity with Datadog, integrations ecosystem, or similar observability platforms is a strong plus.
+Datadog values people from all walks of life. We understand not everyone will meet all the below qualifications on day one. That’s okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.
+Benefits & Growth:
+Product training to develop an in-depth understanding of our product and space
+Continuous career development and pathing opportunities for internal mobility
+Intra-departmental mentor and buddy program for in-house networking
+An inclusive company culture, ability to join our Community Guilds
+New hire stock equity (RSUs) and employee stock purchase plan (ESPP)
+Free global mental health benefit through Spring Health
+Generous global benefits
+Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.
+#LI-Hybrid
+About Datadog:
+Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on
+Instagram
+,
+LinkedIn,
+and
+Datadog Learning Center.
+지원하러 가기

@@ -1,0 +1,47 @@
+회사 소개
+Company Introduction
+We exist to wow our customers. We know we’re doing the right thing when we hear our customers say, “How did I ever live without Coupang?” Born out of an obsession to make shopping, eating, and living easier than ever, we are collectively disrupting the multi-billion-dollar commerce industry from the ground up and establishing an unparalleled reputation for being leading and reliable force in South Korean commerce.
+We are proud to have the best of both worlds — a startup culture with the resources of a large global public company. This fuels us to continue our growth and launch new services at the speed we have been since our inception. We are all entrepreneurs surrounded by opportunities to drive new initiatives and innovations. At our core, we are bold and ambitious people that like to get our hands dirty and make a hands-on impact. At Coupang, you will see yourself, your colleagues, your team, and the company grow every day.
+Our mission to build the future of commerce is real. We push the boundaries of what’s possible to solve problems and break traditional tradeoffs. Join Coupang now to create an epic experience in this always-on, high-tech, and hyper-connected world.
+Role Overview
+Director-level Security Architect with a proven track record of delivering battle-tested Zero Trust Platform Security solutions at scale
+What You Will Do
+Secure Kubernetes environment
+Secure Istio Service Mesh environment
+Secure East West traffic
+Secure North South traffic
+Secure Microservices Oriented Architecture
+Secure Containerized Workloads
+Protect against machine-speed attack
+Basic Qualifications
+Degree in Information Security, Computer Science or related field
+Code security review
+Security Architecture review
+Lead security architecture and source code reviews to verify the secure and consistent propagation of authentication and authorization context across APIs and service interactions throughout end-to-end application workflows.
+Using AI/LLM to automate security process and activity
+Preferred Qualifications
+Deep expertise in Network Segmentation and Microsegmentation
+Layer 7 Service Mesh Enforcement using Envoy sidecars
+Kubernetes NetworkPolicy with eBPF CNI technologies
+Enforce pod-level security standards with Pod Security Admission
+Apply workload securityContext with Kyverno policies
+Recruitment Process
+Application Review – Job Fit Interview – Focus Interview – Offer
+The exact nature of the recruitment process may vary according to the specific job and may be changed due to scheduling or other circumstances.
+Interview schedules and the results will be informed to the applicant via the e-mail address submitted at the application stage.
+Details to Consider
+This job posting may be closed prior to the stated end date for application if all openings are filled.
+Coupang has the right to rescind an offer of employment if a candidate is found to have submitted false information as part of the application process.
+Those eligible for employment protection (recipients of veteran’s benefits, the disabled, etc.) may receive preferential treatment for employment in accordance with applicable laws.
+Job titles and responsibilities may be subject to change depending on the candidate’s overall experience, etc. This will be communicated to the candidate at the appropriate time before the offer.
+Hiring may be restricted in case the legal qualifications required for hiring and work performance is not met.
+(Recruiter Note: add in the case of full-time regulars)
+This is a full-time regular position and includes 12 weeks of probation period; provided, however, the probationary period may be either skipped, shortened or extended if necessary for business purposes.
+(Recruiter Note: add if probation period is applicable, for example in the case of contract position of 3 months or longer)
+This is a contract position and includes 12 weeks of probation period; provided, however, the probationary period may be either skipped, shortened or extended if necessary for business purposes.
+Privacy Notice
+Your personal information will be collected and managed by Coupang as stated in the Application Privacy Notice located below.
+https://www.coupang.jobs/en/privacy-policy
+근무지
+Seoul, South Korea
+지원하러 가기

@@ -1,0 +1,22 @@
+: 자사의 CXL Computational Memory를 이용하여 RAG를 위한 Dense/Sparse Vector Search를 가속화하는 Vector Database 및 Indexing/Searching Algorithm 개발
+: 병렬처리 구조를 기반으로 HW-SW co-design을 통한 성능 최적화
+Responsibilities
+자사의 CXL Computational Memory 장치를 이용한 Data Processing 가속 구현
+– CXL 기반의 대용량의 메모리/스토리지를 활용한 Near Data Processing 설계 및 구현
+– Many Core 아키텍처에 최적화된 Massive Parallel Data Processing 설계 및 구현
+Vector Database Engine 개발
+– 고차원 벡터 검색을 위한 최근접 이웃 탐색(Approximate Nearest Neighbor) 알고리즘 개발
+– 키워드 검색과 벡터 검색이 결합된 하이브리드 검색 알고리즘과 메타 데이터 필터링 구현
+– FAISS, HNSW Lib 등 오픈소스 구현의 분석 및 평가, 가속 구현
+Memory – Storage 최적화
+– CXL Memory 및 Storage를 고려한 Vector algorithm & Data structure 연구 개발
+– Computational memory를 활용한 시스템 레벨 최적화
+Requirements
+– 전산/컴퓨터/전기전자공학 혹은 SW 관련 분야 학사 이상 학위 소지자
+– C/C++, Rust 중 한 가지 이상의 언어에 능숙한 분
+Preferred Experiences
+– Database Engine 개발 경험자(OLAP, OLTP, Vector DB, Graph DB 등)
+– Vector/Graph DB 등을 이용해 LLM/RAG/ML 등의 Pipeline 구축 및 최적화 경험자
+– PG-vector, Milvus, FAISS 등 오픈소스 Vector DB/Lib 기반 DB 개발 경험자
+– CUDA 등의 Heterogeneous Computing을 활용한 Parallel Processing 개발 경험자
+지원하러 가기

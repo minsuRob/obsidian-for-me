@@ -1,0 +1,17 @@
+S.Korea-Seoul
+Business Unit
+LIGHTSPEED STUDIOS is made up of passionate players who advance the art & science of game development through great stories, great gameplay, and advanced technology. We are focused on bringing next generation experiences to gamers who want to enjoy them anywhere, anytime, across multiple genres and devices.
+About the Hiring Team
+Lightspeed Tech Center is a R&D department under Lightspeed Studios which develop PUBG Mobile and other high-quality games. Our Tech Center leads the research, exploration, and discovery of innovative technologies and provides technical services for all games during all phases of life cycle, including engine, audio, QA, AI, next generation game, technical cooperation, etc.
+What the Role Entails
+1. Contribute to and drive cutting-edge research projects in NLP and machine learning.
+2. Train large language models (LLMs) for new and practical tasks.
+3. Collaborate with team members from prototyping through production deployment.
+Who We Look For
+1. Hands-on experience with Python and deep learning frameworks.
+2. Publication experience at top-tier NLP/ML conferences or journals (e.g., ACL, NAACL, EMNLP, EACL, NeurIPS, ICLR, ICML) is preferred.
+Equal Employment Opportunity at Tencent
+As an equal opportunity employer, we firmly believe that diverse voices fuel our innovation and allow us to better serve our users and the community. We foster an environment where every employee of Tencent feels supported and inspired to achieve individual and common goals.
+Who we are
+Tencent is a world-leading internet and technology company that develops innovative products and services to improve the quality of life for people around the world.
+지원하러 가기

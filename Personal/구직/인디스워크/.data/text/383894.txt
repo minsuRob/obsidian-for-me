@@ -1,0 +1,45 @@
+파두의 SoC RTL Engineer는 SSD의 성능과 신뢰성 그리고 전력 효율에 가장 큰 영향을 미치는 핵심 부품인 SSD 컨트롤러 SoC를 개발합니다. 파두의 RTL 엔지니어는 아래의 업무 중 1개 또는 2개의 업무를 수행합니다.
+채용 중 직무
+SOC Platform
+SSD / NAND IP
+DDR Memory Interface
+PCIe Interface
+담당 업무
+SoC Platform 개발
+－ Chip-Top Integration 및 ASIC Front-End
+－ Processor & Bus System
+SoC 내부 SSD IP 개발
+－ SSD HW 및 SW
+－ NAND Interface
+PCIe
+－ SoC 개발 과정에서 요구되는 PCIe 관련 초기 가동, 검증 그리고 테스트를 위한 firmware와 microcode의 설계 및 개발
+－ PCIe-based software protocol (e.g., NVMe)과의 인터페이스 설계 및 개발
+－ PCIe 검증 장비를 이용한 실험 및 분석
+DDR
+－ DDR DRAM (LPDDR4/4x/5/5x, DDR4/5, etc) 관련 SOC Bring-up, 개발/제품 보드 리뷰 및 검증, 각종 테스트 환경 구축
+－ DDR DRAM Device Driver (Training / Calibration, I/O tuning) 및 PCB SI/PI optimization 관련 소프트웨어 개발
+－ SoC의 DDR IP 검증 및 특성화 작업, 데이터 수집과 분석, 각종 DRAM 테스트 등의 역할 수행
+자격 요건
+2년 이상의 RTL 개발 경력 (대학원 과정 포함)
+Verilog, C 언어 숙련자
+RTL 및 C 개발 관련 EDA 툴 사용에 어려움이 없는 사람
+SoC와 Embedded System에 대한 이해 및 디버깅 능력
+우대 사항
+NVMe/FTL/PCIe/DDR/NAND 관련 IP/SoC 개발/검증 경험
+알고리즘 개발 경험 (SSD 이외 분야도 우대)
+PCIe 테스트를 위한 리눅스 디바이스 드라이버 및 응용프로그램 개발 경험
+PCIe compliance program 관련 경험
+5년 이상의 소프트웨어 기반의 PCIe 서브시스템 IP 설계 검증 경험
+실험 장비 사용 경험(PCIe protocol analyzer, BERT, digital oscilloscope 등)
+SoC 초기 가동 (Bring-up) 경험
+DDR DRAM Device Driver & DRAM Protocol에 대한 경험
+5년 이상의 DDR DRAM 서브시스템 IP 설계 검증 및 검증 가속화 경험
+PCB SI/PI 분석 및 유관 설계 및 툴 사용 경험
+=======================================
+We Create Future.
+데이터 폭증의 시대, IT 기술은 클라우드, 인공지능, 빅데이터와 같은 데이터 중심 패러다임으로 급격히 전환 되었습니다. 데이터를 저장하는 스토리지 분야에서도 역시 고성능과 저전력에 대한 요구사항들이 복잡, 다양해지고 있습니다. FADU는 데이터센터에 특화된 여러 시스템 반도체 제품을 설계하는 Fabless입니다. FADU는 혁신적 Architecture를 기반으로 이 새로운 패러다임 변화와 새로운 미래를 함께 개척할 동료를 찾고 있습니다.
+About FADU
+FADU는 NVMe SSD 컨트롤러와 데이터센터 SSD 제품을 개발하기 위해 업계 최고의 전문가들이 모여 만든 회사입니다. 2015년 첫 발걸음을 뗀 이후로 인텔과 Meta를 비롯한 국내외 빅테크 기업들과 파트너쉽을 맺으며 지금까지 다양한 데이터센터 SSD 제품을 선보이고 있습니다. FADU에서는 SSD 컨트롤러 외에도 데이터센터에 특화된 종합 시스템 반도체 팹리스로 도약하기 위해 PMIC, CXL, 그리고 AI 반도체와 같은 여러 기술에 대한 연구와 개발을 하고 있습니다.
+높은 전문성과 열정으로 똘똘 뭉친 최고의 동료들과 지금 함께하세요!
+FADU와 함께 World Class로 성장하며, 최고의 기술과 서비스를 선도할 인재를 모집합니다. 위 자격 요건에 스스로가 잘 맞는다는 확신이 드신다면 부담없이 지원해주시기 바랍니다.
+지원하러 가기

@@ -1,0 +1,41 @@
+It’s more than just something that fills our days. At Thermo Fisher Scientific, our work has a purpose. Our work requires passion and creates meaningful outcomes. Our work matters. We’re sharing our expertise and technological advancements with customers, helping them make the world a better place – whether they’re discovering a cure for cancer, protecting the environment or making sure our food is safe.
+Work Schedule
+Standard (Mon-Fri)
+Environmental Conditions
+Office
+Job Description
+Job Description
+Data Scientist – Biomanufacturing Intelligence
+As part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing our Mission to life every single day to enable our customers to make the world healthier, cleaner and safer.
+The Bioprocessing Business Development team is shaping the future of digital biomanufacturing by creating innovative business models and customer solutions at the convergence of biotechnology, manufacturing, automation and AI. We believe the future of biomanufacturing will be driven by the integration of these disciplines. This role provides a unique opportunity to help define the future of Biomanufacturing Intelligence.
+DESCRIPTION
+Join the Bioprocessing Business Development team as a Data Scientist – Biomanufacturing Intelligence. Unlike traditional data science roles, this position focuses on creating new digital business opportunities rather than supporting an established analytics organization. You will work with bioprocess experts, automation specialists, commercial teams and global stakeholders to explore how biomanufacturing data can be transformed into valuable digital solutions.
+This is an opportunity to help define the future of Biomanufacturing Intelligence by combining data science, automation and biotechnology into innovative solutions for the biopharmaceutical industry.
+KEY RESPONSIBILITIES
+Identify and develop new digital business opportunities for biomanufacturing using AI and data science.
+Collaborate with customers and cross-functional teams to understand manufacturing challenges and develop innovative digital solutions.
+Design AI-ready information models and analytical frameworks that enable Biomanufacturing Intelligence.
+Develop proof-of-concepts and prototypes for next-generation digital biomanufacturing solutions.
+Work with global commercial, product management and technical teams to define future business and technology strategies.
+REQUIREMENTS
+Required
+Master’s or PhD in Data Science, Computer Science, Statistics, Industrial Engineering, or a related discipline.
+Strong programming skills in Python and SQL, with a solid understanding of statistics, machine learning and data analytics.
+Strong analytical thinking and structured problem-solving skills.
+Strong written and verbal English communication skills, with the ability to collaborate effectively in a global environment.
+Strong collaboration and presentation skills, with the ability to work across multidisciplinary teams.
+Intellectual curiosity, open-mindedness and a strong willingness to learn.
+Preferred
+Experience with data engineering, information architecture or semantic data modeling.
+Interest in biotechnology, automation and AI-driven manufacturing.
+Exposure to manufacturing, pharmaceutical or life sciences is beneficial but not required.
+WHY JOIN US?
+Join the world leader in serving science and help create the next generation of digital solutions for the biopharmaceutical industry.
+Work at the convergence of biotechnology, manufacturing, automation and AI while collaborating with global customers and cross-functional teams.
+Grow your expertise across business development, manufacturing and data science while helping define the emerging field of Biomanufacturing Intelligence.
+SUCCESS PROFILE
+Open Mind
+Curiosity
+Persistence
+Cross-functional Collaboration
+지원하러 가기

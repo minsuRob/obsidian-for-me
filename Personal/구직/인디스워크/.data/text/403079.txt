@@ -1,0 +1,30 @@
+📌 포지션 안내
+다양한 촬영 환경에서 ISP(Image Signal Processing) 파라미터를 최적화하여 최상의 화질을 구현하는
+Camera Image Quality(IQ) 엔지니어
+포지션입니다.
+카메라 화질을 결정하는 ISP 기능(AE, AWB, WDR, Noise Reduction 등)을 실제 촬영 환경에 맞게 최적화하고, 촬영 결과를 분석하며 반복적인 튜닝을 통해 제품의 화질을 한 단계씩 개선합니다.
+본 포지션은 ISP 알고리즘을 직접 개발하는 코딩 중심의 업무가 아닙니다.
+카메라가 어떤 환경에서도 최적의 화질을 낼 수 있도록 화질을 설계하고 다듬는
+Image Quality(IQ) 및 ISP 화질 최적화 전문성
+을 쌓는 역할입니다.
+업무 특성을 충분히 검토하신 후 지원해 주시고, 궁금한 점은 언제든 편하게 문의 부탁드립니다.
+💻
+합류하시면 함께 할 업무예요
+∙ Camera Image Features Tuning & Evaluation
+∙ AE Scenario 및 IRIS control scenario
+∙ AWB 구현, Edge sharpness tuning
+∙ 2D/3D Noise filter tuning
+∙ WDR 구현 및 tuning, 인증(TTA, MAS) 평가 대응
+🔍 이런 분과 함께 하고 싶어요
+∙ Imatest 또는 IQ-Analyzer 경험자
+∙ SoC ISP 영상 튜닝 및 양산 경험자
+∙ 꼼꼼하며 영상관련 지식이 있으신 분
+⌛ 이렇게 합류해요
+서류 접수 → 서류 검토 → 인적성검사 → 1차면접 → 2차면접 → 처우협의  → 최종 합격🎉
+☑️ 고용형태
+인턴 3개월(인턴평가를 통한 정규직 전환)
+📍 근무지
+트루엔 본사(서울 구로)
+접수 기간
+2026.10.18 마감
+지원하러 가기

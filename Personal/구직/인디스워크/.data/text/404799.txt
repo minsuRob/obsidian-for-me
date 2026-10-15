@@ -1,0 +1,46 @@
+[담당 업무]
+• 업무별 AI Agent 및 HTTP API 개발 (TypeScript, Node.js)
+• 입력·출력 스키마, 설정 및 외부 시스템 연동 코드 작성
+• LLM 기반 기능 구현 (정보 추출·분류·요약·생성, 문서·이미지 처리)
+• RAG 및 도구 호출(Tool Calling) 연동, 응답 형식 검증·누락 처리·재시도 적용
+• 평가 데이터 기반 품질 개선 (변경 전후 비교, 오류·응답 시간·모델 사용량 분석)
+• 단위·통합 테스트 및 API 문서·실행 가이드·변경 이력 관리
+[자격 요건]
+• 신입 ~ 경력 5년 이하 (개인·팀 프로젝트 경험 인정)
+• TypeScript·JavaScript 또는 이에 준하는 언어 기반 API 연동·데이터 처리 구현 경험
+• 비동기 처리·오류 처리 등 프로그래밍 기본기 및 TypeScript 코드 분석·수정 역량
+• HTTP·REST API·JSON 및 Git 활용 역량
+• LLM API 호출 및 결과 처리 구현 경험
+[기술 스택]
+• Programming: TypeScript, Node.js
+• Framework: Hono, NestJS
+• AI: LLM API, Prompt Engineering, Tool Calling, RAG, Embedding
+• Validation / Test: Zod, JSON Schema, Vitest
+• Data / Infra: PostgreSQL, pgvector, Object Storage, Docker, Cloud
+• Tools: pnpm, Nx, AI 코딩 도구
+• Collaboration: Git, Jira, Confluence
+[우대 사항]
+• Hono·NestJS 등 서버 프레임워크 기반 개발 경험
+• Zod·JSON Schema 기반 구조화된 출력(Structured Output) 검증 경험
+• 프롬프트 개선, 도구 호출, 문서·이미지 인식, RAG 중 1개 이상 실제 기능 구현 경험
+• PostgreSQL·pgvector, 객체 스토리지, Docker, 클라우드 API 활용 경험
+• 자동화 테스트 및 평가 데이터셋 기반 품질 검증 경험
+• pnpm·Nx 모노레포 또는 AI 코딩 도구 활용 경험
+[채용 절차]
+서류 전형 ▶️ 면접 전형 ▶️ 처우 협의 ▶️ 최종 합격
+* 화상 면접(Microsoft Teams 활용) / 대면 면접을 유동적으로 진행합니다.
+* 위 영입 절차는 기본 프로세스로, 경우에 따라 추가 절차가 진행될 수 있습니다.
+[근무 조건]
+• 고용 형태: 정규직 (수습 기간 3개월, 기간 내 급여 100% 지급)
+• 근무 형태: 월 – 금, 시차출퇴근제(8~10시 출근)
+• 근무지: 동탄 본사 또는 양재 원격 근무지 (협의 예정)
+[기타 안내]
+• 입사 지원 서류에 허위 사실이 발견될 경우, 채용 확정 이후라도 채용이 취소될 수 있습니다.
+• 장애인 및 국가유공자 등 취업보호대상자는 관계 법령에 따라 우대합니다.
+• 지원자의 경험과 역량을 종합적으로 검토하여, 보다 적합한 포지션을 제안드릴 수 있습니다.
+[회사 생활]
+LIFE 페이지 바로가기
+근무지
+이우소프트
+경기도 화성시 삼성1로2길 13, 바텍 네트웍스 본사
+지원하러 가기

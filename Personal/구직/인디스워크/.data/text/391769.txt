@@ -1,0 +1,81 @@
+👋 우리 팀을 소개합니다.
+우리는 다양한 NPU/GPU/CPU 기반 Edge 디바이스에서 최신 LLM 및 Vision 모델이 안정적으로 작동하도록
+모델 변환 → 최적화 → 컴파일 → 디바이스 배포까지 전체 파이프라인을 설계·구현하는 팀
+입니다.
+하드웨어 제조사가 제공하지 않는 부분(Front/Middle-End 최적화, Graph Surgery, 연산자 수정 등)을 독자적으로 해결하여
+어떤 모델이든 어떤 디바이스 환경에서도 동작 가능하게 만드는 것
+이 우리의 핵심 미션입니다.
+📌
+해당 포지션으로 합류하신다면
+모델이 PyTorch → ONNX → Compiler → Device로 이어지는 전체 추론 흐름을 경험합니다.
+CPU / GPU / NPU 등 컴퓨팅 자원의 특성과 차이를 이해하고, 이를 직접 조율하는 경험을 할 수 있습니다.
+제한된 자원 환경에서 Accuracy / Latency / Memory 사이의 실전 Trade-off를 고민하고 판단하게 됩니다.
+모델, Compiler, Runtime을 넘나들며 문제의 원인을 찾고 해결하는 디버깅 감각을 기를 수 있습니다.
+✅ 주요 업무
+1.
+모델 변환 및 최적화 파이프라인 설계
+다양한 LLM / VLM 모델을 기준으로 Torch → ONNX → Vendor Compiler → Device Runtime 전체 플로우를 빠르게 이해하고 설계
+모델 구조 분석 후, 하드웨어 제한사항에 맞도록 front/middle-end 수준의 graph transformation 및 rewriting 수행
+dynamic graph → static graph 변환, unsupported ops 제거/대체, quantization-friendly 구조 변형
+2. 디바이스 기반 배포 및 컴파일
+다양한 NPU/GPU/ASIC 환경에서 vendor compiler, runtime framework(Intel, AMD, Jetson, DeepX 등) 사용
+디바이스별 호환성 이슈 파악 및 해결 (unsupported op 수정, dtype 변화, shape 고정화, scale 변환 등)
+디바이스 내부 추론 runtime 환경 설정 및 파이프라인 구축
+3. 모델 성능 보존 및 품질 관리
+모델 아키텍처(Transformer/Diffusion 등) 이해 및 구조 기반 변환 전략 수립
+변환 후 모델 정확도·latency·메모리 변화 분석 및 원본 대비 품질 보존
+런타임 프로파일링 기반 연산자별 성능 병목 분석 및 최적화
+4. 반복 업무 자동화와 효율 개선
+최신 AI 툴 및 프레임워크 활용하여 모델 변환/디버깅/분석 자동화 및 워크플로우 최적화
+반복되는 단계를 scripting(파이썬/CLI) 또는 pipeline(automation)으로 유지·관리
+5. 문서화 및 커뮤니케이션
+기업 / 정부과제 제안서 작성 경험을 기반으로 기술적 배경–문제 정의–실행 전략–정량적 성공 기준을 구조적으로 문서화
+팀 내·외부 커뮤니케이션을 통한 정보 수집 및 문제 구조화 능력
+✅ 자격요건
+[핵심 역량]
+모델 그래프 이해 및 수정 능력:
+Torch → ONNX 변환 구조, Graph Surgery, dynamic→static 변환
+하드웨어 친화 모델 변형 능력:
+unsupported ops 제거/대체, quantization-aware 구조 설계, 메모리·연산 최적화
+하드웨어별 Compiler Workflow 이해:
+ONNX → vendor compiler → NPU/GPU/ASIC runtime
+LLM/GenAI 아키텍처 이해:
+Transformer, RoPE, attention, KV cache, sampling, diffusion 등
+디바이스 배포 경험:
+Intel OpenVINO, Jetson Orin, QNN, SNPE 등 탑재 디바이스 기반 추론 경험
+[필수 경험]
+ONNX 기반 모델 변환 및 디버깅 경험
+모델 최적화/경량화 (quantization, pruning, fusion 등) 경험
+Python 기반 자동화 스크립트 작성 능력
+하드웨어 또는 vendor compiler 문서 기반 문제 해결 능력
+✅ 우대사항
+정부 과제 또는 PoC 제안서/기술문서 작성 경험
+LLM 서빙 스택(ONNX Runtime / vLLM / TRT-LLM 등) 이해
+다양한 벤더 compiler 경험(예: TensorRT, QNN, SNPE, TFLite, eIQ 등)
+실제 디바이스 inference latency / 메모리 profiling 경험
+AI Tool 사용과 직접적 논리 구성의 구분 능력
+(단순 AI 답변 의존 X, 스스로 구조화·추론 가능한 분)
+✅ 채용 절차
+서류 검토 → 과제 → 1차 인터뷰 → 최종 선발
+(절차 간에 추가적인 과제가 있을 수 있습니다.)
+✅ 근무 기간
+6개월 (추후 협의 가능)
+🤓 팀의 메세지
+새로운 모델과 하드웨어를 빠르게 이해하고, 직접 부딪히며 답을 찾아가는 실행력을 중요하게 생각합니다. 모델, Compiler, Runtime을 넘나들며 왜 안 되는지 파고들고, 결국 동작하게 만드는 과정을 즐기는 분을 찾습니다. 현실의 다양한 문제를 함께 고민하고 해결하며, AI 모델과 컴퓨팅 자원을 연결하는 엔지니어로 성장하고 싶은 분이라면 좋은 경험이 될 것입니다.
+지원 전, 확인해주세요! 👀
+해당 공고는 상시 채용으로, 채용 완료 시 조기 마감될 수 있습니다.
+이력서 내 연봉 정보 등 민감한 개인 정보가 기재되어 있다면, 해당 서류는 검토되지 않을 수 있습니다.
+제출해 주신 내용 중 허위 사실이 있을 경우 채용이 취소될 수 있습니다.
+채용 전 레퍼런스 체크가 있음을 알려드립니다.
+최종 인터뷰 합격 시 별도로 처우를 협의합니다.
+국가보훈대상자 및 장애인은 관련 법규에 의거하여 우대합니다.
+장애인 고용 촉진을 위한 행정적 절차 확인이 필요한 경우, 장애인 등록증 사본을 기타 서류 란에
+선택적으로 제출하실 수 있습니다.
+제출 여부는 전형 평가에 어떠한 영향도 미치지 않습니다.
+🔎
+읽어보면 도움 되는 관련 자료
+노타의 그라운드 룰, LP를 소개합니다
+노타는 핵심 가치(CV)를 어떻게 실행할까?
+노타의 나침반, 조직문화
+기술 이야기 없이 AI 회사를 설명할 수 있나요?
+지원하러 가기

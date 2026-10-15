@@ -1,0 +1,56 @@
+Company:
+Qualcomm Korea YH
+Job Area:
+Interns Group, Interns Group > Interim Engineering Intern – SW
+Qualcomm Overview:
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age – and this is where you come in.
+General Summary:
+Qualcomm AI Research advances Generative AI for the edge. Our work spans model architecture restructuring, quantization, hardware-accelerated inference, deployment tooling, and the reliable evaluation of these models — enabling LLMs, vision-language and any-to-any multimodal models, and generative vision models to run on-device.
+This internship is open across two complementary teams, and you will join one of them depending on your interests and expertise.
+The **Model Efficiency & Deployment** team builds and maintains a Python library that restructures state-of-the-art open-source model architectures to run efficiently on Qualcomm hardware. It integrates PyTorch, Hugging Face Transformers, Diffusers, and AIMET, and provides a consistent set of APIs — architecture restructuring, quantization-ready graph preparation, and inference utilities.
+The **Evaluation & Benchmarking** team builds the benchmarking methodologies and frameworks used to evaluate these models reliably and reproducibly, addressing the still-open problem of reliability in model evaluation and benchmarking.
+As an intern, you’ll work alongside a team of researchers and software engineers in Seoul and San Diego, with the opportunity to complete a well-defined project during the internship.
+Responsibilities
+You will contribute to one of the following two areas, depending on your interests and expertise.
+Model Efficiency & Deployment
+– Restructure state-of-the-art open-source model architectures (LLMs, vision-language and any-to-any multimodal models, generative vision models) to run efficiently within hardware constraints.
+– Apply graph-level changes to enable static-shape graph export and fixed-size KV-cache allocation, and replace operators with NPU/DSP-compatible equivalents in the model graph.
+– Implement and validate efficient inference techniques such as speculative decoding, long-context handling, and KV-cache management.
+– Support quantization workflows (AIMET-based post-training quantization, mixed-precision quantization, group-wise weight quantization).
+Evaluation & Benchmarking
+– Research how to evaluate generative model outputs reliably and reproducibly where standard metrics fall short (e.g., reasoning, long-form generation), and how to separate the true impact of model changes (e.g., quantization) from generation variability.
+– Improve the efficiency and reliability of evaluation to reach trustworthy conclusions at lower cost, and analyze what benchmarks actually measure to guide the choice of evaluation methods for different use cases.
+– Collaborate with software and system engineers to understand requirements, plan evaluation strategies, and define key performance metrics (KPIs).
+Both tracks
+– Validate the accuracy of quantized or compressed models against the original (unquantized) reference models, using standard task performance and quantization-error metrics.
+– Read recent research papers in your area (efficient inference and quantization, or evaluation and benchmarking methodology) and implement and validate the proposed techniques in our library/framework.
+– Keep your outputs up to date with new Hugging Face Transformers releases
+– the Model Efficiency & Deployment side maintaining the restructured models
+– the Evaluation & Benchmarking side maintaining the decoding logic built on top of them.
+– Write clear, tested, well-documented code following the team’s engineering conventions (code review, automated testing).
+Minimum Qualifications
+– Currently enrolled as a full-time Bachelor’s, Master’s, or PhD student in Computer Science, Electrical/Computer Engineering, or a related field.
+– Hands-on experience with PyTorch and Python.
+– Familiarity with Large Language Models or other generative AI systems — at the level of their architecture, training, or inference/generation process.
+– Solid software development skills, including debugging and setting up reproducible experiments.
+Preferred Qualifications
+Both tracks
+– Experience using/integrating Qualcomm AI Stack products (e.g., QNN, SNPE, QAIRT) or inference runtimes (e.g., ONNX Runtime, ExecuTorch, llama.cpp).
+– Strong analytical and debugging skills — able to identify the root cause of numerical errors or behavior changes that appear across framework versions.
+– Proficient in reading and modifying large codebases that change frequently, and comfortable with Git and pull-request-based workflows.
+– Prior experience collaborating with teams across multiple time zones.
+Model Efficiency & Deployment
+– Experience optimizing models for edge/mobile/on-device deployment.
+– Knowledge of hardware accelerators (GPU/NPU/TPU/DSP) and how they influence model design choices.
+– Familiarity with large multimodal models (vision-language, any-to-any).
+– Understanding of efficient LLM inference techniques and recent research in this area.
+– Experience with model quantization or pruning, and familiarity with quantization toolkits (e.g., AIMET, LLM Compressor).
+– Prior experience with generative vision models (e.g., diffusion).
+Evaluation & Benchmarking
+– Experience benchmarking or evaluating generative models, including assessment of output quality, diversity, and reproducibility.
+– Statistical thinking about the reliability of evaluation results (variance and uncertainty estimation, significance, sampling/subset design).
+– Familiarity with diverse evaluation domains such as LLMs, multimodal (vision-language), and agentic (tool-use, multi-step) systems.
+– Familiarity with CI/CD workflows and automation tools for benchmarking and model evaluation.
+– Understanding of how quantization and compression affect accuracy, or experience in on-device/edge deployment settings.
+– Familiarity with AI agent frameworks (e.g., LangChain, LlamaIndex, Autogen).
+지원하러 가기

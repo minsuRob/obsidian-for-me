@@ -1,0 +1,44 @@
+상시 채용
+직군 소개
+WoRV Research 팀은 다양한 로봇 embodiment에서 범용적으로 작동하는
+Robotics Foundation Model
+을 연구합니다. Manipulation, locomotion, navigation 등 개별 태스크를 넘어, 하나의 모델이 다양한 로봇과 태스크를 통합 수행하는
+Generalist Robot Policy
+를 목표로 VLA 아키텍처, 월드모델, 대규모 로봇 데이터 학습에 이르는 frontier 연구를 수행하고 있습니다.
+이 포지션은
+리서치 펠로우십 형태
+(3~6개월, 박사과정 재학생 지원 가능)로도 참여할 수 있습니다.
+주요 업무
+Robotics Foundation Models 구축을 위한 아키텍처를 설계하고, 대규모 학습을 통해 cross-embodiment 일반화 성능을 검증합니다.
+월드모델 기반의 예측·계획 능력을 로봇 정책에 통합하는 연구를 수행합니다.
+데이터 스케일링, 표현 학습, action tokenization 등 foundation model의 핵심 연구 문제를 정의하고 해결합니다.
+로보틱스 데이터셋의 스케일링을 설계하고, 학습 평가 파이프라인을 구축합니다.
+실제 로봇 플랫폼에서 학습된 정책의 일반화 성능과 robustness를 검증합니다.
+연구 결과를 주요 학회(NeurIPS, ICLR, CVPR, CoRL, ICRA)에 발표합니다.
+자격 요건
+Robotics, Computer Vision, Machine Learning 분야 석사 이상 또는 그에 준하는 연구 경력을 보유하신 분
+주요 ML/Robotics 학회(NeurIPS, ICLR, CVPR, CoRL, ICRA 등)에 주저자로 논문을 게재한 실적이 있으신 분
+Foundation model(VLA, LLM, VLM, WAM 등)의 학습 및 파인튜닝에 대한 깊은 이해와 실무 경험이 있으신 분
+독립적으로 연구 문제를 정의하고, 실험을 설계하며, 결론까지 도출할 수 있는 분
+PyTorch 기반 대규모 모델 학습(multi-GPU/multi-node) 경험이 있으신 분
+우대 사항
+Robotics Foundation Model, Generalist Policy, Cross-embodiment Transfer 연구 경험
+대규모 사전학습(pretraining) 파이프라인 설계 및 운영 경험
+월드모델, Video Generation/Prediction, Representation Learning 연구 경험
+Imitation Learning, Reinforcement Learning, Sim-to-Real Transfer 연구 경험
+오픈소스 연구 프로젝트 기여 또는 커뮤니티에서 주목받은 연구 성과
+로보틱스 데이터의 스케일링을 위한 연구 경험이 있으신 분 (e.g., UMI, Ego4D)
+실제 로봇 하드웨어에서의 정책 배포 및 검증 경험
+이런 분을 찾습니다
+“이 문제는 왜 아직 안 풀렸는가”를 먼저 묻는 분
+논문의 가치와 제품의 가치를 모두 이해하는 분
+세계최고를 목표로 하는 연구를 하고 싶으신 분
+하드웨어의 제약 속에서 창의적으로 문제를 푸는 분
+채용 프로세스
+1. 서류 전형
+2. 코딩 테스트 및 과제 제출
+3. 1차 면접 (기술 면접)
+4. 2차 면접 (컬처핏 면접)
+5. 처우 협의
+6. 최종 합류
+지원하러 가기

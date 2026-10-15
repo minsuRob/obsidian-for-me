@@ -1,0 +1,29 @@
+Seoul, Korea, South
+Job Description
+WHAT YOU DO AT AMD CHANGES EVERYTHING
+At AMD, our mission is to build great products that accelerate next-generation computing experiences—from AI and data centers, to PCs, gaming and embedded systems. Grounded in a culture of innovation and collaboration, we believe real progress comes from bold ideas, human ingenuity and a shared passion to create something extraordinary. When you join AMD, you’ll discover the real differentiator is our culture. We push the limits of innovation to solve the world’s most important challenges—striving for execution excellence, while being direct, humble, collaborative, and inclusive of diverse perspectives. Join us as we shape the future of AI and beyond.
+Together, we advance your career.
+THE ROLE:
+You will be passionate about graphics and gaming and will partner directly with game developers to help them launch their titles and get the best possible performance out of AMD hardware. You will be a member of a core team of incredibly talented industry specialists and will work with the very latest hardware and software technology.
+THE PERSON:
+You will be passionate about real-time graphics and GPU technology. You will also possess the communication skills to act as a trusted technical point of contact for game studios and be comfortable driving sophisticated issues to resolution across external partners and teams within AMD.
+KEY RESPONSIBILITIES:
+Work directly with game developers to optimize their titles and bring them successfully to market on AMD hardware
+Serve as the primary technical point of contact for partner game studios
+Apply a data-driven approach to analyzing and improving rendering performance
+Debug and resolve graphics and performance issues spanning game engines, graphics APIs, and the GPU
+Work with AMD’s architecture specialists to influence and improve future products
+Stay informed of graphics, gaming, and hardware trends, especially in rendering and GPU architecture
+PREFERRED EXPERIENCE:
+Strong C/C++ programming background with a keen attention to detail
+Solid understanding of modern graphics APIs (Direct3D 12 required; Vulkan a plus)
+Knowledge of rendering techniques, graphics pipelines, and modern game engines (Unreal Engine a strong plus)
+Familiarity with GPU internals, ISA, and GPU profiling/optimization
+Console and other platform development experience a plus
+Strong communication, presentation, and negotiation skills
+Native or near-native written and spoken Korean is mandatory as you will be communicating with external customers
+ACADEMIC CREDENTIALS:
+Bachelor’s or Master’s degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent
+LOCATION:
+Seoul, Korea
+지원하러 가기

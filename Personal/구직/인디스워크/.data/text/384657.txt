@@ -1,0 +1,47 @@
+Company:
+Qualcomm Korea YH
+Job Area:
+Interns Group, Interns Group > Interim Engineering Intern – SW
+Qualcomm Overview:
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age – and this is where you come in.
+General Summary:
+We are making AI technology be around us at edge devices, attend and assist people and learn from interaction without many labels, together with other devices in a federated way. We are based in Seoul and work together with our other team members in San Diego, Amsterdam, and Beijing.
+We are looking for research interns interested in developing new theories and algorithms in the following areas, with a strong focus on Generative AI Models and its personalization:
+Generative foundation models
+:
+LLM, LVM, LMM, VLA, etc.
+Personalization and on-device adaptation of generative models
+Efficient fine-tuning techniques (LoRA, adapters, parameter-efficient tuning)
+Multi-modal generation (text-to-image, text-to-video, audio-visual)
+Diffusion / transformer models and their optimization
+Knowledge distillation and compression for generative models
+Quantization and low-bit processing for LLM/LMM
+Reinforcement Learning for Generative AI (RLHF, policy optimization, reward modeling)
+Unsupervised / semi-supervised / self-supervised learning
+Meta-Learning / few-shot learning / domain adaptation / knowledge transfer
+The developed technologies can be deployed on mobile device applications and have a worldwide impact on on-device learning algorithms using Qualcomm chips. Also, the research results are expected to be published in top-tier conferences and journals.
+Minimum Qualifications
+Currently pursuing a Ph.D. or Master’s degree in Electrical Engineering, Computer Science, Artificial Intelligence, or a related field.
+Strong knowledge of machine learning and deep learning
+Research experience in
+Generative AI
+(LLM, LVM, LMM, VLA) and/or personalization techniques
+Experience implementing ML algorithms using Python and deep learning frameworks (e.g., PyTorch, TensorFlow)
+Strong research and problem-solving skills demonstrated through publications or research projects.
+Publication requirement:
+At least
+2 first-author papers
+, including
+at least 1 paper in a top-tier conference
+(e.g., NeurIPS, CVPR, ICML, ICCV, ICLR, ECCV, ACL)
+Preferred Qualifications
+Extensive and diverse experience with generative AI models, including LLMs, LVMs, LMMs, and multi-modal architectures
+Familiarity with
+efficient adaptation techniques
+such as LoRA, adapters, and other parameter-efficient fine-tuning methods
+Hands-on experience with model optimization for edge deployment, including quantization, pruning, and low-bit inference/training
+Track record of publications at leading AI conferences (e.g., NeurIPS, CVPR, ICML, ICCV, ICLR, ECCV, ACL)
+Applicants
+: Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process.
+Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.
+지원하러 가기

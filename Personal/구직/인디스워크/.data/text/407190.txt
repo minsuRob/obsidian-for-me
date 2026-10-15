@@ -1,0 +1,39 @@
+About us
+Our mission is to reinvent the way people learn, starting with language.
+Learning a language can change a life by opening doors to new cultures, careers, and communities. Two billion people around the world are actively trying to learn a language, but the best way to learn (one-on-one tutoring) is hard to access at scale and hasn’t been meaningfully improved in decades. Speak is building a human-level, AI-powered tutor in your pocket: a conversation-first experience that lets learners actually speak, get instant feedback, and progress through carefully designed lessons. The result is a complete path from beginner to confident speaker across multiple languages.
+Speak first launched in South Korea in 2019, where Speak has now become the number one language learning app, and we now serve learners across many markets and 15+ languages. Speak is one of the world’s leading AI companies, with over $150m raised in venture investment from OpenAI, Accel, Founders Fund, Khosla Ventures, and more, with a distributed team across San Francisco, Seoul, Tokyo, Taipei, and Ljubljana.
+About this role
+Speak is looking for a
+Growth Marketing Intern
+to join our team in Seoul. You’ll work across paid acquisition and CRM, helping us reach new learners and keep existing ones engaged. Day to day, you’ll set up and help plan paid ad campaigns and lifecycle campaigns, and turn campaign data into clear takeaways. This is a 6-month contract role (with the possibility of extension), reporting to our Growth Marketing Manager. It’s a great fit for someone who likes to take ownership: pulling the data, figuring out what to do next, and sharing progress without waiting to be asked.
+What you’ll do at Speak
+Launch and manage B2B ad campaigns on LinkedIn and Meta across Korea, Japan and Taiwan, including campaign and ad set setup, lead gen forms, InMail ads and UTM tracking
+Support B2C paid social by uploading creator content to Meta, monitoring performance and flagging what’s working
+Report on paid channel performance by keeping campaign data up to date, writing weekly summaries and running retros on creator collaborations
+Write user-facing copy for email, push notifications, KakaoTalk, SMS and in-app messages, including variants for A/B tests, and plan image assets for CRM channels
+Set up CRM journeys based on campaign plans, including wait times, segment filters, random branches and A/B tests, along with landing page links and image URLs
+QA CRM campaign setups before launch to make sure everything goes out accurately
+Help run high-volume promotional campaigns during our peak season (December–January)
+We’d love to hear from you if you have
+Hands-on experience with both paid media (Meta Ads Manager and/or LinkedIn Campaign Manager) and CRM or lifecycle marketing
+A strong sense of ownership and comfort pulling data, drawing conclusions and acting on them independently
+A proactive communication style: you share updates when work is done and suggest next steps
+Curiosity about growth marketing and experimentation
+A detail-oriented, organized approach and a habit of double-checking work before launch
+While it’s not required, it’s an added plus if you have
+Experience with CRM tools such as Braze or
+Customer.io
+Familiarity with BigQuery or Google Sheets reporting
+Experience with Meta or Google Ads Manager
+Native-level Korean and professional working English (our team works across Korea and the US)
+Why work at Speak
+Join a fantastic, tight-knit team at the right time:
+we’re growing very quickly, we’ve most recently raised our Series C from some of the top investors in the valley, and we’ve achieved product-market fit in our initial markets. You’d join at a magical time when a single person could significantly change the course of the company.
+Do your life’s work with people you’ll love working with:
+we care strongly about our craft and want every person at Speak to feel like they’re growing every day. We believe in the idea that working with people you both enjoy and have respect for makes everything better. We hire thoughtfully and only work with people we admire deeply.
+Global in nature:
+We’re live in over 40 countries and launching in a number of new markets soon. We have dedicated offices in San Francisco, Ljubljana, Seoul, Tokyo, and Taipei, and you’ll have the opportunity to talk to users in each of these regions on a regular basis as well as travel.
+Impact people’s lives in a major way:
+Learning a language is one of the single most life-changing skills one can learn, and right now 99% of people never achieve their goal because the process is broken. We’re helping millions of people achieve their goals and improve their lives.
+Speak does not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+지원하러 가기

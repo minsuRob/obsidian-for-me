@@ -1,0 +1,65 @@
+Location
+Seoul, South Korea
+Security isn’t just a checkbox at Delight.ai. It’s the foundation everything else is built on. If you believe security should accelerate how people work, not slow them down, keep reading.
+The Company
+Sendbird is on a mission to build the AI workforce of tomorrow. For over a decade, we built the infrastructure behind conversations—chat, voice, video, messaging APIs—and became the #1 CPaaS platform for in-app communications. 4,000+ brands trust us. 7 billion messages flow through our platform every month. 300 million monthly active users.
+We powered conversations for DoorDash, Match Group, Noom, Yahoo Sports, Rakuten, and thousands of others. We were good at what we did. Really good.
+We also saw it early: AI would fundamentally reshape how businesses talk to customers. The infrastructure we’d spent a decade building would become commoditized. The value would move up the stack—into intelligence, into experience, into outcomes.
+In December 2024, we made the full strategic pivot to AI-first customer experience. By February 2025, we’d launched our AI agent for enterprise CX—built on a decade of conversation data, now with intelligence on top. And in November 2025, we rebranded to Delight.ai.
+The Product
+Delight.ai is the AI concierge for customer experience. Most AI agents forget you the moment the conversation ends. Ours doesn’t. Delight.ai builds memory over time, learns preferences, and connects context across every channel—chat, SMS, email, voice, WhatsApp—without losing the thread. We’re building AI that makes customers feel understood, seen, and remembered.
+The Role
+As part of the march towards our vision of building a powerful user engagement platform, we are assembling a world-class security team to protect our customers’ data and earn their trust. Specifically, we need a Security Engineer who can help improve the security posture of our product and cloud infrastructure.
+What you will do
+Work with Engineering teams to help build secure products and infrastructure at scale
+Be the day-to-day security partner to teams across the company to conduct architecture reviews and threat models for systems being developed
+Secure multi-account & multi-cloud infrastructure for Sendbird
+Own product security and cloud security tooling and build automations
+Embed security tools into the CI-CD system for SCA, SAST, Container, and IAC scanning
+Identify security gaps and come up with solutions
+Research and identify new attacks against Sendbird’s products.
+Who you are
+Can manage complexity across time zones, technology stacks, and security issues.
+Collaborate with cross-functional teams
+Can connect the dots between security projects and policies with business objectives
+Accountable; taking responsibility of the systems and infrastructure under your oversight
+Effective project manager with the ability to influence without authority
+English proficiency at a conversational level required, business level preferred.
+What you bring to the table
+In-depth understanding and experience of CloudSec and Product Security, and comfortable with enterprise security, identity, and AI
+Experienced in securing AWS and GCP-based infrastructure at scale in a globally distributed software company
+Experience with Infrastructure as Code
+Experienced in working with and securing Kubernetes Experience with automation in Python
+Knowledge of security tools and platforms to enhance an organization’s security posture
+Proven capability in making sound, effective security decisions that allow an agile business to be secure and move quickly
+Experience leading complex cross-functional projects from start to finish and mentoring other security practitioners
+An ability to communicate ideas clearly and effectively to engineers who know way more than you about their code
+Bonus points
+Experience developing security tools
+Presenting at conferences and/or working on open source projects
+Our KR benefits include (but are not limited to):
+Silicon Valley’s equity program (1-year cliff)
+Hybrid work policy, flexible work hours
+Be Your Best Self: 3.9 million won (prorated by start date) for expenses ranging from professional development classes and training, to personality assessments, to gym memberships, to books, to fitness classes, to mental health services, to massages
+Learn a Language benefit – up to 3.6 million won per year towards language lessons
+Weekly team lunch cost
+Monthly team-building cost
+Partial support for commuting costs
+Free parking at the Seolleung office
+Group insurance support that covers employees, spouses, and children
+Medical checkup support, including MRI and genetic testing – for the employee and one family member
+Seven additional paid holidays in addition to annual leave (Boost leave, Birthday leave, etc.)
+Support for the latest work devices, such as MacBook Pro (special support options for each job position)
+Unlimited snack bar filled with snacks, beverages, and instant noodles every day
+12-week paid parental leave support (available for both mothers and fathers)
+Other support programs for congratulations and condolences
+Flexible Work Policy
+We offer a flexible work schedule at Sendbird. We also value collaboration and relationship building. With those values in mind, we require all employees to gather with their team in the office three days per week as a minimum. Some of our roles require a more frequent in-office schedule. Please work with your manager to understand the office time requirements for your position.
+What diversity and inclusion mean to us
+There is no such thing as a perfect candidate and the best employees come from a wide range of backgrounds, experiences, and skill sets. Sendbird is a place where everyone can learn and grow. We respect, promote, and encourage diversity for equal employment opportunities and encourage you to apply if this role excites you.
+Why Sendbird
+We’re not in maintenance mode. We’re rebuilding how businesses connect with their customers using AI, and we’re moving fast. If you want to own something real, build things that matter, and work at a company that has the infrastructure, the data, and the conviction to lead this shift, this is the place.
+Sendbird is building the AI workforce of tomorrow, and we hire that way too.
+Learn more
+about our interview process, how we evaluate candidates, and the role AI plays along the way.
+지원하러 가기

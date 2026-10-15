@@ -1,0 +1,57 @@
+Company Description
+Wise is a global technology company, building the best way to move and manage the world’s money.
+Min fees. Max ease. Full speed.
+Whether people and businesses are sending money to another country, spending abroad, or making and receiving international payments, Wise is on a mission to make their lives easier and save them money.
+As part of our team, you will be helping us create an entirely new network for the world’s money.
+For everyone, everywhere.
+More about
+our mission
+and
+what we offer
+.
+Job Description
+Wise is opening a new office in Seoul in order to support our Asia & Pacific teams and regional plans, particularly in South Korea. The role is a unique opportunity to build beautifully simple experiences that guide our customers through Wise, helping them to live, travel and work without borders.
+How you’ll be contributing to our Engineering team:
+Develop Wise Products from the heart of South Korea, bring your expertise to challenge South Korea’s banking status quo and build the best financial experience to Korean customers
+Elevate our mission by scaling across the APAC region, reaching hundreds of millions more customers while shielding them from technical complexity through beautifully simple, high-impact product experiences
+Working on the core flow of Wise, you’ll ensure our customers get the best experience even when things don’t go as planned by building self service solutions, automating the resolution and building efficient tooling for our Operations team.
+Build robust financial infrastructure to provide the same rapid and simple experience found in local transfers for international transactions
+Create clear and helpful interfaces, whilst maintaining consistency, maintainability, performance and an understanding of what problems our customers might encounter along the way
+Take initiative to identify and solve important problems. Coordinates with others on cross-cutting technical issues
+Drive product improvement that impacts the Wise customer experience or empowers internal stakeholders (teams like Operations, Customer Support, Finance, etc.) to do their job effectively
+Proactively identify and tackle technical debt becoming too big through planning work and aligning the team. Does this with careful evaluation of additional cost on development
+Qualifications
+What does it take?:
+You approach your work with a strong product mindset and passion for user experience, you prioritise work with the customers in mind and  make data-driven decisions to fix customer pain-points
+You have great communication skills and can articulate complex, technical concepts to non-technical audience in English and Korean.
+You enjoy writing testable code and believe in Test Driven Development
+You believe in and follow best coding practices, code reviews and open feedback
+You have solid Java 21 plus knowledge and experience with Spring framework
+You have front end experience with one of JavaScript frameworks like React, Angular, or other
+You have experience working with relational and non-relational databases, query optimisation and designing schema
+You are familiar with Continuous Delivery Approach mindset
+…but don’t worry we don’t expect you to know everything!
+Some extra skills that would be great:
+You have experience with financial systems
+You have knowledge of PostgreSQL, advanced types and query features
+You know your way around event driven architecture
+You have some Groovy experience
+Perhaps you have experience with machine learning or other data driven development experience
+What you can expect as an Engineer at Wise:
+We don’t measure seniority by years of experience, but by your level of impact. As a Software Engineer at Wise, you would be given the licence to:
+Consistently seek out and deliver on product level vision, tasks and problems
+Actively assist in scoping and executing most impactful work for the team
+Embrace long-term ownership of projects while training others to reduce the bus factor or becoming a blocker
+Architect and design services/systems using design patterns that allow for iterative delivery and future scaling
+Communicate and collaborate across functions like product, analytics and design as required
+Proactively improve documentation of the team as well as propose and formulate high quality requests for comments
+Lead or significantly contribute to medium-sized projects, managing the development, deployment and post-deployment lifecycle
+Promote a positive culture of collaboration between all the team members and support onboarding new engineers into their teams
+To get the best view of what we expect at all levels of our engineering team, you can take a look at our
+Engineering Career Map
+.
+Additional Information
+For everyone, everywhere. We’re people building money without borders  — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive.
+We’re proud to have a truly international team, and we celebrate our differences.
+Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to contribute towards our mission and able to progress in their careers.
+지원하러 가기

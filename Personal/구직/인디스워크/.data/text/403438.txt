@@ -1,0 +1,49 @@
+◆ 직원 유형
+정규직
+◆ 영입인원
+0 명
+◆ 조직소개
+Language Model Training팀은 카카오의 자체 Large Language Model인 Kanana를 A부터 Z까지 연구 및 개발하고, 이를 기반으로 카카오의 여러 서비스에 기여하고 있습니다. 자체 언어모델인 Kanana를 최고수준으로 개발하고싶은 분들의 지원을 기다립니다.
+참고) 연구결과
+논문
+Let’s Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts
+Mixture-Trained Merging for Unified Multi-Objective Models
+No Pain, More Gain: Iterative Merging for Effective Multi-Teacher On-Policy Distillation
+블로그
+더 작고 강해진 Kanana SLM 개발
+(link)
+Kanana-2 개발기 (1): Pre-training에서의 의사결정들을 중심으로
+(link)
+Kanana-2 개발기 (2): 개선된 post-training recipe를 중심으로
+(link)
+데이터는 없지만 LLM은 학습하고 싶어 – Code, Math 데이터 개발기
+(link)
+◆ 업무내용
+추론 및 학습에 효율적인 LLM 구조 탐색 및 최적화 (e.g. Mixture of Experts, Gated Delta Net, Kimi Linear)
+비용 효율화를 위한 학습 최적화 및 데이터 최적화 (e.g., Fp-8 training, Dataset mixture search)
+비용 효율적인 언어 모델 학습을 위한 알고리즘 연구 및 응용 (e.g., Pruning & Distillation, Hyperparameter transfer, Scaling law, Optimizer)
+LLM 학습을 위한 대규모 데이터 수집, 생성 및 메타 정보 부착기술 개발 및 연구 (e.g. Synthetic dataset generation)
+◆ 지원자격
+CS/AI/ML 등 관련 전공 석사 이상 혹은 이에 준하는 관련 프로젝트 경험을 보유하신 분
+Data/Model/Pipeline/Context/Expert Parallel 등 Model parallel 기반의 모델 학습 경험
+연구/개발에 대한 지속적인 관심과 새로운 기술/업무에 대한 도전 정신을 가지신 분
+◆ 우대사항
+Low-precision training 관련 연구/개발 경험 (e.g., FP8/MXFP4 학습 시 수치 안정성 확보, loss scaling, tensor-wise/block-wise scaling 전략 설계)
+Quantization-Aware Training(QAT) 및 저비트 양자화(W4A8, W4A16 등) 환경에서의 LLM 학습 경험 (e.g., STE 기반 학습, rotation/smoothing 기법 적용, PTQ 대비 품질 회복)
+Knowledge Distillation을 활용한 모델 압축 연구 경험 (e.g., logit/feature-level distillation, on-policy distillation, teacher-student 학습 파이프라인 설계)
+LLM 관련 kernel 개발 경험 (e.g., Triton, CUDA 기반 custom kernel)
+Data/Model/Pipeline/Context/Expert Parallel 등 분산 학습 전략 설계 및 프레임워크(e.g., Megatron-LM, DeepSpeed, FSDP) 기여 경험
+LLM 학습 데이터의 품질 향상과 평가를 위한 연구 개발 경험 및 페타바이트 수준의 텍스트 데이터 수집 및 분산 처리 경험
+대규모 클러스터 환경(e.g., GPU / TPU)에서 초거대 모델 학습을 위한 최적화 경험 (e.g., communication overlap, activation recomputation, memory-efficient optimizer)
+◆ 지원프로세스
+서류전형(CV 첨부 필수) > 코딩테스트 > 사전인터뷰 > 1차 인터뷰(사전과제) > 2차 인터뷰 > 처우 협의 > 최종 합격 및 입사
+※ 지원서 제출 시 CV는 ‘포트폴리오’ 란에 첨부해주시면 됩니다.
+※ 영입 진행 상황에 따라 레퍼런스 체크 등의 절차가 추가되거나 변경될 수 있습니다.
+◆ 근로제도
+• 완전선택근무제
+해당 포지션은 월 총 근무시간 범위 내에서 크루 스스로 하루의 업무 시작 및 종료 시간을 설정하여 자율적으로 몰입하여 근무할 수 있는 <완전선택근무제>를 적용받습니다.
+• 월 1일 리커버리데이
+매월 마지막 주 금요일은 크루의 휴식과 충전을 위한 <리커버리데이>로 운영됩니다.
+• 주 1일 원격근무
+업무와 협업의 효율성을 우선으로 하여, 리커버리데이가 없는 주에는 <주 1일 원격근무>가 가능합니다.
+지원하러 가기

@@ -1,0 +1,49 @@
+Alsemy는 반도체 및 디스플레이 제조 공정을 모사하고 분석하는 디지털 트 윈 제품을 개발하고 있습니다.
+엔지니어들이 증착, 식각, 포토리소그래피 등 공정을 정의하고 결과 3D 구조를 시각화하여,
+실제 실험 없이 공정 파라 미터를 최적화할 수 있도록 돕는 제품입니다.
+이러한 제품의 개발을 위해 3D 시각화 파이프라인을 책임지고 발전시킬 그래픽스 엔지니어를 찾고 있습니다.
+주요 역할은 기존 렌더링 스택의 유 지보수 및 개선부터 시작하여, GPU 가속 연산 파이프라인 구축, 궁극적으로는
+물리 기반 실시간 공정 시각화까지 이끌어 나가는 것입니다.
+We do this together
+1) 3D 시각화 개발
+• Babylon.js 기반 렌더링 파이프라인 유지보수 및 개선
+• 반도체 공정 시뮬레이션 결과의 실시간 3D 시각화 기능 개발
+• Marching Cubes, CSG, Level-set 등 메시 처리 파이프라인 구축
+2) GPU 가속 & 성능 최적화
+• NVIDIA Warp/CUDA 기반 GPU 연산 파이프라인 설계
+• Tauri(Rust) 네이티브 라이브러리 연동 및 최적화
+• NVIDIA Omniverse, NanoVDB 등 최신 렌더링 기술 평가 및 통합
+3) 협업
+• 내부 소프트웨어 엔지니어와 프론트엔드 통합 협업
+• NVIDIA 엔지니어링 팀과 기술 협업
+Key Qualifications
+• 3D 그래픽스 프로그래밍 경험 (OpenGL, Vulkan, WebGL, WebGPU)
+• React 및 TypeScript 클라이언트 개발 역량
+• 3D 렌더링 엔진 사용 경험 (Babylon.js, Three.js 또는 유사 엔진)
+• 3D Geometry에 대한 이해C++ 또는 Rust 경험 (네이티브 라이브러리 및 FFI 연동)
+• GPU/컴퓨팅 개념에 대한 이해
+Ideal Qualifications
+• CUDA 또는 NVIDIA Warp 경험
+• Level-set, Signed Distance Function (SDF), Marching Cubes에 대한 이해
+• CSG (Constructive Solid Geometry) 또는 JSCAD 경험
+• VTK, OpenVDB, NanoVDB 관련 지식
+• Tauri 또는 Electron 데스크톱 앱 프레임워크 경험
+• 반도체 제조 또는 CAE 시뮬레이션 분야 배경
+• Omniverse, OpenUSD, KIT-CAE 경험
+Tech Stack
+• 데스크톱: Tauri (Rust + WebView)
+• 프론트엔드: React, TypeScript
+• 3D 렌더링: Babylon.js
+• 빠른 미리보기: JSCAD / CSG
+• 물리 에뮬레이션: ViennaPS (C++, level-set)
+• GPU 가속 (예정): NVIDIA Warp, CUDA
+• 향후 렌더링 (예정): OVRTX, Omniverse 라이브러리
+Why Join Us
+• 반도체 제조 디지털 트윈 분야 최초의 실시간 3D 공정 시뮬레이션 제품 개발
+• NVIDIA 엔지니어링 팀과의 직접 협업 (Warp, Omniverse, NanoVDB)
+• GPU 가속 시각화 파이프라인을 처음부터 설계하고 구축하는 기회
+• 높은 자율성과 임팩트를 가진 소규모 팀 참여
+Position Details
+• 채용 형태: 정규직 (수습 12주)
+• 연봉: 협의 후 결정
+지원하러 가기

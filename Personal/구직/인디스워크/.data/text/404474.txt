@@ -1,0 +1,33 @@
+Description
+AWS Global Services includes experts from across AWS who help our customers design, build, operate, and secure their cloud environments. Customers innovate with AWS Professional Services, upskill with AWS Training and Certification, optimize with AWS Support and Managed Services, and meet objectives with AWS Security Assurance Services. Our expertise and emerging technologies include AWS Partners, AWS Sovereign Cloud, AWS International Product, and the Generative AI Innovation Center. You’ll join a diverse team of technical experts in dozens of countries who help customers achieve more with the AWS cloud.
+The Amazon Web Services Professional Services (ProServe) team is seeking a skilled Delivery Consultant to join our team in Korea. In this role, you’ll work closely with customers to design, implement, and migrate secure, scalable AWS infrastructure that meets their technical requirements and business objectives. You’ll be a key player in driving customer success through their cloud journey, providing technical expertise and best practices throughout the project lifecycle. Possessing a deep understanding of AWS products and services, as a Cloud Architect Delivery Consultant you will be proficient in architecting complex, scalable, and secure solutions tailored to meet the specific needs of each customer. You’ll work closely with stakeholders to gather requirements, assess current infrastructure, and propose effective migration strategies to AWS. As a trusted advisor to our customers, providing guidance on industry trends, emerging technologies, and innovative solutions, you will be responsible for contributing to the implementation process, ensuring adherence to best practices, optimizing performance, and managing risks throughout the project.
+The AWS Professional Services organization is a global team of experts that help customers realize their desired business outcomes when using the AWS Cloud. We work together with customer teams and the AWS Partner Network (APN) to execute enterprise cloud computing initiatives. Our team provides assistance through a collection of offerings which help customers achieve specific outcomes related to enterprise cloud adoption. We also deliver focused guidance through our global specialty practices, which cover a variety of solutions, technologies, and industries.
+This role is part of the Associate to Consultant (A2C) program, a development pathway within AWS Professional Services that grows early-career and industry-hire builders into experienced Delivery Consultants through mentorship, hands-on delivery on strategic programs, and structured certification support.
+Key job responsibilities
+As an experienced technology professional, you will be responsible for:
+– Designing and implementing complex, scalable, and secure AWS solutions tailored to customer needs
+– Providing technical guidance and troubleshooting support throughout project delivery
+– Collaborating with stakeholders to gather requirements, assess current infrastructure, and propose effective migration strategies
+– Acting as a trusted advisor to customers on industry trends and emerging technologies
+– Sharing knowledge within the organization through mentoring, training, and creating reusable artifacts
+A day in the life
+You will embed with a Korean enterprise customer to assess their on-premise estate and lead migration to AWS. A typical day includes discovery and requirements workshops with customer infrastructure teams, designing landing zones and network/security architecture, building infrastructure as code, and resolving migration blockers alongside fellow A2C builders across platform, governance, and security workstreams. You will work closely with AWS account teams, specialist SAs, and delivery partners to move engagements from assessment to production.
+About the team
+Korea A2C is a cohort of Delivery Consultants embedded across the full ProServe Korea portfolio, including some of the country’s largest cloud transformation programs. We deliver AI-first, produce reusable IP shared with 7,000+ ProServe practitioners globally, and grow builders along the Associate to Consultant pathway through mentorship, protected build time, and certification support.
+Basic Qualifications
+– Bachelor’s degree in Computer Science, Engineering, Mathematics, or a related field
+– Experience integrating AWS cloud services with on-premise technologies (e.g., Microsoft, IBM, Oracle, HP, SAP)
+– Experience programming with at least one modern language such as C++, C#, Java, Python, Golang, PowerShell, Ruby
+– Experience with QA, testing, helpdesk, IT support, or any technician or quality assurance type work
+– Experience with two or more of the following: networking fundamentals, security, storage or databases (relational or NoSQL), operating systems (Unix, Linux, and/or Windows)
+Preferred Qualifications
+– AWS Solutions Architect Certification
+– Knowledge of the primary AWS services such as EC2, ELB, RDS, VPC, Route53, and S3
+– Experience implementing a cloud-based technology solution in a school project or while working for a company
+– Experience with infrastructure as code, ops automation, and configuration management tools such as Chef, Puppet, or Ansible
+– Experience with software development life cycle (sdlc) and agile/iterative methodologies
+– Master’s degree or equivalent
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit
+https://amazon.jobs/content/en/how-we-hire/accommodations
+for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+지원하러 가기

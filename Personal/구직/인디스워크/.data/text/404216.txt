@@ -1,0 +1,32 @@
+주요 업무
+Isaac Sim 기반 high-fidelity 시뮬레이션 환경 및 SimReady asset 구축, DCC 툴 연동 asset pipeline · 내부 도구 개발
+물리 엔진 확장 및 custom physics 구현 (예: 적설 등 continuum mechanics 기반 material behavior)
+USD 구조 설계 및 shader · material · rendering pipeline 최적화
+physics · rendering · sensor · data serialization 병목 개선 및 headless · parallel 기반 대규모 데이터 생성 환경 구축
+시뮬레이션과 robotics stack · AI 모델 간 저지연 통신 인터페이스 구축
+로봇 모델링 · domain randomization · benchmark 구축을 통한 Sim2Real 및 policy 평가 지원
+자격 요건
+C++ / Python 기반 대규모 소프트웨어 개발 및 성능 최적화 역량
+물리 엔진 · 렌더링 엔진 · 게임 엔진 또는 3D 시뮬레이터 개발 · 확장 경험
+3D 수학, 강체 역학 또는 렌더링 파이프라인에 대한 깊은 이해
+낯선 코드베이스와 프레임워크를 빠르게 파악하고, 정확도 · 성능 · 유지보수성 간 trade-off를 판단하는 역량
+우대 사항
+PhysX · MuJoCo 등 물리 엔진 수정 또는 FEM · MPM 등 변형체 시뮬레이션 구현 경험
+Shader · GPU 프로그래밍(CUDA · Vulkan 등) 및 실시간 렌더링 최적화 경험
+Isaac Sim · Omniverse Kit extension 및 USD 기반 대규모 stage 설계 경험
+ROS / ROS 2 연동 및 통신 latency 최적화 경험
+Domain randomization · Sim2Real transfer 또는 RL · VLA 평가 환경 구축 경험
+이런 분을 찾습니다
+시뮬레이션과 실제 로봇의 차이를 알고, 그 격차를 좁히는 데 관심 있는 분
+게임 · 그래픽스에서 쌓은 엔지니어링 역량을 로봇과 Physical AI로 확장하고 싶은 분
+일회성 환경이 아닌 여러 현장에 재사용 가능한 시뮬레이션 인프라를 만들고 싶은 분
+새 기술을 빠르게 배우되, 단순한 방법이 맞다면 과감히 단순화하는 분
+전형 절차
+서류 전형
+→1차 인터뷰
+→2차 인터뷰
+→처우 협의
+→최종 합류
+서류 합격 시 개별 연락드립니다. 직무에 따라 커피챗 또는 과제 전형이 포함될 수 있습니다.
+상시 채용
+지원하러 가기

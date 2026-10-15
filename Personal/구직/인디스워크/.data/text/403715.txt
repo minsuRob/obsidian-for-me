@@ -1,0 +1,48 @@
+Seoul
+The Role
+Job Description
+What you’ll bring
+Bring your technical curiosity, analytical mindset, and enthusiasm for IT architecture and technology consulting. If you are ready to develop your understanding of IT governance, cloud architectures, system implementation, and technology trends, and support consulting activities under guidance, this is where your journey begins.
+We’re looking for a Technology associate consultant for a new challenge – Support trainee and program by teaching how to get the most out of development.
+SAP is working in an exciting, ever evolving market. Our goal is to show trainees how to get maximum usage and fun out of SAP software solutions. We do this by providing knowledge transfer in a way that fit the need of our trainees.
+What you’ll build
+We’re looking for a Technology associate consultant for a new project – Support trainee and program by teaching how to get the most out of development.
+SAP is working in an exciting, ever evolving market. Our goal is to show trainees how to get maximum usage and fun out of SAP software solutions. We do this by providing knowledge transfer in a way that fit the need of our trainees.
+As the SAP Technology associate consultant, you will:
+• Learn about relevant advanced SAP development language (ABAP, Cloud ABAP and SAP UI5)
+• Play the role of delivering basic training in field of development
+• Support training contents design and development (Main Language: ABAP, Cloud ABAP and SAP UI5)
+• Support technical assistance for trainee
+• Talk to external consultants who are instructors or mentors.
+• Class Administration and Class Management
+Where you belong
+At SAP, you will be part of an inclusive, global community of technology consulting professionals dedicated to translating complex business needs into innovative, scalable technology solutions. Together, we foster a culture where deep technical expertise, strategic thinking, and client focus combine to define IT architectures, drive transformation, and deliver outstanding technology outcomes for our customers and partners.
+Qualifications
+• Bachelor’s Degree
+• Excellent programming skills and experience in one of the below languages:
+SAP ABAP / Cloud ABAP / SAP UI5 (preferable)
+SQL, HTML5 or JavaScript
+SAP development-related tools
+• Interested in finding out how to work with software and showcasing this to others
+Skills:
+Application Integration Architecture · Software Architecture · Cloud Architecture · Product Strategy · Context Engineering · AI Output Quality Assurance · Agentic AI Day-to-Day Practice · AI-Assisted Automation and Prototyping · AI Adoption Capability
+Additional Information
+Employment Type: Temporary less 6-month fixed salary
+Probation Period: 3 months from the date of hire (extendable if necessary)
+The detailed working conditions will be subject to the employment agreement
+Location: Seoul, South Korea
+About SAP
+With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone, regardless of background, feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or complete your application, please send an email with your request to the Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to age, race, religion, national origin, ethnicity, gender (including pregnancy and childbirth), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+Successful candidates might be required to undergo a background verification with an external vendor.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+Company Description
+At SAP, you’ll belong to a global community that grows together. Expect inclusive teams, international collaboration across time zones, and continuous learning through academies, mentoring, and certifications. We celebrate diverse perspectives, encourage experimentation, and give you the flexibility to do your best work-where curiosity, impact, and career mobility thrive.
+지원하러 가기

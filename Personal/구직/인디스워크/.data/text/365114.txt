@@ -1,0 +1,30 @@
+Position Overview
+We are looking for a highly motivated Software Engineer to join the LLMBoost team at MangoBoost. LLMBoost is our enterprise-grade platform for large language model deployment and optimization, supporting inference, training, fine-tuning, and retrieval-augmented generation across both AMD and NVIDIA GPUs. You will work alongside a team of experts to build, optimize, and scale AI workloads for high-performance, multi-node environments.
+Responsibilities & Opportunities
+Develop, optimize, and test features for the LLMBoost platform, including model deployment, auto-tuning, and multi-GPU orchestration
+Contribute to performance benchmarking and optimization on both AMD and NVIDIA hardware
+Maintain infrastructure for automated builds, testing, and releases
+Collaborate with the team on debugging, profiling, and improving system reliability
+Required Qualifications
+BS/MS/PhD in Computer Science, Electrical Engineering, or a related field (or equivalent experience)
+Proficiency in Python and Linux-based development environments
+Strong problem-solving skills and eagerness to work on large-scale AI systems
+Preferred Qualifications
+Can squeeze extra performance out of GPUs through kernel tuning and advanced profiling techniques
+Have published research or developed innovations in inference optimization, training acceleration, or distributed AI systems
+Know your way around Kubernetes and Docker for managing large-scale, containerized AI workloads
+Have hands-on experience running multi-node GPU training and inference jobs
+Understand the ins and outs of MLPerf or other AI benchmarking suites
+Can spot and fix network or I/O bottlenecks in high-throughput AI pipelines
+Have contributed to open-source AI/ML frameworks and love improving the tools the community relies on
+About us
+MangoBoost, Inc.
+Agentic AI is fundamentally reshaping the paradigm of AI infrastructure. As environments emerge where countless AI agents operate simultaneously, conventional data center architectures are reaching their limits in both performance and efficiency. In response to this shift, MangoBoost is pioneering a new approach with its full-stack AI infrastructure solution designed to innovate every layer of the AI data center.
+From LLMBoost, our AI inference optimization software, to GPU and storage systems powered by our proprietary DPU architecture, and orchestration software that seamlessly integrates and manages the entire stack, MangoBoost designs and develops every layer of AI infrastructure in-house. Rather than building isolated products, we focus on eliminating system-wide bottlenecks and fundamentally addressing inefficiencies across the entire infrastructure stack.
+MangoBoost’s technology minimizes data movement and coordination overhead while maximizing overall system resource utilization, enabling exceptional performance and optimized total cost of ownership (TCO) for customers. Today, our solutions are already being deployed within real-world AI infrastructure environments through global partners, validating the strength of our technology. Through these efforts, MangoBoost is establishing a new global standard for AI data centers.
+Notice Regarding Return of Hiring Documents
+This notice is in accordance with Article 11, Section 6 of the Fair Hiring Procedure Act, which allows job applicants, excluding the final successful candidate, to request the return of any recruitment documents they have submitted.
+Job applicants who were not selected as the final candidates in the recruitment process are entitled to request the return of the recruitment documents they submitted within 180 days of the date the employment decision is confirmed. However, this does not apply to documents submitted via the website or email, or documents voluntarily submitted by the applicant without the company’s request. If the recruitment documents are lost due to natural disasters or other reasons for which the company is not responsible, it will be considered as having been returned.
+Applicants wishing to request the return of their recruitment documents should fill out the Request for Return of Hiring Documents [Form 3 of the Enforcement Rules of the Fair Hiring Procedure Act] and submit it by email (recruiting@mangoboost.io). The documents will be sent by registered mail to the designated address within 14 days from the confirmation of submission. Please note that the cost of registered mail will be borne by the recipient.
+The company will keep the recruitment documents for 180 days following the confirmation of the employment decision. If no request for the return of documents is made within that period, the company will dispose of all recruitment documents without delay in accordance with the Personal Information Protection Act.
+지원하러 가기

@@ -1,0 +1,69 @@
+리얼월드(RLWRLD)
+는 로봇이 인간처럼 세상을 인식하고 사고하며 행동할 수 있게 만드는 로보틱스 파운데이션 모델(Robotics Foundation Model)을 개발하는 Physical AI 선도 기업입니다.
+AI·로보틱스 분야의 깊은 연구 역량과 글로벌 데이터 협력 네트워크를 바탕으로, 고자유도 로봇 손의 정밀한 조작을 가능하게 하는 Robotics Foundation Model을 개발하고 있습니다. 최근 공개한 RLDX-1은 다양한 로봇 하드웨어와 환경에 적용 가능한 차세대 모델로, 제조·물류·서비스 등 실제 산업 현장에서 활용 가능한 범용 로봇 지능 구현을 목표로 고도화되고 있습니다. 또한 국내외 VC 및 대기업으로부터 약 600억 원 규모의 시드 투자를 유치하며 빠르게 성장하고 있으며, AI·로보틱스 분야의 뛰어난 인재들이 합류하고 있습니다.
+포지션 소개
+우리는 로봇 파운데이션 모델이 실제 제품이 되기 위해 필요한, 사람이 이해하고 반복해서 사용할 수 있는 제품 표면을 만들고 있습니다.
+이 역할은 teleoperation, data collection, dataset management, fine-tuning, evaluation, deployment, monitoring으로 이어지는 흐름을 하나의 Robotics AI Product Platform으로 만드는 일을 담당합니다.
+우리는 단순히 화면을 만드는 프론트엔드 개발자를 찾지 않습니다. 복잡한 로봇 AI 업무를 검증된 단순한 기술로, 상태가 명확하고 운영 가능한 제품 흐름으로 만들 수 있는 엔지니어분들의 합류를 기다립니다.
+주요 업무
+수동 절차의 제품화
+연구자와 엔지니어가 script, notebook, CLI와 여러 개별 시스템을 통해 수행하던 절차를 반복 가능한 제품 기능으로 전환
+Dataset, Task, Robot Session, Training Run, Model Artifact, Evaluation, Deployment 등 핵심 개념의 상태 모델 설계
+End-to-End 워크플로우 구현
+데이터 수집, 검수, 큐레이션부터 학습, 실제 로봇 평가, 모델 선택과 배포까지 이어지는 End-to-End 제품 흐름 설계 및 구현
+평가 결과와 실패 사례를 다음 데이터 수집, 큐레이션, 학습으로 연결하는 반복 실험 워크플로우 구현
+Long-running job의 queue, progress, logs, failure reason, retry, cancellation, recovery UX 설계 및 구현
+데이터·모델 탐색 기능 구현 및 시스템 통합
+Dataset/model browser, replay viewer, log viewer, dashboard 등 데이터와 실험 결과를 탐색, 비교, 분석하는 제품 기능 개발
+Backend, platform, robot runtime, ML serving 간 API, event, storage 및 job contract 설계
+자격 요건
+Production web application을 설계부터 배포와 운영까지 end-to-end로 개발한 경험
+HTML, CSS, JavaScript, HTTP, browser 동작에 대한 기본기
+서버가 HTML을 렌더하고 상태를 소유하는 웹 제품을 end-to-end로 만든 경험 (예: Rails, Django, Phoenix, Laravel 등 서버 중심 full-stack framework)
+RDBMS 기반 schema, migration, transaction을 설계하고 운영한 경험
+Background job queue를 사용해 long-running workflow를 구현하고 운영한 경험
+auth, role-based access control, audit log에 대한 이해
+복잡한 요구사항을 workflow, state, data model로 정리할 수 있는 능력
+기술 선택을 유지보수, 배포, 디버깅, 팀 크기 관점에서 설명할 수 있는 태도
+우대 사항
+ML/Robotics 도메인 제품 경험
+ML, robotics, data 영역에서 workflow product를 만든 경험
+log/timeline, dashboard, replay/video viewer 등 운영형 UI를 만든 경험
+large file, video, model artifact, object storage 기반 제품 기능을 만든 경험
+SSR UI 및 Production 운영
+Hotwire, htmx, Phoenix LiveView 등 서버 주도 UI 또는 점진적 향상 방식 경험
+12-factor app 원칙, secret 관리, migration, backup 등 기본적인 production 운영 경험
+작은 팀에서 제품의 배포, 운영, 장애 대응까지 직접 해본 경험
+Desktop App 개발 및 운영 경험
+Electron, Tauri 등을 활용해 Desktop application을 개발하고 운영한 경험
+Linux, macOS 환경의 패키징, 코드 서명, 배포 및 자동 업데이트를 운영한 경험
+이런 분이면 잘 맞습니다
+화면보다 사용자가 끝내야 하는 일을 먼저 생각하는 분
+실패, 대기, stale state, partial success를 제품 언어로 드러내는 분
+DB가 풀 문제, job queue가 풀 문제, 브라우저 상태로 충분한 문제를 구분할 수 있는 분
+신기술 자체보다 문제 해결에 적절한 기술을 고르고, 단순하고 오래갈 구조를 선호하는 분
+근무 조건
+근무장소 : 서울 강남구 테헤란로 415 L7 강남 오피스동 5, 7F
+근무기간 : 정규직
+해당 포지션은 전문연구요원 대상자의 신규 편입 및 전직 지원이 가능합니다.
+수습 기간 안내
+입사 시 3개월의 수습 기간이 적용됩니다.
+수습 기간 동안 근무 태도와 역량 평가를 진행하며, 평가 결과에 따라 수습 기간이 연장되거나 채용이 취소될 수 있습니다.
+지원 방법
+제출서류
+:
+이력서 (한글 또는 영문)
+(선택) 본인의 역량을 보여줄 수 있는 포트폴리오, 연구자료, 프로젝트 자료 등 추가 제출 가능
+지원 마감:
+상시 모집 (채용 시 마감)
+전형 절차
+서류 전형 > 1차 인터뷰 > 2차 인터뷰 > 최종 합격
+서류 전형 합격 시 개별적으로 연락이 진행될 예정입니다.
+절차 상 필요한 경우 커피챗·코딩테스트가 포함될 수 있습니다.
+근무 환경 및 지원
+유연근무제: 출퇴근 시간을 자율적으로 조정해 각자의 리듬에 맞게 일합니다.
+업무 장비·소프트웨어 지원: 직무에 맞는 업무 장비와 필요한 소프트웨어를 지원합니다.
+기본 편의시설 운영: 사내 스낵바와 커피 머신을 운영하고 있습니다.
+명절 및 생일 선물: 명절과 생일에는 소정의 선물을 전합니다.
+건강검진 지원: 정기적인 건강검진으로 건강 관리를 돕습니다.
+지원하러 가기

@@ -1,0 +1,27 @@
+About Lablup
+We are a company providing machine learning platforms and solutions under the motto ‘Make AI Accessible’. Lablup strives to solve various problems that arise when sharing scientific and engineering research processes through a standardized platform, and automates all stages of research and service. We develop and service Backend.AI to realize this vision. Backend.AI, a hyperscale AI platform, reduces the difficulties in developing and serving various AI models, from small-scale AI models to large language models.
+About Solution Architect at Lablup
+Lablup’s Solution Architects are key technical experts who design AI infrastructure strategies for customers and guide them with technical direction. They analyze enterprise customers’ AI adoption and operational environments, propose optimal architecture plans, and take responsibility for ensuring performance, scalability, security, and timeline alignment. By deeply understanding customer requirements and offering actionable solutions, Solution Architects provide critical insights for product improvement and new feature development.
+Key Responsibilities
+Client Relationship Management: Visit clients regularly or as needed to handle installation, incident response, and issue resolution; provide continuous technical support and consulting
+Requirements Analysis & Solution Design: Analyze client technical requirements and propose optimal solutions; leverage deep understanding of the platform and its extensions to practically solve problems.
+Technical Consulting: Provide strategic consulting on AI system adoption and operations; share new technology trends and best practices to strengthen client competitiveness
+Monitoring & Optimization: Monitor the platform and its dependencies; analyze and optimize system performance bottlenecks
+Contribution to Product Improvement: Communicate with clients to derive insights for product enhancement and new feature development; deliver feedback to the development team
+Technology Research & Knowledge Sharing: Research the latest technology trends and share findings with both clients and internal teams
+Basic Qualifications
+3–5 years of experience in the IT field
+Deep understanding of Linux-based networking, virtualization, and container technologies
+Proven experience in utilizing and operating cloud environments such as AWS, Azure, or GCP
+Experience in building or managing CI/CD pipelines using DevOps tools (e.g., Jenkins, Ansible, Terraform)
+Strong problem-solving skills and excellent communication abilities
+Benefits and Perks
+Fitness stipend
+Welfare points
+Lunch meal support (up to 15,000 KRW)
+Premium coffee beans and top-of-the-line coffee machines
+Complimentary snacks always available
+Annual comprehensive or semi-comprehensive health checkup for employee and spouse
+Opportunities to participate in developer communities and industry events
+Employee benefits as a certified family-friendly workplace by the Ministry of Gender Equality and Family
+지원하러 가기

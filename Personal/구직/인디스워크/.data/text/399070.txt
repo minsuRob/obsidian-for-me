@@ -1,0 +1,27 @@
+팀 소개
+Language Lab은 자연어 처리(NLP) 분야의 기술적 난제를 해결하는 선행기술을 연구하는 조직입니다. ‘Learning-by-Reading AI’를 바탕으로 챗봇을 비롯한 Language 분야 서비스 혁신을 목표로 하고 있으며, 최근에는 텍스트를 읽고 이해하는 AI를 넘어 음성을 듣고 말하는 AI로 연구 범위를 넓혀가고 있습니다.
+이러한 음성 연구의 일환으로 SpeechLLM 연구가 있습니다. 음성 인식(STT)과 음성 합성(TTS)을 대규모 언어모델(LLM)과 결합해, 사람의 말을 직접 듣고 이해하며 응답하는 음성 대화 모델을 연구합니다. 이러한 기술은 AI Contact Center(AICC)뿐 아니라 음성 비서, 차량·가전 인터페이스, 회의 지원, 어학 교육 등 다양한 음성 기반 서비스로 확장될 수 있습니다.
+이번 인턴 프로그램에서는 팀의 연구원들과 함께 SpeechLLM 연구를 수행하며, 아이디어를 직접 모델로 구현하고 검증하는 과정을 경험하게 됩니다. 음성과 언어가 만나는 문제에 관심 있는 분들의 지원을 기다립니다.
+수행 업무
+Pipeline 방식 (Cascaded STT→LLM→TTS) 기반 SpeechLLM 연구
+STT → LLM → TTS로 이어지는 Cascaded 파이프라인의 스트리밍화 및 Sub-Second 저지연 최적화 연구
+VAD 기반 Half-Duplex 턴 분할의 한계를 개선하는 VAD-Free / Chunk 단위 Micro-Turn 처리 기법 연구
+모듈 간 오류 전파를 줄이고 Paralinguistic(감정·운율) 정보 손실을 완화하는 컨텍스트 전달·정렬 기법 연구
+End-to-End Full-Duplex 기반 SpeechLLM 연구
+Full-Duplex SpeechLLM 모델 아키텍처 연구
+자연스러운 Turn-Taking, Barge-in, Backchannel, 발화 겹침 처리 및 Stream Synchronization 모델링
+Audio Encoder–LLM 간 Modality Alignment 및 Speech Tokenizer / Neural Codec 연구
+지원 자격
+석사학위 이상 (6개월 이상 근무 가능자)
+Cascaded(STT→LLM→TTS) SpeechLLM 연구/개발 경험
+Full-Duplex SpeechLLM 연구/개발 경험
+Turn-Taking, Barge-in, Backchannel 등 대화 상호작용 모델링 연구 경험
+Speech Tokenizer 및 Neural Codec 기반 음성 표현 활용 경험
+AI 관련 Top-Tier 학회(ICASSP, Interspeech, ACL, EMNLP, NeurIPS, ICLR 등) 논문 발표 또는 연구 참여 경험자 우대
+근무지
+LG AI연구원 (서울 마곡 중앙로 150)
+전형 절차
+서류심사 → 코딩테스트 및 인성검사 (LG Way Fit Test) →  기술면접 (온라인) → 입사
+* 본 채용은 수시채용 형태로 진행되며, 조기 마감될 수 있습니다.
+* 상기 전형 절차는 변경될 수 있습니다.
+지원하러 가기

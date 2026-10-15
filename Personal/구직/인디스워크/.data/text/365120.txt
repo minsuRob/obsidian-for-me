@@ -1,0 +1,28 @@
+Position Overview
+MangoBoost is actively seeking skilled DV (Design Verification) engineers to join our Seoul office in Korea for IP/FPGA/SoC (System-on-Chip) developments. The role involves a wide range of responsibilities, including verifying in-house accelerator IPs and performing comprehensive verification for complex systems encompassing commercial IPs and in-house IPs. DV engineers need to understand the functionalities of the DPU IPs and construct robust verification environments, develop workflows and verification methodologies, all activities are aimed to develop bug-free hardware IPs to make MangoBoost DPU solutions a lot more valuable.
+Responsibilities & Opportunities
+Lead comprehensive system-level software/hardware verification and troubleshooting for MangoBoost DPUs using RTL simulation, ensuring robustness and reliability
+Collaborate closely with cross-functional teams (IP Design, Software, Architecture, SoC, etc.) to meticulously validate the functionality and performance of DPU systems and applications
+Evaluate system workflow and performance, providing recommendations for enhancements based on user feedback, complaints, and bug reports from other teams
+Opportunity to spearhead the development and implementation of innovative HW-focused verification methodologies to enhance DPU product quality and efficiency
+Engage in continuous learning and professional development to stay updated with the latest DV techniques and technologies
+Required Qualifications
+Master’s degree holders may apply as entry-level candidates.
+Bachelor, Master, or PhD in Electrical or Computer Engineering, Computer Science, or related field
+Experience in RTL simulation with Verilog/System Verilog
+Experience in digital HW verification flow
+Preferred Qualifications
+2+ year industry experience in performance verification (measuring and analyzing DUT performance metrics)
+Ability to write UVM testbench code from scratch
+Familiarity with protocols and standards in the AMBA, Ethernet, PCIe and NVMe domains
+Ability to establish comprehensive and concrete verification plans
+Working experiences in coverage driven constraint random verification
+Ability to model a system with OOP (Object-Oriented Programming) paradigm
+Strong background on computer architecture and operating system
+Experience in verifying ARM-based SoC scenarios with large-scale master/slave connections over NoC bus, including QoS behavior verification, using RTL simulation.
+About us
+MangoBoost, Inc.
+Agentic AI is fundamentally reshaping the paradigm of AI infrastructure. As environments emerge where countless AI agents operate simultaneously, conventional data center architectures are reaching their limits in both performance and efficiency. In response to this shift, MangoBoost is pioneering a new approach with its full-stack AI infrastructure solution designed to innovate every layer of the AI data center.
+From LLMBoost, our AI inference optimization software, to GPU and storage systems powered by our proprietary DPU architecture, and orchestration software that seamlessly integrates and manages the entire stack, MangoBoost designs and develops every layer of AI infrastructure in-house. Rather than building isolated products, we focus on eliminating system-wide bottlenecks and fundamentally addressing inefficiencies across the entire infrastructure stack.
+MangoBoost’s technology minimizes data movement and coordination overhead while maximizing overall system resource utilization, enabling exceptional performance and optimized total cost of ownership (TCO) for customers. Today, our solutions are already being deployed within real-world AI infrastructure environments through global partners, validating the strength of our technology. Through these efforts, MangoBoost is establishing a new global standard for AI data centers.
+지원하러 가기

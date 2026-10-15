@@ -1,0 +1,38 @@
+직무 Summary
+넥스트증권의 엔드포인트 보안 체계를 강화하고, 서버 및 데이터베이스에 대한 정교한 접근 제어를 설계·운영할 Security Engineer (Endpoint)를 찾습니다! 안전한 금융 서비스를 위해 임직원의 업무 환경부터 핵심 인프라 자산까지, 비즈니스 연속성을 보장하면서도 강력한 보안 통제를 구현할 실행력 있는 인재를 모시고자 합니다.
+[주요 업무책임]
+엔드포인트 보안 정책 수립 및 운영: 전사 PC에 설치된 보안 솔루션(DLP, DRM, 백신 등)이 우회되지 않도록 상시 점검하고, 업무 환경 변화에 맞춘 최적의 보안 정책 적용
+접근 제어(Access Control) 체계 구축: 서버, 데이터베이스, 네트워크 장비 등 인프라 전반에 대한 권한 관리 및 접근 통제 솔루션을 운영하며 비인가 접근을 원천 차단
+보안 영역 간 연계 및 고도화: 엔드포인트 보안 통제를 IAM(계정관리), 서버/DB 접근제어, 원격접속 등 타 보안 영역과 밀밀하게 연계하여 전사 보안 체계의 완성도와 가시성 확보
+CERT 협업 및 위협 모니터링: 엔드포인트 및 접근 제어 시스템에서 발생하는 보안 로그를 체계적으로 수집하고, CERT 파트와 협업하여 실시간 위협 탐지 및 대응이 가능한 모니터링 체계 구축
+[필수 자격요건]
+전사 PC (Windows 및 Mac OS) 대상의 DLP, DRM, 백신 등 보안 솔루션 정책을 수립하고, 솔루션 우회 방지를 위한 상시 점검 및 고도화 운영 경험 (3년 이상)
+단말기 배포 시점부터 최종 자산 접근 권한 부여까지의 전 과정에 걸친 보안 통제 프로세스 설계 경험
+서버(OS), 데이터베이스(DB), 네트워크 장비 등 인프라 전반에 대한 접근 제어 솔루션 구축 및 운영 실무 경험
+Databricks, ELK, Splunk 등 로그 분석 시스템을 활용하여 엔드포인트 및 접근 제어 로그를 수집하고 위협 탐지 정책을 개발해 본 경험
+OS 및 DBMS의 권한 체계와 최신 공격 기법(IOC)에 대한 이해를 바탕으로 기술적인 보안 우회 시도를 차단하고 대응할 수 있는 능력
+[선호 자격요건]
+엔드포인트의 보안 상태(컴플라이언스 준수 여부, 위협 탐지 결과 등)를 SCIM, Webhook, API를 통해 IAM 및 네트워크 접근 제어 체계와 실시간으로 연계한 경험
+보안 솔루션 API로 수집한 상태 정보를 기반으로 접근 허용 여부를 동적으로 결정하는 정책 결정 지점(PDP, Policy Decision Point) 설계 및 구현 경험
+AI 기반 보안 분석 도구 또는 MCP(Model Context Protocol) 등 최신 자동화 프레임워크를 보안 운영 업무에 적용해 본 경험
+제로 트러스트(Zero Trust) 원칙에 따른 디바이스 신뢰도를 활용한 동적 보안 모델 구축 경험
+AWS 및 MS Azure 클라우드에 대한 보안 운영 경험
+[제출 서류 (필수)]
+국문 이력서 및 자기소개서(자유 양식) 제출
+(선택) GitHub/기술 블로그/포트폴리오 링크 첨부
+—
+[주의사항]
+제출자료와 채용 프로세스 전반에서 허위사실이 발견될 경우 채용이 취소됩니다.
+원활한 채용 진행을 위해 복수의 포지션을 동시에 진행하는 것은 불가능하오니, 신중하게 지원해주시기 바랍니다.
+모든 채용은 수시채용으로, 합격자가 발생할 경우 공고가 조기 마감될 수 있습니다.
+면접은 보통 일대일, 혹은 다대일로 진행되며 시간은 최대 1시간 가량 소요됩니다.
+———————————————————————————————————–
+[Next Securities Vision and Mission]
+Vision
+“To transform how people invest by creating the leading financial platform where knowledge communities and investments seamlessly converge”
+Mission
+“To bridge financial markets, real-time news and social collaboration through innovative technology, delivering a personalized and engaging trading experience for every investor”
+근무지
+여의도 본사
+서울특별시 영등포구 국제금융로 10, 3IFC 15층 넥스트증권
+지원하러 가기

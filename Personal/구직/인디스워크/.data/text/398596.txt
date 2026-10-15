@@ -1,0 +1,34 @@
+팀 소개
+Data Intelligence Lab은 최신 Deep Learning 알고리즘을 연구/개발하여 고도화 된 데이터 분석 및 예측과 복잡한 데이터의 최적화를 수행합니다.
+이를 통해 산업에 적용할 수 있는 실용적 기술을 통해 그룹의 다양한 사업적 난제를 해결하고, 업무 효율화 및 생산성 향상, 제품 기능 개선을 추진합니다.
+그 중 Ontology 구축 및 활용을 위한 AI 모델을 연구하는 Ontology Intelligence Tech Cell에서 저희와 함께 연구할 Researcher를 찾고 있습니다.
+기업의 지식은 문서, 테이블, 데이터베이스 등 다양한 형태로 분산되어 있으며, LLM과 RAG만으로는 지식 간 의미적 관계와 논리적 일관성을 보장하기 어렵습니다.
+Ontology Intelligence Tech Cell에서는 Ontology와 Knowledge Graph를 기반으로 기업 데이터를 구조화하고, 논리적 검증과 GraphRAG를 결합하여 신뢰할 수 있는 AI 서비스를 만드는 기술을 연구·개발합니다.
+Ontology, Knowledge Graph, LLM을 결합한 AI 시스템을 연구·개선하고, 실제 사용 환경에서 필요한 연구 문제를 정의하고 검증하는 Applied Researcher로 역할하고 성장하실 분을 모집합니다.
+수행 업무
+LLM 기반 Ontology 및 Knowledge Graph 생성·구조화 기술 연구
+Ontology schema/constraint 설계 및 consistency validation/reasoning 기술 개발
+GraphRAG, multi-hop retrieval 및 Knowledge Graph 기반 QA 연구
+EXAONE 등 LLM을 활용한 Knowledge Extraction 및 domain adaptation 연구
+연구 결과를 실제 서비스/API로 확장하기 위한 시스템 개발 및 제품화 협업
+지원자격
+Ontology, Knowledge Graph, Knowledge Representation의 기본 개념과 ontology schema 설계에 대한 이해
+RDF/OWL 및 ontology reasoning·validation에 대한 기본적인 이해
+LLM, Transformer 등 언어모델의 구조와 학습·추론 방식에 대한 이해
+PyTorch 기반 연구 코드를 읽고 실험을 설계·수정·확장·구현할 수 있는 역량
+RAG/GraphRAG 등 knowledge retrieval 기술에 대한 이해
+논문·오픈소스 구현체와 failure case를 분석해 연구 가설 및 개선 방향으로 연결할 수 있는 역량
+우대사항
+Ontology, Knowledge Graph 관련 연구 또는 구현 경험
+LLM 기반 Knowledge Extraction, Ontology Generation 또는 KG Construction 연구 경험
+LLM의 hallucination 또는 knowledge grounding 관련 연구 경험
+NLP, LLM, Knowledge Representation 분야 연구 또는 PoC 경험
+LLM fine-tuning, domain adaptation 또는 evaluation 경험
+모델 서빙·API화·MLOps에 대한 기본적인 이해
+전공
+인공지능, 컴퓨터공학, 전자공학, 전기공학 등
+전형절차
+서류심사 → 코딩테스트(온라인) & LG Way Fit Test(인성검사)→ 기술 인터뷰(비대면) → 최종 Culture Fit Interview(대면)
+* 전형 절차는 변경될 수 있습니다. 서류 합격 시 전형 절차에 대해 별도로 안내 해 드립니다.
+현재 LG AI연구원은 병역지정업체가 아님으로, 전문연구요원 채용 및 전직이 불가함을 알려드립니다.
+지원하러 가기

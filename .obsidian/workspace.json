@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/구직/그룹바이.md",
+                "file": "Dev/meesse/무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "그룹바이"
+              "title": "무제"
             }
           }
         ],
@@ -197,20 +197,22 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false,
-      "templater-obsidian:Templater": false
+      "bases:새 베이스 생성하기": false
     }
   },
-  "active": "bbd37adbb3606c46",
+  "active": "14b376beb1f3cad5",
   "lastOpenFiles": [
+    "Travel/대만/포스팅/야시장 리뷰 2.md",
     "무제 1.md",
     "Personal/구직/그룹바이-진행현황.md",
     "Dev/IDea/책 추천 릴스..md",
     "Dev/IDea/엔비아이(N.BeAI) 기능·서비스 로직 분석.md",
     "Dev/IDea",
+    "Travel/대만/포스팅/야시장 리뷰.md",
     "Personal/Tips/자막번역.md",
     "Personal/Tips",
-    "Personal/구직/구직리서칭방법.md",
+    "Travel/대만/포스팅/칭거우(청구) 야시장 清溝夜市 2.md",
+    "Personal/구직/인스타그램_생각등대.md",
     "Personal/구직/생각등대/09_이벤트_공지.md",
     "Personal/구직/생각등대/08_회사관_마인드셋.md",
     "Personal/구직/생각등대/07_AI시대_커리어_취준전략.md",
@@ -221,23 +223,21 @@
     "Personal/구직/생각등대/02_자기소개서.md",
     "Personal/구직/생각등대/01_이력서.md",
     "Personal/구직/생각등대",
+    "Travel/대만/포스팅/칭거우(청구) 야시장 清溝夜市.md",
+    "Personal/구직/구직리서칭방법.md",
+    "Dev/Idea/책 추천 릴스..md",
+    "Dev/Idea",
     "Personal/구직/그룹바이.md",
-    "Dev/무제.md",
     "Personal/구직/그룹바이-비개발.md",
+    "Personal/구직/그룹바이-수기 1.md",
     "Personal/구직/그룹바이-수기.md",
-    "Personal/구직/test.md",
-    "book/소설/2026/파과.md",
-    "Work/해외서비스-한국기회-리서치-2026-10.md",
     "Work/해외서비스-한국기회-리서치-2차-2026-10.md",
-    "무제.md",
-    "Dev/meesse/무제.md",
     "Dev/meesse",
     "Personal/Youtube/youtube-playlists-after-migration-2026-10-06.json",
     "Personal/Youtube/youtube-migration-verification-2026-10-06.json",
     "Personal/Youtube/youtube-migration-predelete-2026-10-06.json",
     "Personal/Youtube/youtube-migration-missing-links-2026-10-06.json",
     "Personal/Youtube/youtube-migration-backup-2026-10-06.json.partial",
-    "Personal/Youtube/youtube-migration-backup-2026-10-06.json",
     "Pasted image 20260902110704.png",
     "Pasted image 20260902110643.png",
     "Pasted image 20260819193117.png",

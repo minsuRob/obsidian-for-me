@@ -16,11 +16,11 @@ JSON.stringify({blocked:!ok(),title:document.title,due,text:body.slice(0,9000)})
 ```
 
 - **주의: navigate 결과에 나오는 탭 제목은 거의 항상 "[표시 제한] ..."이다. 이것은 초기 서버 렌더링 값이고, 몇 초 뒤 실제 공고로 바뀐다. navigate 결과의 제목은 무시하고 반드시 위 JS를 실행해서 그 결과의 `blocked` 값으로만 판단할 것.**
-- **속도 제한 (중요, 적응형):** 사이트는 빠른 열람을 차단한다. 현재 대기 시간 D(초)를 `/private/tmp/claude-501/-Users-robertlee-Workspace-Personal-obsidian-for-me/0717e407-2481-4534-91b8-f19fd45cde7c/scratchpad/delay.txt` 에서 읽어 시작한다(없으면 120).
+- **속도 제한 (중요, 적응형):** 사이트는 빠른 열람을 차단한다. 현재 대기 시간 D(초)를 `Personal/구직/.groupby-data/delay.txt` 에서 읽어 시작한다(없으면 120).
   - 공고를 하나 저장하면 다음 navigate 전에 D초 쉰다. javascript_tool은 45초 넘으면 시간 초과되므로 `await new Promise(r=>setTimeout(r,30000)); 'ok'` 를 D/30번 반복한다.
   - JS 결과가 `blocked:true`면 저장하지 말고 **D를 30초 늘려**(최대 360초) delay.txt에 즉시 기록한 뒤, 새 D만큼 쉬고 같은 ID를 다시 연다. 같은 ID가 3번 연속 blocked면 그 ID는 건너뛰고(재시도 목록에 적기) 다음 ID로 간다. D가 360초인데도 연속 3번 blocked면 작업을 멈추고 보고한다.
   - D는 줄이지 않는다. 문제없이 열리는 간격을 찾는 것이 목적이다.
-  - 각 navigate 시각과 결과를 `/private/tmp/claude-501/-Users-robertlee-Workspace-Personal-obsidian-for-me/0717e407-2481-4534-91b8-f19fd45cde7c/scratchpad/pace.log` 에 한 줄씩 추가 기록한다 (예: `2026-10-14T18:30:00 id=6827 D=120 ok`).
+  - 각 navigate 시각과 결과를 `Personal/구직/.groupby-data/pace.log` 에 한 줄씩 추가 기록한다 (예: `2026-10-14T18:30:00 id=6827 D=120 ok`).
 - 본문 구조: 회사명/온도/지역/인원·투자단계/분야/한줄소개/복지 → 공고명 → 포지션·경력·특이사항·스킬 → 주요업무 → 자격요건 → 우대사항 → 채용절차 → 근무지(“© NAVER Corp.” 다음 줄이 주소).
 
 ## 2. 공고별 JSON 작성 (추측 금지)
@@ -41,7 +41,7 @@ JSON.stringify({blocked:!ok(),title:document.title,due,text:body.slice(0,9000)})
 
 ## 3. 저장 — 공고 1개 처리할 때마다 즉시
 Bash에서 python3 -I 로 `OUTDIR/<id>.json` 에 json.dump(ensure_ascii=False). 시작 전에 `ls OUTDIR` 해서 이미 파일이 있는 ID는 건너뛴다(재개용).
-OUTDIR = /private/tmp/claude-501/-Users-robertlee-Workspace-Personal-obsidian-for-me/0717e407-2481-4534-91b8-f19fd45cde7c/scratchpad/out
+OUTDIR = Personal/구직/.groupby-data/out
 
 공고가 삭제·마감되어 페이지가 없으면 `{"id":..,"status":"미조사","reason":"페이지 없음/마감"}` 으로 저장.
 

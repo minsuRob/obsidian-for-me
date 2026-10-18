@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travel/대만/포스팅/음식.md",
+                "file": "Personal/SeriesNumber/Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "음식"
+              "title": "Number"
             }
           }
         ]
@@ -188,14 +188,15 @@
   },
   "active": "d026fd9f9a577c30",
   "lastOpenFiles": [
+    "Travel/대만/포스팅/음식.md",
+    "Personal/SeriesNumber/translate.md",
+    "Personal/SeriesNumber/Number.md",
+    "Personal/SeriesNumber",
     "Travel/대만/포스팅/칭거우(청구) 야시장 清溝夜市 2.md",
     "Personal/구직/인디스워크/인디스워크-스타트업-비개발.md",
     "Personal/구직/인디스워크/인디스워크-개요.md",
     "Personal/구직/인디스워크/인디스워크-IT개발.md",
     "Personal/구직/인디스워크",
-    "Personal/SeriesNumber/Number.md",
-    "Travel/대만/포스팅/음식.md",
-    "Personal/SeriesNumber",
     "Dev/Idea/책 추천 릴스..md",
     "[Reducing Mosaic]SNOS-381_ko.srt",
     "[Reducing Mosaic]SNOS-380_ko.srt",
@@ -220,7 +221,6 @@
     "Personal/구직/생각등대/04_포트폴리오_깃헙.md",
     "Personal/구직/생각등대/03_지원동기.md",
     "Personal/구직/생각등대/02_자기소개서.md",
-    "Personal/구직/생각등대/01_이력서.md",
     "Personal/구직/생각등대",
     "Dev/Idea",
     "Dev/meesse",

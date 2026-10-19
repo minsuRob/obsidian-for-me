@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travel/대만/포스팅/음식.md",
+                "file": "Dev/llmWiki/방향성.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "음식"
-            }
-          },
-          {
-            "id": "bbd37adbb3606c46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/meesse/무제.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "무제"
+              "title": "방향성"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +176,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -201,44 +185,44 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "bbd37adbb3606c46",
+  "active": "d026fd9f9a577c30",
   "lastOpenFiles": [
+    "Dev/llmWiki/무제 1.md",
+    "Dev/llmWiki/방향성.md",
+    "Dev/llmWiki",
+    "Travel/대만/포스팅/음식리뷰.md",
+    "Travel/대만/스트리트푸드파이터.md",
+    "Travel/대만/포스팅/음식.md",
+    "Untitled.md",
+    "Work/Robert-LLMWiki/raw/research/AI시대-개발자-성장/web/05-aiagentssimplified-practical-guidance.md",
+    "Travel/대만/금액.md",
+    "Travel/대만/1) 선물줄사람.md",
+    "Personal/SeriesNumber/Number.md",
+    "Personal/SeriesNumber/translate.md",
     "Personal/구직/인디스워크/인디스워크-개요.md",
-    "Personal/구직/인디스워크/인디스워크-IT개발.md",
     "Personal/구직/인디스워크/인디스워크-스타트업-비개발.md",
+    "Personal/구직/인디스워크/인디스워크-IT개발.md",
     "Travel/대만/포스팅/칭거우(청구) 야시장 清溝夜市 2.md",
     "Personal/구직/인디스워크",
-    "Personal/SeriesNumber",
-    "[Reducing Mosaic]SNOS-380_ko.srt",
     "[JASNA_LADA_모파] IPZZ-961 카에데 카렌 NW hhb HD_ko.srt",
+    "Personal/SeriesNumber",
     "[Reducing Mosaic]SNOS-381_ko.srt",
+    "[Reducing Mosaic]SNOS-380_ko.srt",
+    "Dev/meesse/무제.md",
     "Personal/Tips/번역.md",
     "Travel/대만/포스팅/야시장 리뷰 2.md",
     "무제 1.md",
-    "Dev/IDea/엔비아이(N.BeAI) 기능·서비스 로직 분석.md",
-    "Dev/IDea/책 추천 릴스..md",
-    "Dev/IDea",
     "Personal/구직/그룹바이-진행현황.md",
+    "Dev/IDea/책 추천 릴스..md",
+    "Dev/IDea/엔비아이(N.BeAI) 기능·서비스 로직 분석.md",
+    "Dev/IDea",
     "Travel/대만/포스팅/야시장 리뷰.md",
     "Personal/Tips/자막번역.md",
     "Personal/Tips",
-    "Personal/구직/생각등대/09_이벤트_공지.md",
-    "Personal/구직/생각등대/01_이력서.md",
-    "Personal/구직/생각등대/06_면접_질문별_답변.md",
-    "Personal/구직/생각등대/07_AI시대_커리어_취준전략.md",
-    "Personal/구직/생각등대/03_지원동기.md",
-    "Travel/대만/포스팅/칭거우(청구) 야시장 清溝夜市.md",
-    "Personal/구직/생각등대/04_포트폴리오_깃헙.md",
-    "Personal/구직/생각등대/08_회사관_마인드셋.md",
-    "Personal/구직/생각등대/05_면접_태도와_면접관심리.md",
-    "Personal/구직/생각등대/02_자기소개서.md",
     "Personal/구직/인스타그램_생각등대.md",
+    "Personal/구직/생각등대/09_이벤트_공지.md",
     "Personal/구직/생각등대",
-    "Personal/구직/구직리서칭방법.md",
-    "Personal/구직/그룹바이.md",
-    "Personal/구직/그룹바이-비개발.md",
-    "Dev/meesse",
-    "Personal/Youtube/youtube-playlists-after-migration-2026-10-06.json",
+    "Dev/Idea",
     "Pasted image 20260902110704.png",
     "Pasted image 20260902110643.png",
     "Pasted image 20260819193117.png",

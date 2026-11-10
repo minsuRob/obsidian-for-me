@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/구직/test.md",
+                "file": "book/소설/2026/야후.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "야후"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,27 +215,26 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "719af389de3f47f4",
+  "active": "bbd37adbb3606c46",
   "lastOpenFiles": [
-    "book/소설/2026/야후.md",
+    "Personal/구직/test.md",
+    "Travel/대만/포스팅/음식.md",
     "book/소설/2026/야후-이력.md",
-    "Personal/나의 대한 Remind..md",
-    "book/소설/야후.md",
-    "book/소설/2026/ㅣ.md",
-    "Personal/실업급여.md",
-    "Dev/meesse/새로운 아이디어.md",
-    "Dev/meesse/idea.md",
+    "book/소설/2026/야후.md",
+    "book/소설/2026/한 여름의 방정식.md",
     "Personal/SeriesNumber/Number.md",
-    "Personal/SeriesNumber/translate.md",
+    "Pasted image 20261110120214.png",
+    "book/소설/2026/ㅣ.md",
     "Personal/TodoList/26.4Q.md",
+    "Personal/실업급여.md",
+    "Personal/나의 대한 Remind..md",
     "Personal/TodoList/26.11.02 (월).md",
-    "Personal/TodoList/26.11.02.md",
-    "Personal/구직/무제.md",
-    "Personal/TodoList/홍보 아이디어.md",
     "book/소설/2026/한국 단편 문학선1.md",
-    "book/소설/2026/무제.md",
+    "book/소설/2026/희망.md",
+    "Personal/TodoList/홍보 아이디어.md",
     "book/소설/평..md",
-    "book/소설/무제 1.md",
+    "book/소설/무제.md",
+    "Personal/구직/무제.md",
     "Personal/ForYou-자기소개/무제.md",
     "Personal/ForYou-자기소개",
     "Personal/Tips 번역/자막번역.md",
@@ -243,9 +242,11 @@
     "Personal/Tips 번역",
     "Personal/TodoList",
     "무제.md",
-    "Personal/구직/test.md",
+    "Dev/meesse/새로운 아이디어.md",
     "Dev/meesse/무제.md",
     "Dev/meesse/무제 1.md",
+    "Dev/meesse/idea.md",
+    "Personal/SeriesNumber/translate.md",
     "Pasted image 20261020202322.png",
     "Pasted image 20261020202312.png",
     "Personal/ForYou",
